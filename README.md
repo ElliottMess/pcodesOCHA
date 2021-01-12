@@ -4,7 +4,7 @@
 # pcodesOCHA
 
 <!-- badges: start -->
-
+![R-CMD-check](https://github.com/ElliottMess/pcodesOCHA/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of pcodesOCHA is to scrap pcodes from [UNOCHA Common
