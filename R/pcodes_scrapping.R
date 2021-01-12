@@ -50,8 +50,23 @@ all_pcodes_feature_servers <- function(){
       is.na(admin2Name_en) & !is.na(admin2Name_pt) ~ admin2Name_pt,
       !is.na(admin2Name_en) ~ admin2Name_en,
       TRUE ~ NA_character_
-      ))%>%
-    relocate(admin0Name,admin0Pcode, admin1Name,admin1Pcode, admin2Name, admin2Pcode)
+      ),
+    admin3Name = case_when(
+      is.na(admin3Name_en) & !is.na(admin3Name_fr) ~ admin3Name_fr,
+      is.na(admin3Name_en) & !is.na(admin3Name_es) ~ admin3Name_es,
+      is.na(admin3Name_en) & !is.na(admin3Name_pt) ~ admin3Name_pt,
+      !is.na(admin3Name_en) ~ admin3Name_en,
+      TRUE ~ NA_character_
+    ),
+    admin4Name = case_when(
+      is.na(admin4Name_en) & !is.na(admin4Name_fr) ~ admin4Name_fr,
+      is.na(admin4Name_en) & !is.na(admin4Name_es) ~ admin4Name_es,
+      is.na(admin4Name_en) & !is.na(admin4Name_pt) ~ admin4Name_pt,
+      !is.na(admin4Name_en) ~ admin4Name_en,
+      TRUE ~ NA_character_
+    )
+    )%>%
+    relocate(admin0Name,admin0Pcode, admin1Name,admin1Pcode, admin2Name, admin2Pcode, admin3Name, admin3Pcode, admin4Name,admin4Pcode)
 
   return(all_dfs_rearranged)
 
