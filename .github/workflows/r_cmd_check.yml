@@ -8,11 +8,12 @@ on:
   push:
   branches:
   - main
-- master
+  - master
+    
 pull_request:
   branches:
   - main
-- master
+  - master
 
 name: R-CMD-check
 
