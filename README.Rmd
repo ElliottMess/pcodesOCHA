@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# pcodesOCHA
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of pcodesOCHA is to scrap pcodes from [UNOCHA Common Operational Datasets web server](https://gistmaps.itos.uga.edu/arcgis/rest/services)
+
+There is just one function exported: all_pcodes_feature_servers
+Other helper functions are available.
+
+One function implemented partially to scrap geoJSON files: scrap_country_geojson
