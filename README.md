@@ -16,3 +16,9 @@ helper functions are available.
 
 One function implemented partially to scrap geoJSON files:
 scrap\_country\_geojson
+
+the easiest way to use the data is probably by importing directly the data from the raw data in the folder output:
+https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.csv
+
+For instance to read it with readr:
+pcodes <- readr::read_csv("https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.csv")
