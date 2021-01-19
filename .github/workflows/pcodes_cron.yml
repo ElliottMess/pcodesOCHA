@@ -1,13 +1,18 @@
 # Action to scrape OCHA pcodes everyday at 8am
-name: schedule_scrape
 
 # Controls when the action will run. 
 on:
   schedule:
-    - cron:  '0 2 * * 1' # every Monday at 2am
+    - cron:  '0  * * *' # every Monday at 2am
   push:
     branches:
+      - main
       - master
+  pull_request:
+    branches:
+      - main
+      - master
+name: schedule_scrape
 
 jobs:
   generate-data:
