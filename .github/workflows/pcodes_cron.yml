@@ -3,7 +3,7 @@
 # Controls when the action will run. 
 on:
   schedule:
-    - cron:  '0  * * *' # every Monday at 2am
+    - cron:  '0 2 * * MON' # every Monday at 2am
   push:
     branches:
       - main
