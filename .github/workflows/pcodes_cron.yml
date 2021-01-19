@@ -5,6 +5,9 @@ name: schedule_scrape
 on:
   schedule:
     - cron:  '0 2 * * 1' # every Monday at 2am
+  push:
+    branches:
+      - master
 
 jobs:
   generate-data:
@@ -59,4 +62,11 @@ jobs:
       - name: Generate data
         run: |
           readr::write_csv(all_pcodes_feature_servers(), paste0("output/all_pcodes_",Sys.Date(),".csv"))
-        shell: Rscript {0} 
+        shell: Rscript {0}
+              - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -am "add data"
+          git push 
