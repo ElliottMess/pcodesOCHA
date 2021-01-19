@@ -63,10 +63,18 @@ jobs:
         run: |
           readr::write_csv(all_pcodes_feature_servers(), paste0("output/all_pcodes_",Sys.Date(),".csv"))
         shell: Rscript {0}
-              - name: Commit files
+        
+      - name: Commit files
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add --all
           git commit -am "add data"
-          git push 
+          git push
+          
+      - name: Session info
+        run: |
+          options(width = 100)
+          pkgs <- installed.packages()[, "Package"]
+          sessioninfo::session_info(pkgs, include_base = TRUE)
+        shell: Rscript {0}
