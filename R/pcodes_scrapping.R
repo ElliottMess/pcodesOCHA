@@ -194,3 +194,4 @@ scrap_country_geojson <- function(URL){
     return(geo_json)
   }
 }
+

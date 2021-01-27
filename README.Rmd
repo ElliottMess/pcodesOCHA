@@ -24,3 +24,12 @@ There is just one function exported: all_pcodes_feature_servers
 Other helper functions are available.
 
 One function implemented partially to scrap geoJSON files: scrap_country_geojson
+
+the easiest way to use the data is probably by importing directly the data from the raw data in the folder output:
+- CSV : https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.csv
+- JSON : https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.json
+
+For instance to read it with readr: pcodes <- readr::read_csv("https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.csv")
+
+
+
