@@ -1,11 +1,13 @@
-if(!require("pcodesOCHA", character.only = TRUE)){
-  remotes::install_github("ElliottMess/pcodesOCHA")
-  library(pcodesOCHA)
-}
-library()
-library(pcodesOCHA)
+library(httr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(jsonlite)
+library(rvest)
 library(readr)
+library(countrycode)
 library(purrr)
+source("R/pcodes_scrapping")
 
 all_pcodes_df <- all_pcodes()
 all_pcodes_df <- all_pcodes_df[,colSums(is.na(all_pcodes_df))<nrow(all_pcodes_df)] %>%
