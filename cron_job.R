@@ -1,3 +1,8 @@
+if(!require("pcodesOCHA", character.only = TRUE)){
+  remotes::install_github("ElliottMess/pcodesOCHA")
+  library(pcodesOCHA)
+}
+
 library(pcodesOCHA)
 library(readr)
 library(purrr)
