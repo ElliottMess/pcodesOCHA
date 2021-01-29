@@ -6,11 +6,12 @@ Author: Elliott Messeiller <elliott.messeiller@impact-initiatives.org>
 Maintainer: Elliott Messeiller <elliott.messeiller@impact-initiatives.org>
 Description: Scrap pcodes from UNOCHA Common Operational Datasets web server
 Depends:
-  R (>= 3.6),
+  R (>= 3.6)
+Imports:
+  httr,
   dplyr,
   tidyr,
   stringr,
-  httr,
   jsonlite,
   rvest,
   readr,
