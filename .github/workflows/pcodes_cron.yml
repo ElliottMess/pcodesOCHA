@@ -1,8 +1,16 @@
-name: pcodes-cron
-
 on:
   schedule:
     - cron: "0 0 1 * *"
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+name: pcodes-cron
 
 jobs:
   generate-data:
