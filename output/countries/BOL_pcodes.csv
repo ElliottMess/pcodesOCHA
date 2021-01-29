@@ -1,0 +1,340 @@
+OBJECTID,admin3Name_es,admin3Pcode,admin3RefName,admin3AltName1_es,admin3AltName2_es,admin2Name_es,admin2Pcode,admin1Name_es,admin1Pcode,admin0Name_es,admin0Pcode,date,validOn,validTo
+1,Acasio,BO051302,NA,NA,NA,General Bilbao,BO0513,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+2,Achacachi,BO020201,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+3,Achocalla,BO020104,NA,NA,NA,Murillo,BO0201,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+4,Aiquile,BO030201,NA,NA,NA,Campero,BO0302,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+5,Alalay,BO031303,NA,NA,NA,Mizque,BO0313,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+6,Alcalá,BO010404,Alcala,NA,NA,Tomina,BO0104,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+7,Alto Beni,BO022002,NA,NA,NA,Caranavi,BO0220,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+8,Andamarca,BO041201,NA,NA,NA,Sur Carangas,BO0412,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+9,Antequera,BO040603,NA,NA,NA,Poopó,BO0406,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+10,Anzaldo,BO030402,NA,NA,NA,Esteban Arze,BO0304,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+11,Apolo,BO020701,NA,NA,NA,Franz Tamayo,BO0207,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+12,Arampampa,BO051301,NA,NA,NA,General Bilbao,BO0513,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+13,Arani,BO030501,NA,NA,NA,Arani,BO0305,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+14,Arbieto,BO030403,NA,NA,NA,Esteban Arze,BO0304,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+15,Arque,BO030601,NA,NA,NA,Arque,BO0306,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+16,Ascención de Guarayos,BO071501,Ascencion de Guarayos,NA,NA,Guarayos,BO0715,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+17,Atocha,BO050802,NA,NA,NA,Sur Chichas,BO0508,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+18,Aucapata,BO020503,NA,NA,NA,Muñecas,BO0205,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+19,Ayata,BO020502,NA,NA,NA,Muñecas,BO0205,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+20,Ayo Ayo,BO021303,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+21,Ayopaya,BO030301,NA,NA,NA,Ayopaya,BO0303,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+22,Azurduy,BO010201,NA,NA,NA,Azurduy,BO0102,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+23,Batallas,BO021203,NA,NA,NA,Los Andes,BO0212,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+24,Baures,BO080802,NA,NA,NA,Iténez,BO0808,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+25,Belén de Andamarca,BO041202,Belen de Andamarca,NA,NA,Sur Carangas,BO0412,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+26,Bella Flor,BO090104,NA,NA,NA,Nicolás Suárez,BO0901,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+27,Bermejo,BO060202,NA,NA,NA,Arce,BO0602,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+28,Betanzos,BO050301,NA,NA,NA,Cornelio Saavedra,BO0503,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+29,Bolivar,BO031501,NA,NA,NA,Bolivar,BO0315,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+30,Bolpebra,BO090103,NA,NA,NA,Nicolás Suárez,BO0901,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+31,Boyuibe,BO070707,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+32,Buena Vista,BO070401,NA,NA,NA,Ichilo,BO0704,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+33,Cabezas,BO070703,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+34,Cairoma,BO020905,NA,NA,NA,Loayza,BO0209,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+35,"Caiza ""D""",BO051102,NA,NA,NA,José María Linares,BO0511,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+36,Cajuata,BO021003,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+37,Calacoto,BO020303,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+38,Calamarca,BO021304,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+39,Camargo,BO010701,NA,NA,NA,Nor Cinti,BO0107,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+40,Camiri,BO070706,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+41,Capinota,BO030701,NA,NA,NA,Capinota,BO0307,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+42,Caquiaviri,BO020302,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+43,Caracollo,BO040102,NA,NA,NA,Cercado,BO0401,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+44,Caranavi,BO022001,NA,NA,NA,Caranavi,BO0220,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+45,Carangas,BO041503,NA,NA,NA,Mejillones,BO0415,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+46,Caraparí,BO060302,Carapari,NA,NA,Gran Chaco,BO0603,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+47,Caripuyo,BO050702,NA,NA,NA,Alonso de Ibáñez,BO0507,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+48,Catacora,BO021902,NA,NA,NA,General José Manuel Pando,BO0219,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+49,Chacarilla,BO021803,NA,NA,NA,Gualberto Villarroel,BO0218,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+50,Challapata,BO040201,NA,NA,NA,Abaroa,BO0402,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+51,Chaquí,BO050302,Chaqui,NA,NA,Cornelio Saavedra,BO0503,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+52,Charagua,BO070702,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+53,Charaña,BO020305,Charana,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+54,Charazani,BO021601,NA,NA,NA,Bautista Saavedra,BO0216,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+55,Chayanta,BO050202,NA,NA,NA,Rafael Bustillo,BO0502,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+56,Chimoré,BO031204,Chimore,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+57,Chipaya,BO040903,NA,NA,NA,Sabaya,BO0409,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+58,Choquecota,BO040302,NA,NA,NA,Carangas,BO0403,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+59,Chua Cocani,BO020206,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+60,Chulumani,BO021101,NA,NA,NA,Sud Yungas,BO0211,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+61,Chuma,BO020501,NA,NA,NA,Muñecas,BO0205,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+62,Chuquihuta Ayllu Jucumani,BO050204,NA,NA,NA,Rafael Bustillo,BO0502,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+63,Ckochas,BO051103,NA,NA,NA,José María Linares,BO0511,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+64,Cliza,BO030801,NA,NA,NA,Germán Jordán,BO0308,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+65,Cobija,BO090101,NA,NA,NA,Nicolás Suárez,BO0901,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+66,Cocapata,BO030303,NA,NA,NA,Ayopaya,BO0303,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+67,Cochabamba,BO030101,NA,NA,NA,Cercado,BO0301,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+68,Coipasa,BO040902,NA,NA,NA,Sabaya,BO0409,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+69,Colcapirhua,BO030905,NA,NA,NA,Quillacollo,BO0309,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+70,"Colcha ""K""",BO050901,NA,NA,NA,Nor Lipez,BO0509,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+71,Collana,BO021307,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+72,Colomi,BO031002,NA,NA,NA,Chapare,BO0310,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+73,Colpa Bélgica,BO070603,Colpa Belgica,NA,NA,Sara,BO0706,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+74,Colquechaca,BO050401,NA,NA,NA,Chayanta,BO0504,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+75,Colquencha,BO021306,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+76,Colquiri,BO021004,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+77,Comanche,BO020304,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+78,Comarapa,BO071301,NA,NA,NA,Manuel María Caballero,BO0713,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+79,Combaya,BO020605,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+80,Concepción,BO071101,Concepcion,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+81,Copacabana,BO021701,NA,NA,NA,Manco Kapac,BO0217,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+82,Coripata,BO021402,NA,NA,NA,Nor Yungas,BO0214,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+83,Corocoro,BO020301,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+84,Coroico,BO021401,NA,NA,NA,Nor Yungas,BO0214,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+85,Corque,BO040301,NA,NA,NA,Carangas,BO0403,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+86,Cotagaita,BO050601,NA,NA,NA,Nor Chichas,BO0506,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+87,Cotoca,BO070102,NA,NA,NA,Andrés Ibáñez,BO0701,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+88,Cruz de Machacamarca,BO040503,NA,NA,NA,Litoral,BO0405,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+89,Cuatro Cañadas,BO071106,Cuatro Canadas,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+90,Cuevo,BO070704,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+91,Culpina,BO010902,NA,NA,NA,Sur Cinti,BO0109,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+92,Curahuara de Carangas,BO040401,NA,NA,NA,Sajama,BO0404,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+93,Curva,BO021602,NA,NA,NA,Bautista Saavedra,BO0216,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+94,Desaguadero,BO020804,NA,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+95,El Alto,BO020105,NA,NA,NA,Murillo,BO0201,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+96,El Carmen Rivero Tórrez,BO071403,El Carmen Rivero Torrez,NA,NA,Germán Busch,BO0714,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+97,El Choro,BO040103,NA,NA,NA,Cercado,BO0401,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+98,El Puente,BO060502,NA,NA,NA,Méndez,BO0605,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+99,El Puente,BO071503,NA,NA,NA,Guarayos,BO0715,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+100,El Torno,BO070105,NA,NA,NA,Andrés Ibáñez,BO0701,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+101,El Villar,BO010405,NA,NA,NA,Tomina,BO0104,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+102,Entre Ríos,BO031206,Entre Rios,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+103,Entre Ríos,BO060601,Entre Rios,NA,NA,O'Connor,BO0606,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+104,Escara,BO040502,NA,NA,NA,Litoral,BO0405,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+105,Escoma,BO020405,NA,NA,NA,Camacho,BO0204,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+106,Esmeralda,BO040505,NA,NA,NA,Litoral,BO0405,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+107,Eucaliptus,BO041101,NA,NA,NA,Tomás Barrón,BO0411,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+108,Exaltación,BO080402,Exaltacion,NA,NA,Yacuma,BO0804,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+109,Fernández Alonso,BO071004,Fernandez Alonso,NA,NA,Obispo Santistéban,BO0710,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+110,Filadelfia,BO090203,NA,NA,NA,Manuripi,BO0902,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+111,General Saavedra,BO071002,NA,NA,NA,Obispo Santistéban,BO0710,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+112,Guanay,BO020602,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+113,Guayaramerín,BO080202,Guayaramerin,NA,NA,Vaca Diez,BO0802,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+114,Gutiérrez,BO070705,Gutierrez,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+115,Huacaraje,BO080803,NA,NA,NA,Iténez,BO0808,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+116,Huacareta,BO010502,NA,NA,NA,Hernando Siles,BO0105,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+117,Huacaya,BO011002,NA,NA,NA,Luis Calvo,BO0110,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+118,Huachacalla,BO040501,NA,NA,NA,Litoral,BO0405,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+119,Huanuni,BO040701,NA,NA,NA,Pantaleón Dalence,BO0407,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+120,Huarina,BO020203,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+121,Huatajata,BO020205,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+122,Huayllamarca,BO041601,NA,NA,NA,Nor Carangas,BO0416,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+123,Humanata,BO020404,NA,NA,NA,Camacho,BO0204,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+124,Ichoca,BO021005,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+125,Incahuasi,BO010703,NA,NA,NA,Nor Cinti,BO0107,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+126,Ingavi,BO090402,NA,NA,NA,Abuná,BO0904,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+127,Inquisivi,BO021001,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+128,Irupana,BO021102,NA,NA,NA,Sud Yungas,BO0211,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+129,Ixiamas,BO021501,NA,NA,NA,Abel Iturralde,BO0215,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+130,Jesús de Machaka,BO020806,Jesus de Machaka,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+131,La (Marka) San Andrés de Machaca,BO020805,La (Marka) San Andres de Machaca,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+132,La Asunta,BO021105,NA,NA,NA,Sud Yungas,BO0211,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+133,La Guardia,BO070104,NA,NA,NA,Andrés Ibáñez,BO0701,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+134,La Rivera,BO041501,NA,NA,NA,Mejillones,BO0415,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+135,Lagunillas,BO070701,NA,NA,NA,Cordillera,BO0707,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+136,Laja,BO021202,NA,NA,NA,Los Andes,BO0212,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+137,Las Carreras,BO010903,NA,NA,NA,Sur Cinti,BO0109,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+138,Llallagua,BO050203,NA,NA,NA,Rafael Bustillo,BO0502,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+139,Llica,BO051401,NA,NA,NA,Daniel Campos,BO0514,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+140,Loreto,BO080601,NA,NA,NA,Marbán,BO0806,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+141,Luribay,BO020901,NA,NA,NA,Loayza,BO0209,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+142,Machacamarca,BO040702,NA,NA,NA,Pantaleón Dalence,BO0407,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+143,Macharetí,BO011003,Machareti,NA,NA,Luis Calvo,BO0110,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+144,Magdalena,BO080801,NA,NA,NA,Iténez,BO0808,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+145,Mairana,BO070903,NA,NA,NA,Florida,BO0709,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+146,Malla,BO020904,NA,NA,NA,Loayza,BO0209,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+147,Mapiri,BO020607,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+148,Mecapaca,BO020103,NA,NA,NA,Murillo,BO0201,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+149,Mineros,BO071003,NA,NA,NA,Obispo Santistéban,BO0710,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+150,Mizque,BO031301,NA,NA,NA,Mizque,BO0313,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+151,Mocomoco,BO020402,NA,NA,NA,Camacho,BO0204,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+152,Mojinete,BO051002,NA,NA,NA,Sur Lipez,BO0510,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+153,Mojocoya,BO010303,NA,NA,NA,Zudáñez,BO0103,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+154,Monteagudo,BO010501,NA,NA,NA,Hernando Siles,BO0105,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+155,Montero,BO071001,NA,NA,NA,Obispo Santistéban,BO0710,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+156,Morochata,BO030302,NA,NA,NA,Ayopaya,BO0303,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+157,Moromoro,BO070803,NA,NA,NA,Vallegrande,BO0708,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+158,Nazacara de Pacajes,BO020307,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+159,Nuestra Señora de La Paz,BO020101,Nuestra Senora de La Paz,NA,NA,Murillo,BO0201,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+160,Nueva Esperanza,BO090501,NA,NA,NA,Federico Román,BO0905,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+161,Ocurí,BO050404,Ocuri,NA,NA,Chayanta,BO0504,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+162,Okinawa Uno,BO070202,NA,NA,NA,Warnes,BO0702,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+163,Omereque,BO030203,NA,NA,NA,Campero,BO0302,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+164,Oruro,BO040101,NA,NA,NA,Cercado,BO0401,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+165,Padcaya,BO060201,NA,NA,NA,Arce,BO0602,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+166,Padilla,BO010401,NA,NA,NA,Tomina,BO0104,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+167,Pailón,BO070502,Pailon,NA,NA,Chiquitos,BO0705,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+168,Palca,BO020102,NA,NA,NA,Murillo,BO0201,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+169,Palos Blancos,BO021104,NA,NA,NA,Sud Yungas,BO0211,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+170,Pampa Aullagas,BO040802,NA,NA,NA,Ladislao Cabrera,BO0408,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+171,Pampa Grande,BO070902,NA,NA,NA,Florida,BO0709,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+172,Papel Pampa,BO021802,NA,NA,NA,Gualberto Villarroel,BO0218,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+173,Paria,BO040104,NA,NA,NA,Cercado,BO0401,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+174,Pasorapa,BO030202,NA,NA,NA,Campero,BO0302,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+175,Patacamaya,BO021305,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+176,Pazña,BO040602,Pazna,NA,NA,Poopó,BO0406,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+177,Pelechuco,BO020702,NA,NA,NA,Franz Tamayo,BO0207,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+178,Pocoata,BO050403,NA,NA,NA,Chayanta,BO0504,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+179,Pocona,BO031203,NA,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+180,Pojo,BO031202,NA,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+181,Poopó,BO040601,Poopo,NA,NA,Poopó,BO0406,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+182,Porco,BO051203,NA,NA,NA,Antonio Quijarro,BO0512,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+183,Poroma,BO010103,NA,NA,NA,Oropeza,BO0101,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+184,Porongo,BO070103,NA,NA,NA,Andrés Ibáñez,BO0701,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+185,Portachuelo,BO070601,NA,NA,NA,Sara,BO0706,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+186,Porvenir,BO090102,NA,NA,NA,Nicolás Suárez,BO0901,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+187,Postrervalle,BO070804,NA,NA,NA,Vallegrande,BO0708,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+188,Potosí,BO050101,Potosi,NA,NA,Tomás Frías,BO0501,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+189,Presto,BO010302,NA,NA,NA,Zudáñez,BO0103,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+190,Pucará,BO070805,Pucara,NA,NA,Vallegrande,BO0708,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+191,Pucarani,BO021201,NA,NA,NA,Los Andes,BO0212,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+192,Puerto Acosta,BO020401,NA,NA,NA,Camacho,BO0204,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+193,Puerto Gonzalo Moreno,BO090301,NA,NA,NA,Madre de Dios,BO0903,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+194,Puerto Mayor de Carabuco,BO020403,NA,NA,NA,Camacho,BO0204,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+195,Puerto Mayor de Guaqui,BO020802,NA,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+196,Puerto Menor de Rurrenabaque,BO080304,NA,NA,NA,General José Ballivián,BO0803,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+197,Puerto Pérez,BO021204,Puerto Perez,NA,NA,Los Andes,BO0212,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+198,Puerto Quijarro,BO071402,NA,NA,NA,Germán Busch,BO0714,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+199,Puerto Rico,BO090201,NA,NA,NA,Manuripi,BO0902,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+200,Puerto Siles,BO080703,NA,NA,NA,Mamoré,BO0807,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+201,Puerto Suarez,BO071401,NA,NA,NA,Germán Busch,BO0714,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+202,Puerto Villarroel,BO031205,NA,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+203,Puna,BO051101,NA,NA,NA,José María Linares,BO0511,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+204,Punata,BO031401,NA,NA,NA,Punata,BO0314,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+205,Quiabaya,BO020604,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+206,Quillacollo,BO030901,NA,NA,NA,Quillacollo,BO0309,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+207,Quime,BO021002,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+208,Quirusillas,BO070904,NA,NA,NA,Florida,BO0709,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+209,Ravelo,BO050402,NA,NA,NA,Chayanta,BO0504,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+210,Reyes,BO080301,NA,NA,NA,General José Ballivián,BO0803,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+211,Riberalta,BO080201,NA,NA,NA,Vaca Diez,BO0802,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+212,Roboré,BO070503,Robore,NA,NA,Chiquitos,BO0705,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+213,Sabaya,BO040901,NA,NA,NA,Sabaya,BO0409,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+214,Sacaba,BO031001,NA,NA,NA,Chapare,BO0310,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+215,Sacabamba,BO030404,NA,NA,NA,Esteban Arze,BO0304,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+216,Sacaca,BO050701,NA,NA,NA,Alonso de Ibáñez,BO0507,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+217,Saipina,BO071302,NA,NA,NA,Manuel María Caballero,BO0713,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+218,Salinas de Garcí Mendoza,BO040801,Salinas de Garci Mendoza,NA,NA,Ladislao Cabrera,BO0408,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+219,Samaipata,BO070901,NA,NA,NA,Florida,BO0709,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+220,San Agustín,BO051601,San Agustin,NA,NA,Enrique Baldivieso,BO0516,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+221,San Andrés,BO080602,San Andres,NA,NA,Marbán,BO0806,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+222,San Antonio de Esmoruco,BO051003,NA,NA,NA,Sur Lipez,BO0510,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+223,San Antonio de Lomerio,BO071104,NA,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+224,San Benito,BO031403,NA,NA,NA,Punata,BO0314,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+225,San Borja,BO080302,NA,NA,NA,General José Ballivián,BO0803,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+226,San Buenaventura,BO021502,NA,NA,NA,Abel Iturralde,BO0215,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+227,San Carlos,BO070402,NA,NA,NA,Ichilo,BO0704,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+228,San Ignacio,BO070301,NA,NA,NA,Velasco,BO0703,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+229,San Ignacio,BO080501,NA,NA,NA,Moxos,BO0805,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+230,San Javier,BO071102,NA,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+231,San Javier,BO080102,NA,NA,NA,Cercado,BO0801,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+232,San Joaquín,BO080701,San Joaquin,NA,NA,Mamoré,BO0807,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+233,San José,BO070501,San Jose,NA,NA,Chiquitos,BO0705,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+234,San Juan,BO070404,NA,NA,NA,Ichilo,BO0704,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+235,San Julián,BO071103,San Julian,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+236,San Lorenzo,BO060501,NA,NA,NA,Méndez,BO0605,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+237,San Lorenzo,BO090302,NA,NA,NA,Madre de Dios,BO0903,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+238,San Lucas,BO010702,NA,NA,NA,Nor Cinti,BO0107,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+239,San Matías,BO071201,San Matias,NA,NA,Angel Sandoval,BO0712,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+240,San Miguel,BO070302,NA,NA,NA,Velasco,BO0703,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+241,San Pablo,BO051001,NA,NA,NA,Sur Lipez,BO0510,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+242,San Pedro,BO050501,NA,NA,NA,Chárcas,BO0505,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+243,San Pedro,BO071005,NA,NA,NA,Obispo Santistéban,BO0710,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+244,San Pedro,BO090202,NA,NA,NA,Manuripi,BO0902,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+245,San Pedro de Curahuara,BO021801,NA,NA,NA,Gualberto Villarroel,BO0218,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+246,San Pedro de Quemes,BO050902,NA,NA,NA,Nor Lipez,BO0509,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+247,San Pedro de Tiquina,BO021702,NA,NA,NA,Manco Kapac,BO0217,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+248,San Rafael,BO070303,NA,NA,NA,Velasco,BO0703,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+249,San Ramón,BO071105,San Ramon,NA,NA,Ñuflo De Chávez,BO0711,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+250,San Ramón,BO080702,San Ramon,NA,NA,Mamoré,BO0807,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+251,Santa Ana,BO080401,NA,NA,NA,Yacuma,BO0804,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+252,Santa Cruz de la Sierra,BO070101,NA,NA,NA,Andrés Ibáñez,BO0701,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+253,Santa Rosa,BO070602,NA,NA,NA,Sara,BO0706,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+254,Santa Rosa,BO080303,NA,NA,NA,General José Ballivián,BO0803,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+255,Santa Rosa,BO090401,NA,NA,NA,Abuná,BO0904,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+256,Santiago de Callapa,BO020308,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+257,Santiago de Huari,BO041401,NA,NA,NA,Sebastián Pagador,BO0414,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+258,Santiago de Huata,BO020204,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+259,Santiago de Machaca,BO021901,NA,NA,NA,General José Manuel Pando,BO0219,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+260,Santivañez,BO030702,Santivanez,NA,NA,Capinota,BO0307,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+261,Santos Mercado,BO090503,NA,NA,NA,Federico Román,BO0905,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+262,Santuario de Quillacas,BO040202,NA,NA,NA,Abaroa,BO0402,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+263,Sapahaqui,BO020902,NA,NA,NA,Loayza,BO0209,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+264,Sena,BO090303,NA,NA,NA,Madre de Dios,BO0903,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+265,Shinahota,BO031602,NA,NA,NA,Tiraque,BO0316,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+266,Sicasica,BO021301,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+267,Sicaya,BO030703,NA,NA,NA,Capinota,BO0307,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+268,Sipesipe,BO030902,NA,NA,NA,Quillacollo,BO0309,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+269,Sopachui,BO010403,NA,NA,NA,Tomina,BO0104,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+270,Sorata,BO020601,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+271,Sucre,BO010101,NA,NA,NA,Oropeza,BO0101,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+272,Tacachi,BO031404,NA,NA,NA,Punata,BO0314,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+273,Tacacoma,BO020603,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+274,Tacobamba,BO050303,NA,NA,NA,Cornelio Saavedra,BO0503,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+275,Tacopaya,BO030602,NA,NA,NA,Arque,BO0306,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+276,Tahua,BO051402,NA,NA,NA,Daniel Campos,BO0514,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+277,Tapacarí,BO031101,Tapacari,NA,NA,Tapacarí,BO0311,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+278,Tarabuco,BO010601,NA,NA,NA,Yamparáez,BO0106,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+279,Taraco,BO020807,NA,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+280,Tarata,BO030401,NA,NA,NA,Esteban Arze,BO0304,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+281,Tarija,BO060101,NA,NA,NA,Cercado,BO0601,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+282,Tarvita,BO010202,NA,NA,NA,Azurduy,BO0102,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+283,Teoponte,BO020608,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+284,Tiahuanacu,BO020803,NA,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+285,Tinguipaya,BO050102,NA,NA,NA,Tomás Frías,BO0501,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+286,Tipuani,BO020606,NA,NA,NA,Larecaja,BO0206,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+287,Tiquipaya,BO030903,NA,NA,NA,Quillacollo,BO0309,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+288,Tiraque,BO031601,NA,NA,NA,Tiraque,BO0316,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+289,Tito Yupanqui,BO021703,NA,NA,NA,Manco Kapac,BO0217,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+290,Toco,BO030802,NA,NA,NA,Germán Jordán,BO0308,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+291,Todos Santos,BO041502,NA,NA,NA,Mejillones,BO0415,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+292,Tolata,BO030803,NA,NA,NA,Germán Jordán,BO0308,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+293,Toledo,BO041001,NA,NA,NA,Saucarí,BO0410,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+294,Tomave,BO051202,NA,NA,NA,Antonio Quijarro,BO0512,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+295,Tomina,BO010402,NA,NA,NA,Tomina,BO0104,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+296,Toro Toro,BO050502,NA,NA,NA,Chárcas,BO0505,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+297,Totora,BO031201,NA,NA,NA,Carrasco,BO0312,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+298,Totora,BO041301,NA,NA,NA,San Pedro de Totora,BO0413,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+299,Trigal,BO070802,NA,NA,NA,Vallegrande,BO0708,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+300,Trinidad,BO080101,NA,NA,NA,Cercado,BO0801,Beni,BO08,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+301,Tupiza,BO050801,NA,NA,NA,Sur Chichas,BO0508,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+302,Turco,BO040402,NA,NA,NA,Sajama,BO0404,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+303,Umala,BO021302,NA,NA,NA,Aroma,BO0213,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+304,Uncía,BO050201,Uncia,NA,NA,Rafael Bustillo,BO0502,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+305,Uriondo,BO060401,NA,NA,NA,Avilés,BO0604,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+306,Urmiri,BO050104,NA,NA,NA,Tomás Frías,BO0501,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+307,Urubicha,BO071502,NA,NA,NA,Guarayos,BO0715,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+308,Uyuni,BO051201,NA,NA,NA,Antonio Quijarro,BO0512,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+309,Vacas,BO030502,NA,NA,NA,Arani,BO0305,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+310,Vallegrande,BO070801,NA,NA,NA,Vallegrande,BO0708,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+311,Viacha,BO020801,NA,NA,NA,Ingavi,BO0208,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+312,Vila Vila,BO031302,NA,NA,NA,Mizque,BO0313,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+313,Villa Abecia,BO010901,NA,NA,NA,Sur Cinti,BO0109,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+314,Villa Ancoraimes,BO020202,NA,NA,NA,Omasuyos,BO0202,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+315,Villa Charcas,BO010704,NA,NA,NA,Nor Cinti,BO0107,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+316,Villa Gualberto Villarroel,BO031405,NA,NA,NA,Punata,BO0314,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+317,Villa Libertad Licoma,BO021006,NA,NA,NA,Inquisivi,BO0210,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+318,Villa Montes,BO060303,NA,NA,NA,Gran Chaco,BO0603,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+319,Villa Nueva,BO090502,NA,NA,NA,Federico Román,BO0905,Pando,BO09,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+320,Villa Ricardo Mugia - Icla,BO010304,NA,NA,NA,Zudáñez,BO0103,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+321,Villa Rivero,BO031402,NA,NA,NA,Punata,BO0314,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+322,Villa Serrano,BO010801,NA,NA,NA,Belisario Boeto,BO0108,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+323,Villa Tunari,BO031003,NA,NA,NA,Chapare,BO0310,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+324,Villa Vaca Guzmán,BO011001,Villa Vaca Guzman,NA,NA,Luis Calvo,BO0110,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+325,Villazón,BO051501,Villazon,NA,NA,Modesto Omiste,BO0515,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+326,Vinto,BO030904,NA,NA,NA,Quillacollo,BO0309,Cochabamba,BO03,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+327,Vitiche,BO050602,NA,NA,NA,Nor Chichas,BO0506,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+328,Waldo Ballivian,BO020306,NA,NA,NA,Pacajes,BO0203,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+329,Warnes,BO070201,NA,NA,NA,Warnes,BO0702,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+330,Yaco,BO020903,NA,NA,NA,Loayza,BO0209,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+331,Yacuiba,BO060301,NA,NA,NA,Gran Chaco,BO0603,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+332,Yamparáez,BO010602,Yamparaez,NA,NA,Yamparáez,BO0106,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+333,Yanacachi,BO021103,NA,NA,NA,Sud Yungas,BO0211,La Paz,BO02,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+334,Yapacaní,BO070403,Yapacani,NA,NA,Ichilo,BO0704,Santa Cruz,BO07,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+335,Yocalla,BO050103,NA,NA,NA,Tomás Frías,BO0501,Potosí,BO05,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+336,Yotala,BO010102,NA,NA,NA,Oropeza,BO0101,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+337,Yunchará,BO060402,Yunchara,NA,NA,Avilés,BO0604,Tarija,BO06,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+338,Yunguyo del Litoral,BO040504,NA,NA,NA,Litoral,BO0405,Oruro,BO04,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA
+339,Zudañez,BO010301,Zudanez,NA,NA,Zudáñez,BO0103,Chuquisaca,BO01,Bolivia (Estado Plurinacional de),BO,1523923200000,1589414400000,NA

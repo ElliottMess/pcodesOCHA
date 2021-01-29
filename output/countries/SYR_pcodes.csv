@@ -1,0 +1,274 @@
+OBJECTID,admin3Name_en,admin3Name_ar,admin3Pcode,admin3RefName,admin3AltName1_en,admin3AltName2_en,admin3AltName1_ar,admin3AltName2_ar,admin2Name_en,admin2Name_ar,admin2Pcode,admin1Name_en,admin1Name_ar,admin1Pcode,admin0Name_en,admin0Name_ar,admin0Pcode,date,validOn,validTo
+1,A'rima,عريمة,SY020206,Arima,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+2,A'zaz,مركز اعزاز,SY020400,Azaz,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+3,Abu Kamal,مركز البوكمال,SY090200,NA,NA,NA,NA,NA,Abu Kamal,البوكمال,SY0902,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+4,Abu Qalqal,أبو قلقل,SY020501,NA,NA,NA,NA,NA,Menbij,منبج,SY0205,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+5,Abul Thohur,أبو الظهور,SY070001,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+6,Afrin,مركز عفرين,SY020300,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+7,Aghtrin,اخترين,SY020401,NA,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+8,Ain al Arab,مركز عين العرب,SY020600,NA,NA,NA,NA,NA,Ain Al Arab,عين العرب,SY0206,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+9,Al-Butayhah,البطيحة,SY140201,NA,NA,NA,NA,NA,Al Fiq,فيق,SY1402,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+10,Al-Haffa,مركزالحفة,SY060300,NA,NA,NA,NA,NA,Al-Haffa,الحفة,SY0603,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+11,Al-Hasakeh,مركز الحسكة,SY080000,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+12,Al-Khafsa,الخفسة,SY020502,NA,NA,NA,NA,NA,Menbij,منبج,SY0205,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+13,Al-Khashniyyeh,الخشنية,SY140002,NA,NA,NA,NA,NA,Quneitra,مركز القنيطرة,SY1400,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+14,Al-Malikeyyeh,مركز المالكية,SY080300,NA,NA,NA,NA,NA,Al-Malikeyyeh,المالكية,SY0803,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+15,Al-Qardaha,مركز القرداحة,SY060400,NA,NA,NA,NA,NA,Al-Qardaha,القرداحة,SY0604,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+16,Al-Qusayr,مركز القصير,SY040200,NA,NA,NA,NA,NA,Al-Qusayr,القصير,SY0402,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+17,Al-Thawrah,مركز الثورة,SY110300,NA,NA,NA,NA,NA,Ath-Thawrah,الثورة,SY1103,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+18,Al Bab,مركز الباب,SY020200,NA,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+19,Al Makhrim,المخرم,SY040600,NA,NA,NA,NA,NA,Al Makhrim,المخرم,SY0406,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+20,Al Mayadin,مركز الميادين,SY090300,NA,NA,NA,NA,NA,Al Mayadin,الميادين,SY0903,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+21,Al Qutayfah,مركز القطيفة,SY030300,NA,NA,NA,NA,NA,Al Qutayfah,القطيفة,SY0303,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+22,Amuda,عامودا,SY080202,NA,NA,NA,NA,NA,Quamishli,القامشلي,SY0802,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+23,An Nabk,مركز النبك,SY030600,NA,NA,NA,NA,NA,An Nabk,النبك,SY0306,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+24,Anaza,العنازة,SY100601,NA,NA,NA,NA,NA,Qadmous,القدموس,SY1006,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+25,Ar-Ra'ee,الراعي,SY020203,Ar-Raee,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+26,Ar-Raqqa,مركز الرقة,SY110100,NA,NA,NA,NA,NA,Ar-Raqqa,مركز الرقة,SY1101,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+27,Ar-Rastan,مركز الرستن,SY040400,NA,NA,NA,NA,NA,Ar-Rastan,الرستن,SY0404,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+28,Arbin,عربين,SY030106,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+29,Areesheh,العريشة,SY080005,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+30,Ariha,مركز أريحا,SY070500,NA,NA,NA,NA,NA,Ariha,أريحا,SY0705,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+31,Ariqa,العريقة,SY130302,NA,NA,NA,NA,NA,Shahba,شهبا,SY1303,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+32,Armanaz,أرمناز,SY070305,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+33,Arwad,أرواد,SY100001,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+34,As-Saan,السعن,SY050302,NA,NA,NA,NA,NA,As-Salamiyeh,السلمية,SY0503,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+35,As-Safira,مركز السفيرة,SY020700,NA,NA,NA,NA,NA,As-Safira,السفيرة,SY0207,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+36,As-Salamiyeh,مركز السلمية,SY050300,NA,NA,NA,NA,NA,As-Salamiyeh,السلمية,SY0503,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+37,As-Sanamayn,مركز الصنمين,SY120200,NA,NA,NA,NA,NA,As-Sanamayn,الصنمين,SY1202,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+38,As-Suqaylabiyah,مركز السقيلبية,SY050200,NA,NA,NA,NA,NA,As-Suqaylabiyah,السقيلبية,SY0502,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+39,As-Sweida,مركز السويداء,SY130000,NA,NA,NA,NA,NA,As-Sweida,مركز السويداء,SY1300,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+40,Ash-Shajara,الشجرة,SY120003,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+41,Ashara,عشارة,SY090302,NA,NA,NA,NA,NA,Al Mayadin,الميادين,SY0903,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+42,At Tall,مركز التل,SY030400,NA,NA,NA,NA,NA,At Tall,التل,SY0304,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+43,Atareb,أتارب,SY020001,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+44,Az-Zabdani,مركز الزبداني,SY030700,NA,NA,NA,NA,NA,Az-Zabdani,الزبداني,SY0307,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+45,Babella,ببيلا,SY030102,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+46,Badama,بداما,SY070401,NA,NA,NA,NA,NA,Jisr-Ash-Shugur,جسر الشغور,SY0704,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+47,Bahlolieh,البهلولية,SY060001,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+48,Bait Jan,بيت جن,SY030801,NA,NA,NA,NA,NA,Qatana,قطنا,SY0308,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+49,Banan,بنان,SY020702,NA,NA,NA,NA,NA,As-Safira,السفيرة,SY0207,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+50,Banyas,مركز بانياس,SY100200,NA,NA,NA,NA,NA,Banyas,بانياس,SY1002,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+51,Baramanet Elmashayekh,برمانة المشايخ,SY100501,NA,NA,NA,NA,NA,Sheikh Badr,الشيخ بدر,SY1005,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+52,Bariqiyeh,البارقية,SY100302,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+53,Basira,بصيرة,SY090102,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+54,Be'r Al-Hulo Al-Wardeyyeh,بئر الحلو الوردية,SY080004,Ber Al-Hulo Al-Wardeyyeh,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+55,Beit Yashout,بيت ياشوط,SY060205,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+56,Bennsh,بنش,SY070002,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+57,Bulbul,بلبل,SY020301,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+58,Busra Esh-Sham,بصرى الشام,SY120001,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+59,Da'el,داعل,SY120004,Dael,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+60,Dalyeh,دالية,SY060204,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+61,Damascus,دمشق,SY010000,NA,NA,NA,NA,NA,Damascus,دمشق,SY0100,Damascus,دمشق,SY01,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+62,Dana,دانا,SY070301,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+63,Dar'a,مركز درعا,SY120000,Dara,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+64,Darbasiyah,درباسية,SY080401,NA,NA,NA,NA,NA,Ras Al Ain,رأس العين,SY0804,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+65,Daret Azza,دارة عزة,SY020004,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+66,Darkosh,دركوش,SY070402,NA,NA,NA,NA,NA,Jisr-Ash-Shugur,جسر الشغور,SY0704,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+67,Dayr Hafir,دير حافر,SY020202,NA,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+68,Deir-ez-Zor,مركز دير الزور,SY090100,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+69,Deir Attiyeh,دير عطية,SY030601,NA,NA,NA,NA,NA,An Nabk,النبك,SY0306,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+70,Dhameer,الضمير,SY030203,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+71,Dimas,الديماس,SY030701,NA,NA,NA,NA,NA,Az-Zabdani,الزبداني,SY0307,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+72,Dreikish,مركز دريكيش,SY100400,NA,NA,NA,NA,NA,Dreikish,دريكيش,SY1004,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+73,Duma,مركز دوما,SY030200,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+74,Dweir Raslan,دوير رسلان,SY100403,NA,NA,NA,NA,NA,Dreikish,دريكيش,SY1004,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+75,Eastern Bari,بري شرقي,SY050301,NA,NA,NA,NA,NA,As-Salamiyeh,السلمية,SY0503,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+76,Eastern Kwaires ,كويرس شرقي,SY020204,NA,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+77,Ehsem,احسم,SY070501,NA,NA,NA,NA,NA,Ariha,أريحا,SY0705,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+78,Ein El-Bayda,عين البيضا,SY060003,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+79,Ein Elfijeh,عين الفيجة,SY030702,NA,NA,NA,NA,NA,Az-Zabdani,الزبداني,SY0307,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+80,Ein Elniser,عين النسر,SY040103,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+81,Ein Elsharqiyeh,عين الشرقية,SY060201,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+82,Ein Et-teeneh,عين التينة,SY060302,NA,NA,NA,NA,NA,Al-Haffa,الحفة,SY0603,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+83,Ein Halaqim,عين حلاقيم,SY050403,NA,NA,NA,NA,NA,Masyaf,مصياف,SY0504,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+84,Ein Issa,عين عيسى,SY110202,NA,NA,NA,NA,NA,Tell Abiad,تل أبيض,SY1102,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+85,Ein Shaqaq,عين شقاق,SY060203,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+86,Esal El-Ward,عسال الورد,SY030501,NA,NA,NA,NA,NA,Yabroud,يبرود,SY0305,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+87,Fakhura,الفاخورة,SY060402,NA,NA,NA,NA,NA,Al-Qardaha,القرداحة,SY0604,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+88,Farqalas,الفرقلس,SY040104,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+89,Fiq,مركز فيق,SY140200,NA,NA,NA,NA,NA,Al Fiq,فيق,SY1402,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+90,Ghabagheb,غباغب,SY120202,NA,NA,NA,NA,NA,As-Sanamayn,الصنمين,SY1202,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+91,Ghandorah,غندورة,SY020801,NA,NA,NA,NA,NA,Jarablus,جرابلس,SY0208,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+92,Gharyeh,الغارية,SY130202,NA,NA,NA,NA,NA,Salkhad,صلخد,SY1302,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+93,Ghizlaniyyeh,الغزلانية,SY030205,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+94,Hadher,الحاضر,SY020006,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+95,Hadideh,حديدة,SY040301,NA,NA,NA,NA,NA,Tall Kalakh,تلكلخ,SY0403,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+96,Hajar Aswad,الحجر الأسود,SY030902,NA,NA,NA,NA,NA,Darayya,داريا,SY0309,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+97,Hajeb,الحاجب,SY020703,NA,NA,NA,NA,NA,As-Safira,السفيرة,SY0207,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+98,Hajin,هجين,SY090201,NA,NA,NA,NA,NA,Abu Kamal,البوكمال,SY0902,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+99,Hama,مركز حماة,SY050100,NA,NA,NA,NA,NA,Hama,مركز حماة,SY0501,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+100,Hamam Wasil,حمام واصل,SY100603,NA,NA,NA,NA,NA,Qadmous,القدموس,SY1006,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+101,Hameidiyyeh,الحميدية,SY100002,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+102,Hamin,حمين,SY100402,NA,NA,NA,NA,NA,Dreikish,دريكيش,SY1004,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+103,Hamra,الحمراء,SY050103,NA,NA,NA,NA,NA,Hama,مركز حماة,SY0501,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+104,Hanadi,هنادي,SY060006,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+105,Haran Al'awameed,حران العواميد,SY030206,Haran Alawameed,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+106,Harasta,حرستا,SY030201,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+107,Harbanifse,حربنفسه,SY050102,NA,NA,NA,NA,NA,Hama,مركز حماة,SY0501,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+108,Harf Elmseitra,حرف المسيترة,SY060401,NA,NA,NA,NA,NA,Al-Qardaha,القرداحة,SY0604,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+109,Harim,مركز حارم,SY070300,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+110,Haritan,حريتان,SY020003,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+111,Hasyaa,حسياء,SY040108,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+112,Hawash,الحواش,SY040304,NA,NA,NA,NA,NA,Tall Kalakh,تلكلخ,SY0403,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+113,Heish,حيش,SY070205,NA,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+114,Hole,الهول,SY080006,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+115,Homs,مركز حمص,SY040100,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+116,Hrak,الحراك,SY120302,NA,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+117,Idleb,مركز إدلب,SY070000,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+118,Izra',مركز ازرع,SY120300,Izra,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+119,Jablah,مركز جبلة,SY060200,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+120,Jalaa,الجلاء,SY090202,NA,NA,NA,NA,NA,Abu Kamal,البوكمال,SY0902,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+121,Jandairis,جنديرس,SY020302,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+122,Janudiyeh,الجانودية,SY070403,NA,NA,NA,NA,NA,Jisr-Ash-Shugur,جسر الشغور,SY0704,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+123,Jarablus,مركز جرابلس,SY020800,NA,NA,NA,NA,NA,Jarablus,جرابلس,SY0208,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+124,Jaramana,جرمانا,SY030103,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+125,Jasim,جاسم,SY120301,NA,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+126,Jawadiyah,جوادية,SY080301,NA,NA,NA,NA,NA,Al-Malikeyyeh,المالكية,SY0803,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+127,Jeb Ej-Jarrah,جب الجراح,SY040601,NA,NA,NA,NA,NA,Al Makhrim,المخرم,SY0406,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+128,Jeb Ramleh,جب رملة,SY050401,NA,NA,NA,NA,NA,Masyaf,مصياف,SY0504,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+129,Jebel Saman,مركز جبل سمعان,SY020000,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+130,Jirud,جيرود,SY030301,NA,NA,NA,NA,NA,Al Qutayfah,القطيفة,SY0303,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+131,Jisr-Ash-Shugur,مركز جسر الشغور,SY070400,NA,NA,NA,NA,NA,Jisr-Ash-Shugur,جسر الشغور,SY0704,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+132,Jizeh,الجيزة,SY120006,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+133,Jneinet Raslan,جنينة رسلان,SY100401,NA,NA,NA,NA,NA,Dreikish,دريكيش,SY1004,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+134,Jobet Berghal,جوبة برغال,SY060403,NA,NA,NA,NA,NA,Al-Qardaha,القرداحة,SY0604,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+135,Jurneyyeh,الجرنية,SY110302,NA,NA,NA,NA,NA,Ath-Thawrah,الثورة,SY1103,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+136,Kafr Batna,كفر بطنا,SY030105,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+137,Kafr Nobol,كفر نبل,SY070203,NA,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+138,Kafr Takharim,كفر تخاريم,SY070303,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+139,Kafr Zeita,كفرزيتا,SY050501,NA,NA,NA,NA,NA,Muhradah,محردة,SY0505,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+140,Kansaba,كنسبا,SY060303,NA,NA,NA,NA,NA,Al-Haffa,الحفة,SY0603,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+141,Karama,الكرامة,SY110102,NA,NA,NA,NA,NA,Ar-Raqqa,مركز الرقة,SY1101,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+142,Kareemeh,كريمة,SY100005,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+143,Karnaz,كرناز,SY050502,NA,NA,NA,NA,NA,Muhradah,محردة,SY0505,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+144,Kasab,كسب,SY060005,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+145,Khan Arnaba,خان أرنبة,SY140001,NA,NA,NA,NA,NA,Quneitra,مركز القنيطرة,SY1400,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+146,Khan Shaykun,خان شيخون,SY070201,NA,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+147,Khanaser,خناصر,SY020701,NA,NA,NA,NA,NA,As-Safira,السفيرة,SY0207,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+148,Khasham,خشام,SY090105,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+149,Kherbet Elma'aza,خربة المعزة,SY100003,Kherbet Elmaaza,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+150,Kherbet Ghazala,خربة غزالة,SY120002,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+151,Kherbet Tin Noor,خربة تين نور,SY040102,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+152,Kisreh,كسرة,SY090101,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+153,Kisweh,الكسوة,SY030101,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+154,Lattakia,مركز اللاذقية,SY060000,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+155,Little Sura,الصورة الصغيرة,SY130303,NA,NA,NA,NA,NA,Shahba,شهبا,SY1303,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+156,Lower Shyookh,شيوخ تحتاني,SY020601,NA,NA,NA,NA,NA,Ain Al Arab,عين العرب,SY0206,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+157,Ma'arrat An Nu'man,مركز معرة النعمان,SY070200,Maarrat An Numan,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+158,Ma'btali,معبطلي,SY020306,Mabtali,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+159,Ma'loula,معلولا,SY030302,Maloula,NA,NA,NA,NA,Al Qutayfah,القطيفة,SY0303,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+160,Maadan,معدان,SY110103,NA,NA,NA,NA,NA,Ar-Raqqa,مركز الرقة,SY1101,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+161,Maaret Tamsrin,معرة تمصرين,SY070005,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+162,Madaya,مضايا,SY030703,NA,NA,NA,NA,NA,Az-Zabdani,الزبداني,SY0307,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+163,Madiq Castle,قلعة المضيق,SY050204,NA,NA,NA,NA,NA,As-Suqaylabiyah,السقيلبية,SY0502,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+164,Mahin,مهين,SY040107,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+165,Maliha,المليحة,SY030104,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+166,Mansura,المنصورة,SY110301,NA,NA,NA,NA,NA,Ath-Thawrah,الثورة,SY1103,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+167,Mare',مارع,SY020403,Mare,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+168,Markada,مركدة,SY080003,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+169,Markaz Darayya,مركز داريا,SY030900,NA,NA,NA,NA,NA,Darayya,داريا,SY0309,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+170,Masaada,مسعدة,SY140003,NA,NA,NA,NA,NA,Quneitra,مركز القنيطرة,SY1400,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+171,Mashnaf,المشنف,SY130002,NA,NA,NA,NA,NA,As-Sweida,مركز السويداء,SY1300,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+172,Mashta Elhiu,مشتى الحلو,SY100301,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+173,Maskana,مسكنة,SY020503,NA,NA,NA,NA,NA,Menbij,منبج,SY0205,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+174,Masmiyyeh,المسمية,SY120201,NA,NA,NA,NA,NA,As-Sanamayn,الصنمين,SY1202,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+175,Masyaf,مركز مصياف,SY050400,NA,NA,NA,NA,NA,Masyaf,مصياف,SY0504,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+176,Mazra'a,المزرعة,SY130001,Mazraa,NA,NA,NA,NA,As-Sweida,مركز السويداء,SY1300,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+177,Menbij,مركز منبج,SY020500,NA,NA,NA,NA,NA,Menbij,منبج,SY0205,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+178,Mhambal,محمبل,SY070502,NA,NA,NA,NA,NA,Ariha,أريحا,SY0705,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+179,Milh,ملح,SY130204,NA,NA,NA,NA,NA,Salkhad,صلخد,SY1302,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+180,Mseifra,المسيفرة,SY120007,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+181,Muhasan,موحسن,SY090103,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+182,Muhradah,مركز محردة,SY050500,NA,NA,NA,NA,NA,Muhradah,محردة,SY0505,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+183,Mzair'a,مزيرعة,SY060304,Mzaira,NA,NA,NA,NA,Al-Haffa,الحفة,SY0603,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+184,Mzeireb,مزيريب,SY120005,NA,NA,NA,NA,NA,Dar'a,درعا,SY1200,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+185,Nabul,نبل,SY020404,NA,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+186,Nashabiyeh,النشابية,SY030204,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+187,Nasra,الناصرة,SY040303,NA,NA,NA,NA,NA,Tall Kalakh,تلكلخ,SY0403,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+188,Nawa ,نوى,SY120303,NA,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+189,Oj,عوج,SY050402,NA,NA,NA,NA,NA,Masyaf,مصياف,SY0504,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+190,Oqeirbat,عقيربات,SY050304,NA,NA,NA,NA,NA,As-Salamiyeh,السلمية,SY0503,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+191,Qabu,القبو,SY040110,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+192,Qadmous,القدموس,SY100602,NA,NA,NA,NA,NA,Qadmous,القدموس,SY1006,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+193,Qahtaniyyeh,قحطانية,SY080203,NA,NA,NA,NA,NA,Quamishli,القامشلي,SY0802,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+194,Qarayya,القريا,SY130201,NA,NA,NA,NA,NA,Salkhad,صلخد,SY1302,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+195,Qaryatein,القريتين,SY040106,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+196,Qastal Maaf,قسطل معاف,SY060004,NA,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+197,Qatana,مركز قطنا,SY030800,NA,NA,NA,NA,NA,Qatana,قطنا,SY0308,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+198,Qourqeena,قورقينا,SY070304,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+199,Qteilbiyyeh,القطيلبية,SY060202,NA,NA,NA,NA,NA,Jablah,جبلة,SY0602,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+200,Quamishli,مركز القامشلي,SY080200,NA,NA,NA,NA,NA,Quamishli,القامشلي,SY0802,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+201,Qudsiya,"قدسيا
+",SY030107,NA,NA,NA,NA,NA,Rural Damascus,مركز ريف دمشق,SY0301,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+202,Qumseyyeh,قمصية,SY100502,NA,NA,NA,NA,NA,Sheikh Badr,الشيخ بدر,SY1005,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+203,Quneitra,مركز القنيطرة,SY140000,NA,NA,NA,NA,NA,Quneitra,مركز القنيطرة,SY1400,Quneitra,القنيطرة,SY14,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+204,Rabee'a,ربيعة,SY060002,Rabeea,NA,NA,NA,NA,Lattakia,مركز اللاذقية,SY0600,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+205,Raheiba,الرحيبة,SY030303,NA,NA,NA,NA,NA,Al Qutayfah,القطيفة,SY0303,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+206,Raju,راجو,SY020303,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+207,Rankus,رنكوس,SY030402,NA,NA,NA,NA,NA,At Tall,التل,SY0304,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+208,Raqama,الرقاما,SY040105,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+209,Ras Al Ain,مركز رأس العين,SY080400,NA,NA,NA,NA,NA,Ras Al Ain,رأس العين,SY0804,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+210,Ras El-Khashufeh,رأس الخشوفة,SY100305,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+211,Rasm Haram El-Imam,رسم حرمل الامام,SY020205,NA,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+212,Rawda,الروضة,SY100201,NA,NA,NA,NA,NA,Banyas,بانياس,SY1002,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+213,Sa'sa',سعسع,SY030802,Sasa,NA,NA,NA,NA,Qatana,قطنا,SY0308,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+214,Sabe Byar,السبع بيار,SY030202,NA,NA,NA,NA,NA,Duma,دوما,SY0302,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+215,Sabka,السبخة,SY110101,NA,NA,NA,NA,NA,Ar-Raqqa,مركز الرقة,SY1101,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+216,Saboura,صبورة,SY050303,NA,NA,NA,NA,NA,As-Salamiyeh,السلمية,SY0503,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+217,Sadad,صدد,SY040109,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+218,Safita,مركز صافيتا,SY100300,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+219,Safsafa,صفصافة,SY100006,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+220,Sahnaya,صحنايا,SY030901,NA,NA,NA,NA,NA,Darayya,داريا,SY0309,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+221,Salanfa,صلنفة,SY060301,NA,NA,NA,NA,NA,Al-Haffa,الحفة,SY0603,Lattakia,اللاذقية,SY06,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+222,Salkhad,مركز صلخد,SY130200,NA,NA,NA,NA,NA,Salkhad,صلخد,SY1302,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+223,Salqin,سلقين,SY070302,NA,NA,NA,NA,NA,Harim,حارم,SY0703,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+224,Sanjar,سنجار,SY070202,NA,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+225,Saraqab,سراقب,SY070003,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+226,Sarghaya,سرغايا,SY030704,NA,NA,NA,NA,NA,Az-Zabdani,الزبداني,SY0307,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+227,Sarin,صرين,SY020602,NA,NA,NA,NA,NA,Ain Al Arab,عين العرب,SY0206,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+228,Sarmin,سرمين,SY070006,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+229,Shadadah,شدادة,SY080002,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+230,Shahba,مركز شهبا,SY130300,NA,NA,NA,NA,NA,Shahba,شهبا,SY1303,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+231,Shaqa,شقا,SY130301,NA,NA,NA,NA,NA,Shahba,شهبا,SY1303,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+232,Sharan,شران,SY020304,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+233,Shat-ha,شطحة,SY050203,NA,NA,NA,NA,NA,As-Suqaylabiyah,السقيلبية,SY0502,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+234,Sheikh Badr,مركز الشيخ بدر,SY100500,NA,NA,NA,NA,NA,Sheikh Badr,الشيخ بدر,SY1005,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+235,Sheikh El-Hadid,شيخ الحديد,SY020305,NA,NA,NA,NA,NA,Afrin,عفرين,SY0203,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+236,Sheikh Miskine,الشيخ مسكين,SY120304,NA,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+237,Shin,شين,SY040111,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+238,Sibbeh,سبة,SY100303,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+239,Sidnaya,صيدنايا,SY030401,NA,NA,NA,NA,NA,At Tall,التل,SY0304,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+240,Sisniyyeh,السيسنية,SY100304,NA,NA,NA,NA,NA,Safita,صافيتا,SY1003,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+241,Soda Khawabi,سودا خوابي,SY100004,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+242,Sokhneh,السخنة,SY040501,NA,NA,NA,NA,NA,Tadmor,تدمر,SY0405,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+243,Suluk,سلوك,SY110201,NA,NA,NA,NA,NA,Tell Abiad,تل أبيض,SY1102,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+244,Sur,صور,SY090106,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+245,Suran,صوران,SY020405,NA,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+246,Suran,صوران,SY050101,NA,NA,NA,NA,NA,Hama,مركز حماة,SY0501,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+247,Susat,سوسة,SY090203,NA,NA,NA,NA,NA,Abu Kamal,البوكمال,SY0902,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+248,Tabni,التبني,SY090104,NA,NA,NA,NA,NA,Deir-ez-Zor,مركز دير الزور,SY0901,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+249,Tadaf,تادف,SY020201,NA,NA,NA,NA,NA,Al Bab,الباب,SY0202,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+250,Tadmor,مركز تدمر,SY040500,NA,NA,NA,NA,NA,Tadmor,تدمر,SY0405,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+251,Tal Hmis,تل حميس,SY080201,NA,NA,NA,NA,NA,Quamishli,القامشلي,SY0802,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+252,Tal Tamer,تل تمر,SY080001,NA,NA,NA,NA,NA,Al-Hasakeh,مركز الحسكة,SY0800,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+253,Talbiseh,تلبيسة,SY040401,NA,NA,NA,NA,NA,Ar-Rastan,الرستن,SY0404,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+254,Taldu,تلدو,SY040101,NA,NA,NA,NA,NA,Homs,مركز حمص,SY0401,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+255,Taleen,تالين,SY100206,NA,NA,NA,NA,NA,Banyas,بانياس,SY1002,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+256,Tall Ed-daman,تل الضمان,SY020002,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+257,Tall Kalakh,مركز تلكلخ,SY040300,NA,NA,NA,NA,NA,Tall Kalakh,تلكلخ,SY0403,Homs,حمص,SY04,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+258,Tall Refaat,تل رفعت,SY020402,NA,NA,NA,NA,NA,A'zaz,اعزاز,SY0204,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+259,Tamanaah,التمانعة,SY070204,NA,NA,NA,NA,NA,Al Ma'ra,معرة النعمان,SY0702,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+260,Tartous,مركز طرطوس,SY100000,NA,NA,NA,NA,NA,Tartous,مركز طرطوس,SY1000,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+261,Tassil,تسيل,SY120305,NA,NA,NA,NA,NA,Izra',ازرع,SY1203,Dar'a,درعا,SY12,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+262,Tawahin,الطواحين,SY100604,NA,NA,NA,NA,NA,Qadmous,القدموس,SY1006,Tartous,طرطوس,SY10,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+263,Teftnaz,تفتناز,SY070004,NA,NA,NA,NA,NA,Idleb,مركز إدلب,SY0700,Idleb,إدلب,SY07,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+264,Tell Abiad,مركز تل أبيض,SY110200,NA,NA,NA,NA,NA,Tell Abiad,تل أبيض,SY1102,Ar-Raqqa,الرقة,SY11,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+265,Tell Salhib,تلسلحب,SY050201,NA,NA,NA,NA,NA,As-Suqaylabiyah,السقيلبية,SY0502,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+266,Thiban,ذيبان,SY090301,NA,NA,NA,NA,NA,Al Mayadin,الميادين,SY0903,Deir-ez-Zor,دير الزور,SY09,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+267,Thibeen,ذيبين,SY130203,NA,NA,NA,NA,NA,Salkhad,صلخد,SY1302,As-Sweida,السويداء,SY13,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+268,Wadi El-oyoun,وادي العيون,SY050404,NA,NA,NA,NA,NA,Masyaf,مصياف,SY0504,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+269,Ya'robiyah,يعربية,SY080302,Yarobiyah,NA,NA,NA,NA,Al-Malikeyyeh,المالكية,SY0803,Al-Hasakeh,الحسكة,SY08,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+270,Yabroud,مركز يبرود,SY030500,NA,NA,NA,NA,NA,Yabroud,يبرود,SY0305,Rural Damascus,ريف دمشق,SY03,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+271,Zarbah,الزربة,SY020005,NA,NA,NA,NA,NA,Jebel Saman,جبل سمعان,SY0200,Aleppo,حلب,SY02,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA
+272,Ziyara,الزيارة,SY050202,NA,NA,NA,NA,NA,As-Suqaylabiyah,السقيلبية,SY0502,Hama,حماة,SY05,Syrian Arab Republic,الجمهورية العربية السورية,SY,1496275200000,1608163200000,NA

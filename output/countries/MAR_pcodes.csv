@@ -1,0 +1,70 @@
+OBJECTID,admin2Name_en,admin2Name_ar,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin2AltName1_ar,admin2AltName2_ar,admin1Name_en,admin1Name_ar,admin1Pcode,admin0Name_en,admin0Name_ar,admin0Pcode,date,validOn,validTo
+1,Agadir Ida Outanane Prefecture, ,MA009001,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+2,Al Haouz Province, ,MA006001,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+3,Al Hoceima Province, ,MA010001,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+4,Assa Zag Province, ,MA005001,NA,NA,NA,NA,NA,Guelmim Oued Noun,كلميم - واد نون,MA005,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+5,Berrechid Province, ,MA002001,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+6,Chefchaouen Province, ,MA010002,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+7,Chichaoua Province, ,MA006002,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+8,Chtouka Ait Baha Province, ,MA009002,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+9,El Jadida Province, ,MA002002,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+10,Essaouira Province, ,MA006003,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+11,Fahs Anjra Province, ,MA010003,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+12,Guelmim Province, ,MA005002,NA,NA,NA,NA,NA,Guelmim Oued Noun,كلميم - واد نون,MA005,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+13,Inezgane Ait Melloul Prefecture, ,MA009003,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+14,Larache Province, ,MA010004,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+15,Mediouna Province, ,MA002003,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+16,Nouaceur Province, ,MA002004,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+17,Ouarzazate Province, ,MA003001,NA,NA,NA,NA,NA,Draa Tafilalet,درعة - تافيلالت,MA003,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+18,Prefecture d Oujda Angad, ,MA007001,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+19,Prefecture de Fes, ,MA004001,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+20,Prefecture de M diq Fnideq, ,MA010005,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+21,Prefecture de Marrakech, ,MA006004,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+22,Prefecture de Meknes, ,MA004002,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+23,Prefecture de Skhirate Temara, ,MA008001,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+24,Prefecture of Casablanca, ,MA002005,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+25,Prefecture of Mohammedia, ,MA002006,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+26,Prefecture of Rabat, ,MA008002,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+27,Prefecture of Sale, ,MA008003,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+28,Prefecture of Tangier Assilah, ,MA010006,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+29,Province d Azilal, ,MA001001,NA,NA,NA,NA,NA,Beni Mellal Khenifra,بني ملال - خنيفرة,MA001,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+30,Province d El Hajeb, ,MA004003,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+31,Province d El Kelaat Es Sraghna, ,MA006005,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+32,Province d Errachidia, ,MA003002,NA,NA,NA,NA,NA,Draa Tafilalet,درعة - تافيلالت,MA003,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+33,Province d Ifrane, ,MA004004,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+34,Province d Ouezzane, ,MA010007,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+35,Province de Beni Mellal, ,MA001002,NA,NA,NA,NA,NA,Beni Mellal Khenifra,بني ملال - خنيفرة,MA001,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+36,Province de Benslimane, ,MA002007,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+37,Province de Berkane, ,MA007002,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+38,Province de Boulemane, ,MA004005,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+39,Province de Driouch, ,MA007003,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+40,Province de Figuig, ,MA007004,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+41,Province de Fquih Ben Saleh, ,MA001003,NA,NA,NA,NA,NA,Beni Mellal Khenifra,بني ملال - خنيفرة,MA001,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+42,Province de Guercif, ,MA007005,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+43,Province de Jerada, ,MA007006,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+44,Province de Kenitra, ,MA008004,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+45,Province de Khemisset, ,MA008005,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+46,Province de Khenifra, ,MA001004,NA,NA,NA,NA,NA,Beni Mellal Khenifra,بني ملال - خنيفرة,MA001,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+47,Province de Khouribga, ,MA001005,NA,NA,NA,NA,NA,Beni Mellal Khenifra,بني ملال - خنيفرة,MA001,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+48,Province de Midelt, ,MA003003,NA,NA,NA,NA,NA,Draa Tafilalet,درعة - تافيلالت,MA003,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+49,Province de Moulay Yacoub, ,MA004006,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+50,Province de Nador, ,MA007007,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+51,Province de Safi, ,MA006006,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+52,Province de Sefrou, ,MA004007,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+53,Province de Sidi Bennour, ,MA002008,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+54,Province de Sidi Kacem, ,MA008006,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+55,Province de Sidi Slimane, ,MA008007,NA,NA,NA,NA,NA,Rabat Sale Kenitra,الرباط - سلا -القنيطرة,MA008,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+56,Province de Tan Tan, ,MA005003,NA,NA,NA,NA,NA,Guelmim Oued Noun,كلميم - واد نون,MA005,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+57,Province de Taounate, ,MA004008,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+58,Province de Taourirt, ,MA007008,NA,NA,NA,NA,NA,Oriental,الجهة الشرقية,MA007,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+59,Province de Taza, ,MA004009,NA,NA,NA,NA,NA,Fez Meknes,فاس - مكناس,MA004,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+60,Province de Tinghir, ,MA003004,NA,NA,NA,NA,NA,Draa Tafilalet,درعة - تافيلالت,MA003,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+61,Province de Youssoufia, ,MA006007,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+62,Rhamna Province, ,MA006008,NA,NA,NA,NA,NA,Marrakech Safi,مراكش - آسفي,MA006,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+63,Settat Province, ,MA002009,NA,NA,NA,NA,NA,Casablanca Settat,الدار البيضاء - سطات,MA002,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+64,Sidi Ifni Province, ,MA005004,NA,NA,NA,NA,NA,Guelmim Oued Noun,كلميم - واد نون,MA005,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+65,Taroudant Province, ,MA009004,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+66,Tata Province, ,MA009005,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+67,Tetouan Province, ,MA010008,NA,NA,NA,NA,NA,Tangier Tetouan Al Hoceima,طنجة - تطوان - الحسيمة,MA010,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+68,Tiznit Province, ,MA009006,NA,NA,NA,NA,NA,Souss Massa,سوس - ماسة,MA009,Morocco,المغرب,MA,1588204800000,1606953600000,NA
+69,Zagora Province, ,MA003005,NA,NA,NA,NA,NA,Draa Tafilalet,درعة - تافيلالت,MA003,Morocco,المغرب,MA,1588204800000,1606953600000,NA

@@ -1,0 +1,295 @@
+OBJECTID,admin3Name_en,admin3Name_ar,admin3Pcode,admin3RefName,admin3AltName1_en,admin3AltName2_en,admin3AltName1_ar,admin3AltName2_ar,admin2Name_en,admin2Name_ar,admin2Pcode,admin1Name_en,admin1Name_ar,admin1Pcode,admin0Name_en,admin0Name_ar,admin0Pcode,date,validOn,validTo
+1,Abi Gharaq,ابي غرق,IQG07Q02N02,NA,NA,NA,NA,NA,Al-Hilla,الحلة,IQG07Q02,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+2,Abu Dalf,ابو دلف,IQG16Q01N02,NA,NA,NA,NA,NA,Al-Daur,الدور,IQG16Q01,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+3,Abu Ghraib,ابي غريب,IQG08Q02N02,NA,NA,NA,NA,NA,Al-Kadhmiyah,الكاظمية,IQG08Q02,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+4,Agjalare,ئاغجة لةر,IQG06Q02N01,NA,NA,NA,NA,NA,Chamchamal,جمجمال,IQG06Q02,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+5,Akaika,عكيكة,IQG17Q05N04,NA,NA,NA,NA,NA,Suq Al-Shoyokh,سوق الشيوخ,IQG17Q05,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+6,Al-Abbasi,العباسية,IQG13Q01N04,NA,NA,NA,NA,NA,Al-Hawiga,الحويجة,IQG13Q01,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+7,Al-Adel,العدل,IQG14Q05N02,NA,NA,NA,NA,NA,Al-Mejar Al-Kabir,المجر الكبير,IQG14Q05,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+8,Al-Ahrar,الاحرار,IQG18Q03N01,NA,NA,NA,NA,NA,Al-Namaniya,النعمانية,IQG18Q03,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+9,Al-Alam,العلم,IQG16Q06N02,NA,NA,NA,NA,NA,Tikrit,تكريت,IQG16Q06,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+10,Al-Amirya,العامرية,IQG01Q01N01,NA,NA,NA,NA,NA,Al-Falluja,الفلوجة,IQG01Q01,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+11,Al-Atheem,العظيم,IQG10Q01N01,NA,NA,NA,NA,NA,Al-Khalis,الخالص,IQG10Q01,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+12,Al-Ayadiya,العياضية,IQG15Q08N02,NA,NA,NA,NA,NA,Telafar,تلعفر,IQG15Q08,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+13,Al-Aziz,العزير,IQG14Q05N01,NA,NA,NA,NA,NA,Al-Mejar Al-Kabir,المجر الكبير,IQG14Q05,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+14,Al-Aziziya,العزيزية,IQG18Q04N05,NA,NA,NA,NA,NA,Al-Suwaira,الصويرة,IQG18Q04,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+15,Al-Baghdady,البغدادي,IQG01Q07N01,NA,NA,NA,NA,NA,Heet,هيت,IQG01Q07,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+16,Al-Bahhar,البحار,IQG02Q03N01,NA,NA,NA,NA,NA,Al-Faw,الفاو,IQG02Q03,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+17,Al-Bashaer,البشائر,IQG18Q01N01,NA,NA,NA,NA,NA,Al-Hai,الحي,IQG18Q01,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+18,Al-Battha'a,البطحاء,IQG17Q04N01,Al-Batthaa,NA,NA,NA,NA,Al-Nasiriya,الناصرية,IQG17Q04,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+19,Al-Bdair,البدير,IQG05Q01N01,NA,NA,NA,NA,NA,Afaq,عفك,IQG05Q01,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+20,Al-Daghara,الدغارة,IQG05Q02N01,NA,NA,NA,NA,NA,Al-Diwaniya,الديوانية,IQG05Q02,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+21,Al-Dair,الدير,IQG02Q05N01,NA,NA,NA,NA,NA,Al-Qurna,القرنة,IQG02Q05,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+22,Al-Dawaya,الدواية,IQG17Q03N03,NA,NA,NA,NA,NA,Al-Shatra,الشطرة,IQG17Q03,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+23,Al-Dujeel,الدجيل,IQG16Q04N04,NA,NA,NA,NA,NA,Balad,بلد,IQG16Q04,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+24,Al-Duloeyah,الضلوعية,IQG16Q04N03,NA,NA,NA,NA,NA,Balad,بلد,IQG16Q04,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+25,Al-Duski,الدوسكي,IQG09Q02N01,NA,NA,NA,NA,NA,Duhok,دهوك,IQG09Q02,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+26,Al-Emam,الامام,IQG07Q03N02,NA,NA,NA,NA,NA,Al-Mahaweel,المحاويل,IQG07Q03,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+27,Al-Esshaqi,الاسحاقي,IQG16Q04N02,NA,NA,NA,NA,NA,Balad,بلد,IQG16Q04,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+28,Al-Fadhliya,الفضلية,IQG17Q05N03,NA,NA,NA,NA,NA,Suq Al-Shoyokh,سوق الشيوخ,IQG17Q05,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+29,Al-Fahama,الفحامة,IQG08Q01N02,NA,NA,NA,NA,NA,Al-Adhamiya,الاعظمية,IQG08Q01,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+30,Al-Fajer,الفجر,IQG17Q02N01,NA,NA,NA,NA,NA,Al-Rifai,الرفاعي,IQG17Q02,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+31,Al-Fawwar,الفوار,IQG05Q01N02,NA,NA,NA,NA,NA,Afaq,عفك,IQG05Q01,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+32,Al-Forat,الفرات,IQG01Q07N02,NA,NA,NA,NA,NA,Heet,هيت,IQG01Q07,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+33,Al-Fuhood,الفهود,IQG17Q01N01,NA,NA,NA,NA,NA,Al-Chibayish,الجبايش,IQG17Q01,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+34,Al-Garma,الكرمة,IQG01Q01N02,NA,NA,NA,NA,NA,Al-Falluja,الفلوجة,IQG01Q01,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+35,Al-Gharraf,القراف,IQG17Q03N02,NA,NA,NA,NA,NA,Al-Shatra,الشطرة,IQG17Q03,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+36,Al-Habbaniya,الحبانية,IQG01Q03N01,NA,NA,NA,NA,NA,Al-Ramadi,الرمادي,IQG01Q03,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+37,Al-Hafriya,الحفرية,IQG18Q04N04,NA,NA,NA,NA,NA,Al-Suwaira,الصويرة,IQG18Q04,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+38,Al-Hammar,الحمار,IQG17Q01N02,NA,NA,NA,NA,NA,Al-Chibayish,الجبايش,IQG17Q01,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+39,Al-Haqlaniya,الحقلانية,IQG01Q06N01,NA,NA,NA,NA,NA,Haditha,حديثة,IQG01Q06,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+40,Al-Hartha,الهارثة,IQG02Q02N01,NA,NA,NA,NA,NA,Al-Basrah,البصرة,IQG02Q02,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+41,Al-Hassainya,الحسينية,IQG12Q03N02,NA,NA,NA,NA,NA,Kerbela,كربلاء,IQG12Q03,Kerbala,كربلاء,IQG12,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+42,Al-Haydariya,الحيدرية,IQG04Q03N01,NA,NA,NA,NA,NA,Al-Najaf,النجف,IQG04Q03,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+43,Al-Heera,الحيرة,IQG04Q02N01,NA,NA,NA,NA,NA,Al-Manathera, المناذرة,IQG04Q02,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+44,Al-Hilal,الهلال,IQG03Q02N01,NA,NA,NA,NA,NA,Al-Rumaitha,الرميثة,IQG03Q02,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+45,Al-Howweir,الهوير,IQG02Q04N01,NA,NA,NA,NA,NA,Al-Midaina,المدينة,IQG02Q04,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+46,Al-Huriya,الحرية,IQG04Q01N01,NA,NA,NA,NA,NA,Al-Kufa,الكوفة,IQG04Q01,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+47,Al-Iskandaria,الاسكندرية,IQG07Q04N02,NA,NA,NA,NA,NA,Al-Mussyab,المسيب,IQG07Q04,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+48,Al-Islah,الاصلاح,IQG17Q04N04,NA,NA,NA,NA,NA,Al-Nasiriya,الناصرية,IQG17Q04,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+49,Al-Jadwal Al-Ghrabi,الجدول الغربي,IQG12Q02N01,NA,NA,NA,NA,NA,Al-Hindiya,الهندية,IQG12Q02,Kerbala,كربلاء,IQG12,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+50,Al-Jisr,الجسر,IQG08Q04N02,NA,NA,NA,NA,NA,Al-Mada'in,المدائن,IQG08Q04,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+51,Al-Karabla,الكرابلة,IQG01Q02N01,NA,NA,NA,NA,NA,Al-Kaim,القائم,IQG01Q02,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+52,Al-Karrada Al-Sharqia,الكرادة الشرقية,IQG08Q06N01,NA,NA,NA,NA,NA,Al-Risafa,الرصافة,IQG08Q06,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+53,Al-Kifil,الكفل,IQG07Q02N01,NA,NA,NA,NA,NA,Al-Hilla,الحلة,IQG07Q02,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+54,Al-Latifya,اللطيفية,IQG08Q05N03,NA,NA,NA,NA,NA,Al-Mahmoudiya,المحمودية,IQG08Q05,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+55,Al-Madhatiya,المدحتية,IQG07Q01N03,NA,NA,NA,NA,NA,Al-Hashimiya,الهاشمية,IQG07Q01,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+56,Al-Majd,المجد,IQG03Q02N02,NA,NA,NA,NA,NA,Al-Rumaitha,الرميثة,IQG03Q02,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+57,Al-Mamoon,المأمون,IQG08Q03N01,NA,NA,NA,NA,NA,Al-Karkh,الكرخ,IQG08Q03,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+58,Al-Mansour,المنصور,IQG08Q03N03,NA,NA,NA,NA,NA,Al-Karkh,الكرخ,IQG08Q03,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+59,Al-Mansouriyah,المنصورية,IQG10Q01N02,NA,NA,NA,NA,NA,Al-Khalis,الخالص,IQG10Q01,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+60,Al-Mashroo,المشروع,IQG07Q03N03,NA,NA,NA,NA,NA,Al-Mahaweel,المحاويل,IQG07Q03,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+61,Al-Mihanawiya,المهناوية,IQG05Q04N01,NA,NA,NA,NA,NA,Al-Shamiya,الشامية,IQG05Q04,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+62,Al-Mowafaqiya,الموفقية,IQG18Q01N02,NA,NA,NA,NA,NA,Al-Hai,الحي,IQG18Q01,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+63,Al-Msharah,المشرح,IQG14Q03N02,NA,NA,NA,NA,NA,Al-Kahla,الكحلاء,IQG14Q03,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+64,Al-Muhamadath,المحمداث,IQG15Q05N04,NA,NA,NA,NA,NA,Al-Mosul,الموصل,IQG15Q05,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+65,Al-Multaka,الملتقى,IQG13Q04N03,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+66,Al-Muotasim,المعتصم,IQG16Q05N01,NA,NA,NA,NA,NA,Samarra,سامراء,IQG16Q05,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+67,Al-Najmi,النجمي,IQG03Q02N03,NA,NA,NA,NA,NA,Al-Rumaitha,الرميثة,IQG03Q02,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+68,Al-Nashwa,النشوة,IQG02Q07N01,NA,NA,NA,NA,NA,Shat Al-Arab,شط العرب,IQG02Q07,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+69,Al-Nasr,النصر,IQG17Q02N02,NA,NA,NA,NA,NA,Al-Rifai,الرفاعي,IQG17Q02,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+70,Al-Nekhaeeb,النخيب,IQG01Q04N01,NA,NA,NA,NA,NA,Al-Rutba,الرطبة,IQG01Q04,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+71,Al-Obiadi,العبيدي,IQG01Q02N02,NA,NA,NA,NA,NA,Al-Kaim,القائم,IQG01Q02,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+72,Al-Qahtanya,القحطانية,IQG15Q02N02,NA,NA,NA,NA,NA,Al-Baaj,البعاج,IQG15Q02,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+73,Al-Qairawan,القيروان,IQG15Q07N01,NA,NA,NA,NA,NA,Sinjar,سنجار,IQG15Q07,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+74,Al-Qasim,القاسم,IQG07Q01N01,NA,NA,NA,NA,NA,Al-Hashimiya,الهاشمية,IQG07Q01,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+75,Al-Qayarra,القيارة,IQG15Q05N01,NA,NA,NA,NA,NA,Al-Mosul,الموصل,IQG15Q05,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+76,Al-Qosh,القوش,IQG15Q09N02,NA,NA,NA,NA,NA,Tilkaef,تلكيف,IQG15Q09,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+77,Al-Rahhaliya,الرحالية,IQG01Q03N02,NA,NA,NA,NA,NA,Al-Ramadi,الرمادي,IQG01Q03,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+78,Al-Rashad,الرشاد,IQG13Q02N01,NA,NA,NA,NA,NA,Daquq,داقوق,IQG13Q02,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+79,Al-Rashdia,الراشدية,IQG08Q01N03,NA,NA,NA,NA,NA,Al-Adhamiya,الاعظمية,IQG08Q01,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+80,Al-Rasheed,الرشيد,IQG08Q05N02,NA,NA,NA,NA,NA,Al-Mahmoudiya,المحمودية,IQG08Q05,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+81,Al-Riyadh,الرياض,IQG13Q01N03,NA,NA,NA,NA,NA,Al-Hawiga,الحويجة,IQG13Q01,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+82,Al-Rummaneh,الرمانة,IQG01Q02N03,NA,NA,NA,NA,NA,Al-Kaim,القائم,IQG01Q02,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+83,Al-Saadiya,السعدية,IQG10Q05N01,NA,NA,NA,NA,NA,Khanaqin,خانقين,IQG10Q05,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+84,Al-Sadeer,السدير,IQG05Q03N01,NA,NA,NA,NA,NA,Al-Hamza,الحمزة,IQG05Q03,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+85,Al-Salam,السلام,IQG14Q04N01,NA,NA,NA,NA,NA,Al-Maimouna,الميمونة,IQG14Q04,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+86,Al-Saniya,السنية,IQG05Q02N02,NA,NA,NA,NA,NA,Al-Diwaniya,الديوانية,IQG05Q02,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+87,Al-Shabaka,الشبكة,IQG04Q03N02,NA,NA,NA,NA,NA,Al-Najaf,النجف,IQG04Q03,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+88,Al-Shafeia,الشافعية,IQG05Q02N03,NA,NA,NA,NA,NA,Al-Diwaniya,الديوانية,IQG05Q02,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+89,Al-Shamal,الشمال,IQG15Q07N02,NA,NA,NA,NA,NA,Sinjar,سنجار,IQG15Q07,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+90,Al-Shehamiya,الشحيمية,IQG18Q04N02,NA,NA,NA,NA,NA,Al-Suwaira,الصويرة,IQG18Q04,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+91,Al-Shinafiya,الشنافية,IQG05Q03N02,NA,NA,NA,NA,NA,Al-Hamza,الحمزة,IQG05Q03,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+92,Al-Shomaly,الشوملي,IQG07Q01N02,NA,NA,NA,NA,NA,Al-Hashimiya,الهاشمية,IQG07Q01,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+93,Al-Siba,السيبة,IQG02Q01N01,NA,NA,NA,NA,NA,Abu Al-Khaseeb,ابي الخصيب,IQG02Q01,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+94,Al-Sowair,السوير,IQG03Q04N01,NA,NA,NA,NA,NA,Al-Samawa,السماوة,IQG03Q04,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+95,Al-Synia,الصينية,IQG16Q03N02,NA,NA,NA,NA,NA,Beygee,بيجي,IQG16Q03,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+96,Al-Taji,التاجي,IQG08Q02N05,NA,NA,NA,NA,NA,Al-Kadhmiyah,الكاظمية,IQG08Q02,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+97,Al-Tar,الطار,IQG17Q05N02,NA,NA,NA,NA,NA,Suq Al-Shoyokh,سوق الشيوخ,IQG17Q05,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+98,Al-Tarmiya,الطارمية,IQG08Q02N04,NA,NA,NA,NA,NA,Al-Kadhmiyah,الكاظمية,IQG08Q02,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+99,Al-Teeb,الطيب,IQG14Q01N02,NA,NA,NA,NA,NA,Al-Amara,العمارة,IQG14Q01,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+100,Al-Thagar,الثغر,IQG02Q05N02,NA,NA,NA,NA,NA,Al-Qurna,القرنة,IQG02Q05,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+101,Al-Tharthar,الثرثار,IQG16Q05N02,NA,NA,NA,NA,NA,Samarra,سامراء,IQG16Q05,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+102,Al-Wajihia,الوجيهية,IQG10Q02N01,NA,NA,NA,NA,NA,Al-Muqdadiya,المقدادية,IQG10Q02,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+103,Al-Walid,الوليد,IQG01Q04N02,NA,NA,NA,NA,NA,Al-Rutba,الرطبة,IQG01Q04,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+104,Al-Warka,الوركاء,IQG03Q02N04,NA,NA,NA,NA,NA,Al-Rumaitha,الرميثة,IQG03Q02,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+105,Al-Wihda,الوحدة,IQG08Q04N03,NA,NA,NA,NA,NA,Al-Mada'in,المدائن,IQG08Q04,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+106,Al-Yousifya,اليوسفية,IQG08Q05N04,NA,NA,NA,NA,NA,Al-Mahmoudiya,المحمودية,IQG08Q05,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+107,Al-Zab,الزاب,IQG13Q01N02,NA,NA,NA,NA,NA,Al-Hawiga,الحويجة,IQG13Q01,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+108,Al-Zubaidiya,الزبيدية,IQG18Q04N01,NA,NA,NA,NA,NA,Al-Suwaira,الصويرة,IQG18Q04,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+109,Ali Al-Sharki,علي الشرقي,IQG14Q02N02,NA,NA,NA,NA,NA,Ali Al-Gharbi,علي الغربي,IQG14Q02,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+110,Altun Qupri,التون كوبري,IQG13Q03N03,NA,NA,NA,NA,NA,Dibis,دبس,IQG13Q03,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+111,Ameraly,آمرلي,IQG16Q07N01,NA,NA,NA,NA,NA,Tooz Khurmato,طوز خورماتو,IQG16Q07,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+112,Atreesh,ئةتريش,IQG15Q06N03,NA,NA,NA,NA,NA,Al-Shikhan,الشيخان,IQG15Q06,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+113,Baghdad Al-Jedeeda,بغداد الجديدة,IQG08Q06N02,NA,NA,NA,NA,NA,Al-Risafa,الرصافة,IQG08Q06,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+114,Balak,بالك,IQG11Q05N03,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+115,Bardarash,بردرش,IQG15Q01N01,NA,NA,NA,NA,NA,Aqra,عقرة,IQG15Q01,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+116,Bartilla,برطلة,IQG15Q03N02,NA,NA,NA,NA,NA,Al-Hamdaniya,الحمدانية,IQG15Q03,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+117,Barwana,بروانه,IQG01Q06N02,NA,NA,NA,NA,NA,Haditha,حديثة,IQG01Q06,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+118,Barwari Bala,برواري بالا,IQG09Q01N01,NA,NA,NA,NA,NA,Al-Amadiya,العمادية,IQG09Q01,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+119,Barzan,بارزان,IQG11Q01N01,NA,NA,NA,NA,NA,Al-Zibar,الزيبار,IQG11Q01,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+120,Bashiqa,بعشيقة,IQG15Q05N03,NA,NA,NA,NA,NA,Al-Mosul,الموصل,IQG15Q05,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+121,Bateel,باتيل,IQG09Q03N01,NA,NA,NA,NA,NA,Sumail,سميل,IQG09Q03,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+122,Batifa,باتيفا,IQG09Q04N02,NA,NA,NA,NA,NA,Zakho,زاخو,IQG09Q04,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+123,Bazian,بازيان,IQG06Q01N01,NA,NA,NA,NA,NA,Al-Sulaymaniyah,السليمانية,IQG06Q01,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+124,Bebaz,بيباز,IQG06Q06N02,NA,NA,NA,NA,NA,Kalar,كلار,IQG06Q06,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+125,Begeel,بجيل,IQG15Q01N02,NA,NA,NA,NA,NA,Aqra,عقرة,IQG15Q01,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+126,Beni Hasheem,بني هاشم,IQG14Q03N01,NA,NA,NA,NA,NA,Al-Kahla,الكحلاء,IQG14Q03,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+127,Beni Saad,بني سعد,IQG10Q04N02,NA,NA,NA,NA,NA,Baquba,بعقوبة,IQG10Q04,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+128,Beyara,بيارة,IQG06Q05N01,NA,NA,NA,NA,NA,Halabcha,حلبجة,IQG06Q05,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+129,Bitwana,بتوانه,IQG06Q09N03,NA,NA,NA,NA,NA,Rania,رانية,IQG06Q09,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+130,Bradost,برادوست,IQG11Q05N06,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+131,Buhriz,بهرز,IQG10Q04N01,NA,NA,NA,NA,NA,Baquba,بعقوبة,IQG10Q04,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+132,Cenkaw,سنكاو,IQG06Q02N04,NA,NA,NA,NA,NA,Chamchamal,جمجمال,IQG06Q02,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+133,Dercar,دركار,IQG09Q04N03,NA,NA,NA,NA,NA,Zakho,زاخو,IQG09Q04,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+134,Diana,ديانا,IQG11Q05N02,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+135,Dibaga,ديبكة,IQG11Q04N03,NA,NA,NA,NA,NA,Makhmour,مخمور,IQG11Q04,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+136,Dijla,دجلة,IQG16Q05N04,NA,NA,NA,NA,NA,Samarra,سامراء,IQG16Q05,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+137,Dinarta,دينارتة,IQG15Q01N04,NA,NA,NA,NA,NA,Aqra,عقرة,IQG15Q01,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+138,Fayde,فايدة,IQG09Q03N02,NA,NA,NA,NA,NA,Sumail,سميل,IQG09Q03,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+139,Garmat Beni Said,كرمة بني سعد,IQG17Q05N01,NA,NA,NA,NA,NA,Suq Al-Shoyokh,سوق الشيوخ,IQG17Q05,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+140,Ghammas,غماس,IQG05Q04N02,NA,NA,NA,NA,NA,Al-Shamiya,الشامية,IQG05Q04,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+141,Gnareen,جنارين,IQG06Q04N01,NA,NA,NA,NA,NA,Dokan,دوكان,IQG06Q04,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+142,Gwyer,الكوير,IQG11Q04N04,NA,NA,NA,NA,NA,Makhmour,مخمور,IQG11Q04,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+143,Haji Omaran,الحج عمران,IQG11Q05N07,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+144,Hammam Al-Alil,حمام العليل,IQG15Q05N02,NA,NA,NA,NA,NA,Al-Mosul,الموصل,IQG15Q05,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+145,Hamreen,حمرين,IQG16Q01N01,NA,NA,NA,NA,NA,Al-Daur,الدور,IQG16Q01,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+146,Harir,ديرة حرير,IQG11Q06N03,NA,NA,NA,NA,NA,Shaqlawa,شقلاوة,IQG11Q06,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+147,Hero,هيرو,IQG06Q08N01,NA,NA,NA,NA,NA,Pshdar,بشدر,IQG06Q08,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+148,Hibhib,هبهب,IQG10Q01N03,NA,NA,NA,NA,NA,Al-Khalis,الخالص,IQG10Q01,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+149,Jabarra,جبارة,IQG10Q06N01,NA,NA,NA,NA,NA,Kifri,كفري,IQG10Q06,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+150,Jalawla,جلولاء,IQG10Q05N04,NA,NA,NA,NA,NA,Khanaqin,خانقين,IQG10Q05,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+151,Jassan,جصان,IQG18Q05N02,NA,NA,NA,NA,NA,Badra,بدرة,IQG18Q05,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+152,Jurf Al-Sakhar,جرف الصخر,IQG07Q04N01,NA,NA,NA,NA,NA,Al-Mussyab,المسيب,IQG07Q04,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+153,Kadr Karam,قادر كرم,IQG06Q02N03,NA,NA,NA,NA,NA,Chamchamal,جمجمال,IQG06Q02,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+154,Kanan,كنعان,IQG10Q04N03,NA,NA,NA,NA,NA,Baquba,بعقوبة,IQG10Q04,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+155,Karmak,كرمك,IQG06Q07N01,NA,NA,NA,NA,NA,Panjwin,بنجوين,IQG06Q07,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+156,Khailfan,خليفان,IQG11Q05N04,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+157,Khoshnaw,خوشناو,IQG11Q06N01,NA,NA,NA,NA,NA,Shaqlawa,شقلاوة,IQG11Q06,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+158,Khourmal,خورمال,IQG06Q05N02,NA,NA,NA,NA,NA,Halabcha,حلبجة,IQG06Q05,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+159,Kubaisa,كبيسة,IQG01Q07N03,NA,NA,NA,NA,NA,Heet,هيت,IQG01Q07,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+160,Kumait,كميت,IQG14Q01N01,NA,NA,NA,NA,NA,Al-Amara,العمارة,IQG14Q01,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+161,Kurdsein,كردسين,IQG15Q01N03,NA,NA,NA,NA,NA,Aqra,عقرة,IQG15Q01,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+162,Lilan,ليلان,IQG13Q04N02,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+163,Makkhoul,مكحول,IQG16Q03N03,NA,NA,NA,NA,NA,Beygee,بيجي,IQG16Q03,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+164,Mandali,مندلي,IQG10Q03N01,NA,NA,NA,NA,NA,Baladruz,مندلي,IQG10Q03,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+165,Markaz Abu Al-Khaseeb,مركز ابي الخصيب,IQG02Q01N02,NA,NA,NA,NA,NA,Abu Al-Khaseeb,ابي الخصيب,IQG02Q01,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+166,Markaz Afaq,مركز عفك,IQG05Q01N03,NA,NA,NA,NA,NA,Afaq,عفك,IQG05Q01,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+167,Markaz Ain Al-Tamur,مركز عين التمر,IQG12Q01N01,NA,NA,NA,NA,NA,Ain Al-Tamur,عين التمر,IQG12Q01,Kerbala,كربلاء,IQG12,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+168,Markaz Al-Adhamiya,مركز الاعظمية,IQG08Q01N01,NA,NA,NA,NA,NA,Al-Adhamiya,الاعظمية,IQG08Q01,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+169,Markaz Al-Amadiya,مركز العمادية,IQG09Q01N02,NA,NA,NA,NA,NA,Al-Amadiya,العمادية,IQG09Q01,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+170,Markaz Al-Baaj,مركز البعاج,IQG15Q02N01,NA,NA,NA,NA,NA,Al-Baaj,البعاج,IQG15Q02,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+171,Markaz Al-Basrah,مركز البصرة,IQG02Q02N02,NA,NA,NA,NA,NA,Al-Basrah,البصرة,IQG02Q02,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+172,Markaz Al-Chibayish,مركز الجبايش,IQG17Q01N03,NA,NA,NA,NA,NA,Al-Chibayish,الجبايش,IQG17Q01,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+173,Markaz Al-Diwaniya,مركز الديوانية,IQG05Q02N04,NA,NA,NA,NA,NA,Al-Diwaniya,الديوانية,IQG05Q02,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+174,Markaz Al-Falluja,مركز الفلوجة,IQG01Q01N03,NA,NA,NA,NA,NA,Al-Falluja,الفلوجة,IQG01Q01,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+175,Markaz Al-Faw,مركز الفاو,IQG02Q03N02,NA,NA,NA,NA,NA,Al-Faw,الفاو,IQG02Q03,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+176,Markaz Al-Hamdaniya,مركز الحمدانية,IQG15Q03N03,NA,NA,NA,NA,NA,Al-Hamdaniya,الحمدانية,IQG15Q03,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+177,Markaz Al-Hamza,مركز الحمزة,IQG05Q03N03,NA,NA,NA,NA,NA,Al-Hamza,الحمزة,IQG05Q03,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+178,Markaz Al-Hawiga,مركز الحويجة,IQG13Q01N01,NA,NA,NA,NA,NA,Al-Hawiga,الحويجة,IQG13Q01,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+179,Markaz Al-Hilla,مركز الحلة,IQG07Q02N03,NA,NA,NA,NA,NA,Al-Hilla,الحلة,IQG07Q02,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+180,Markaz Al-Hindiya,مركز الهندية,IQG12Q02N02,NA,NA,NA,NA,NA,Al-Hindiya,الهندية,IQG12Q02,Kerbala,كربلاء,IQG12,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+181,Markaz Al-Kadhimiya,مركز الكاظمية,IQG08Q02N01,NA,NA,NA,NA,NA,Al-Kadhmiyah,الكاظمية,IQG08Q02,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+182,Markaz Al-Kahla,مركز الكحلاء,IQG14Q03N03,NA,NA,NA,NA,NA,Al-Kahla,الكحلاء,IQG14Q03,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+183,Markaz Al-Karkh,مركز الكرخ,IQG08Q03N02,NA,NA,NA,NA,NA,Al-Karkh,الكرخ,IQG08Q03,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+184,Markaz Al-Khalis,مركز الخالص,IQG10Q01N04,NA,NA,NA,NA,NA,Al-Khalis,الخالص,IQG10Q01,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+185,Markaz Al-Khidhir,مركز الخضر,IQG03Q01N01,NA,NA,NA,NA,NA,Al-Khidhir,الخضر,IQG03Q01,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+186,Markaz Al-Kufa,مركز الكوفة,IQG04Q01N02,NA,NA,NA,NA,NA,Al-Kufa,الكوفة,IQG04Q01,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+187,Markaz Al-Kut,مركز الكوت,IQG18Q02N03,NA,NA,NA,NA,NA,Al-Kut,الكوت,IQG18Q02,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+188,Markaz Al-Mada'in,مركز المدائن,IQG08Q04N01,Markaz Al-Madain,NA,NA,NA,NA,Al-Mada'in,المدائن,IQG08Q04,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+189,Markaz Al-Mahawil,مركز المحاويل,IQG07Q03N01,NA,NA,NA,NA,NA,Al-Mahaweel,المحاويل,IQG07Q03,Babil,بابل,IQG07,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+190,Markaz Al-Mahmoudiya,مركز المحمودية,IQG08Q05N01,NA,NA,NA,NA,NA,Al-Mahmoudiya,المحمودية,IQG08Q05,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+191,Markaz Al-Maimouna,مركز الميمونة,IQG14Q04N02,NA,NA,NA,NA,NA,Al-Maimouna,الميمونة,IQG14Q04,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+192,Markaz Al-Midaina,مركز المدينة,IQG02Q04N02,NA,NA,NA,NA,NA,Al-Midaina,المدينة,IQG02Q04,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+193,Markaz Al-Muqdadiya,مركز المقدادية,IQG10Q02N02,NA,NA,NA,NA,NA,Al-Muqdadiya,المقدادية,IQG10Q02,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+194,Markaz Al-Najaf,مركز النجف,IQG04Q03N03,NA,NA,NA,NA,NA,Al-Najaf,النجف,IQG04Q03,Al-Najaf,النجف,IQG04,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+195,Markaz Al-Nasiriya,مركزالناصرية,IQG17Q04N02,NA,NA,NA,NA,NA,Al-Nasiriya,الناصرية,IQG17Q04,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+196,Markaz Al-Noamaniya,مركز النعمانية,IQG18Q03N02,NA,NA,NA,NA,NA,Al-Namaniya,النعمانية,IQG18Q03,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+197,Markaz Al-Qurna,مركز القرنة,IQG02Q05N03,NA,NA,NA,NA,NA,Al-Qurna,القرنة,IQG02Q05,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+198,Markaz Al-Ramadi,مركز الرمادي,IQG01Q03N03,NA,NA,NA,NA,NA,Al-Ramadi,الرمادي,IQG01Q03,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+199,Markaz Al-Rifai,مركز الرفاعي,IQG17Q02N03,NA,NA,NA,NA,NA,Al-Rifai,الرفاعي,IQG17Q02,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+200,Markaz Al-Rumaitha,مركز الرميثة,IQG03Q02N05,NA,NA,NA,NA,NA,Al-Rumaitha,الرميثة,IQG03Q02,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+201,Markaz Al-Rutba,مركز الرطبة,IQG01Q04N03,NA,NA,NA,NA,NA,Al-Rutba,الرطبة,IQG01Q04,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+202,Markaz Al-Salman,مركز السلمان,IQG03Q03N01,NA,NA,NA,NA,NA,Al-Salman,السلمان,IQG03Q03,Al-Muthanna,المثنى,IQG03,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+203,Markaz Al-Shatra,مركز الشطرة,IQG17Q03N01,NA,NA,NA,NA,NA,Al-Shatra,الشطرة,IQG17Q03,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+204,Markaz Al-Shikhan,مركز الشيخان,IQG15Q06N01,NA,NA,NA,NA,NA,Al-Shikhan,الشيخان,IQG15Q06,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+205,Markaz Al-Shirqat,مركز الشرقاط,IQG16Q02N01,NA,NA,NA,NA,NA,Al-Shirqat,الشرقاط,IQG16Q02,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+206,Markaz Al-Suwaira,مركز الصويرة,IQG18Q04N03,NA,NA,NA,NA,NA,Al-Suwaira,الصويرة,IQG18Q04,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+207,Markaz Al-Thawra,مركز الثورة,IQG08Q07N01,NA,NA,NA,NA,NA,Al-Thawra,الثورة,IQG08Q07,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+208,Markaz Al-Zubair,مركز الزبير,IQG02Q06N01,NA,NA,NA,NA,NA,Al-Zubair,الزبير,IQG02Q06,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+209,Markaz Ali Al-Gharbi,مركز علي الغربي,IQG14Q02N01,NA,NA,NA,NA,NA,Ali Al-Gharbi,علي الغربي,IQG14Q02,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+210,Markaz Ana,مركز عنه,IQG01Q05N01,NA,NA,NA,NA,NA,Ana,عنه,IQG01Q05,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+211,Markaz Aqra,مركز عقرة,IQG15Q01N05,NA,NA,NA,NA,NA,Aqra,عقرة,IQG15Q01,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+212,Markaz Badra,مركز بدرة,IQG18Q05N01,NA,NA,NA,NA,NA,Badra,بدرة,IQG18Q05,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+213,Markaz Baladruz,مركز بلدروز,IQG10Q03N02,NA,NA,NA,NA,NA,Baladruz,مندلي,IQG10Q03,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+214,Markaz Beygee,مركز بيجي,IQG16Q03N01,NA,NA,NA,NA,NA,Beygee,بيجي,IQG16Q03,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+215,Markaz Chamchamal,مركز جمجمال,IQG06Q02N02,NA,NA,NA,NA,NA,Chamchamal,جمجمال,IQG06Q02,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+216,Markaz Daquq,مركز داقوق,IQG13Q02N02,NA,NA,NA,NA,NA,Daquq,داقوق,IQG13Q02,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+217,Markaz Derbendikhan,مركز دربندخان,IQG06Q03N01,NA,NA,NA,NA,NA,Derbendikhan,دربندخان,IQG06Q03,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+218,Markaz Dibis,مركز الدبس,IQG13Q03N02,NA,NA,NA,NA,NA,Dibis,دبس,IQG13Q03,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+219,Markaz Duhok,مركز دهوك,IQG09Q02N02,NA,NA,NA,NA,NA,Duhok,دهوك,IQG09Q02,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+220,Markaz Erbil,مركز اربيل,IQG11Q02N02,NA,NA,NA,NA,NA,Erbil,اربيل,IQG11Q02,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+221,Markaz Halabja,مركز حلبجة,IQG06Q05N03,NA,NA,NA,NA,NA,Halabcha,حلبجة,IQG06Q05,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+222,Markaz Hatra,مركز الحضر,IQG15Q04N01,NA,NA,NA,NA,NA,Al-Hatra,الحضر,IQG15Q04,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+223,Markaz Heet,مركز هيت,IQG01Q07N04,NA,NA,NA,NA,NA,Heet,هيت,IQG01Q07,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+224,Markaz Kalar,مركز كلار,IQG06Q06N01,NA,NA,NA,NA,NA,Kalar,كلار,IQG06Q06,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+225,Markaz Kerbela,مركز كربلاء,IQG12Q03N01,NA,NA,NA,NA,NA,Kerbela,كربلاء,IQG12Q03,Kerbala,كربلاء,IQG12,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+226,Markaz Khanaqin,مركز خانقين,IQG10Q05N02,NA,NA,NA,NA,NA,Khanaqin,خانقين,IQG10Q05,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+227,Markaz Kifri,مركز كفري,IQG10Q06N02,NA,NA,NA,NA,NA,Kifri,كفري,IQG10Q06,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+228,Markaz Kirkuk,مركز كركوك,IQG13Q04N06,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+229,Markaz Koysinjaq,مركز كويسنجق,IQG11Q03N03,NA,NA,NA,NA,NA,Koysinjaq,كويسنجق,IQG11Q03,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+230,Markaz Makhmour,مركز مخمور,IQG11Q04N02,NA,NA,NA,NA,NA,Makhmour,مخمور,IQG11Q04,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+231,Markaz Panjwin,مركز بنجوين,IQG06Q07N02,NA,NA,NA,NA,NA,Panjwin,بنجوين,IQG06Q07,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+232,Markaz Pshdar,مركز بشدر,IQG06Q08N03,NA,NA,NA,NA,NA,Pshdar,بشدر,IQG06Q08,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+233,Markaz Qalat Saleh,مركز قلعة صالح,IQG14Q06N01,NA,NA,NA,NA,NA,Qalat Saleh,قلعة صالح,IQG14Q06,Maysan,ميسان,IQG14,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+234,Markaz Rania,مركز رانية,IQG06Q09N02,NA,NA,NA,NA,NA,Rania,رانية,IQG06Q09,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+235,Markaz Rawanduz,مركز راوندوز,IQG11Q05N01,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+236,Markaz Samarra,مركز سامراء,IQG16Q05N03,NA,NA,NA,NA,NA,Samarra,سامراء,IQG16Q05,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+237,Markaz Sharbazher,مركز شهربازار,IQG06Q10N02,NA,NA,NA,NA,NA,Sharbazher,شهربازار,IQG06Q10,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+238,Markaz Shat Al-Arab,مركز شط العرب,IQG02Q07N02,NA,NA,NA,NA,NA,Shat Al-Arab,شط العرب,IQG02Q07,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+239,Markaz Sinjar,مركز سنجار,IQG15Q07N03,NA,NA,NA,NA,NA,Sinjar,سنجار,IQG15Q07,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+240,Markaz Sumail,مركز سميل,IQG09Q03N03,NA,NA,NA,NA,NA,Sumail,سميل,IQG09Q03,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+241,Markaz Telafar,مركز تلعفر,IQG15Q08N01,NA,NA,NA,NA,NA,Telafar,تلعفر,IQG15Q08,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+242,Markaz Tilkaef,مركز تلكيف,IQG15Q09N01,NA,NA,NA,NA,NA,Tilkaef,تلكيف,IQG15Q09,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+243,Markaz Tooz Khurmato,مركز طوز خورماتو,IQG16Q07N02,NA,NA,NA,NA,NA,Tooz Khurmato,طوز خورماتو,IQG16Q07,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+244,Markaz Zakho,مركز زاخو,IQG09Q04N01,NA,NA,NA,NA,NA,Zakho,زاخو,IQG09Q04,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+245,Mawat,ماوت,IQG06Q10N04,NA,NA,NA,NA,NA,Sharbazher,شهربازار,IQG06Q10,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+246,Mazouri Bala,مزوري بالا,IQG11Q01N02,NA,NA,NA,NA,NA,Al-Zibar,الزيبار,IQG11Q01,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+247,Mergasur,ميركة سور,IQG11Q05N05,NA,NA,NA,NA,NA,Rawanduz,راوندوز,IQG11Q05,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+248,Midan,ميدان,IQG10Q05N03,NA,NA,NA,NA,NA,Khanaqin,خانقين,IQG10Q05,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+249,Mirka,ميركه,IQG06Q09N01,NA,NA,NA,NA,NA,Rania,رانية,IQG06Q09,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+250,Namroud,نمرود,IQG15Q03N01,NA,NA,NA,NA,NA,Al-Hamdaniya,الحمدانية,IQG15Q03,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+251,Nawdasht,ناودشت,IQG06Q08N02,NA,NA,NA,NA,NA,Pshdar,بشدر,IQG06Q08,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+252,Nerwa Rekan,نروة ريكان,IQG09Q01N03,NA,NA,NA,NA,NA,Al-Amadiya,العمادية,IQG09Q01,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+253,Outba,عتبة,IQG02Q07N03,NA,NA,NA,NA,NA,Shat Al-Arab,شط العرب,IQG02Q07,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+254,Qalaa't Ansab,قلعة انصاب,IQG10Q01N05,Qalaat Ansab,NA,NA,NA,NA,Al-Khalis,الخالص,IQG10Q01,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+255,Qalat Siker,قلعة السكر,IQG17Q02N04,NA,NA,NA,NA,NA,Al-Rifai,الرفاعي,IQG17Q02,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+256,Qara Tabe,قرة تبة,IQG10Q06N03,NA,NA,NA,NA,NA,Kifri,كفري,IQG10Q06,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+257,Qaradagh,قره داغ,IQG06Q01N02,NA,NA,NA,NA,NA,Al-Sulaymaniyah,السليمانية,IQG06Q01,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+258,Qaraj,القرج,IQG11Q04N01,NA,NA,NA,NA,NA,Makhmour,مخمور,IQG11Q04,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+259,Qaratu,قرة تو,IQG10Q05N05,NA,NA,NA,NA,NA,Khanaqin,خانقين,IQG10Q05,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+260,Qasruk,قسروك,IQG15Q06N02,NA,NA,NA,NA,NA,Al-Shikhan,الشيخان,IQG15Q06,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+261,Qazanya,قزانية,IQG10Q03N03,NA,NA,NA,NA,NA,Baladruz,مندلي,IQG10Q03,Diyala,ديالى,IQG10,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+262,Qura Hanjeer,قرة هنجير,IQG13Q04N07,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+263,Qushtappa,قوش تبه,IQG11Q02N01,NA,NA,NA,NA,NA,Erbil,اربيل,IQG11Q02,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+264,Rabia,ربيعة,IQG15Q08N04,NA,NA,NA,NA,NA,Telafar,تلعفر,IQG15Q08,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+265,Rawa,راوه,IQG01Q05N02,NA,NA,NA,NA,NA,Ana,عنه,IQG01Q05,Al-Anbar,الانبار,IQG01,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+266,Safwan,سفوان,IQG02Q06N02,NA,NA,NA,NA,NA,Al-Zubair,الزبير,IQG02Q06,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+267,Said Dekhil,سيد خليل,IQG17Q04N03,NA,NA,NA,NA,NA,Al-Nasiriya,الناصرية,IQG17Q04,Thi Qar,ذي قار,IQG17,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+268,Salah Al-Din,صلاح الدين,IQG11Q06N02,NA,NA,NA,NA,NA,Shaqlawa,شقلاوة,IQG11Q06,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+269,Sarchnar,سرجنار,IQG06Q01N03,NA,NA,NA,NA,NA,Al-Sulaymaniyah,السليمانية,IQG06Q01,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+270,Sarkran,سركران,IQG13Q03N01,NA,NA,NA,NA,NA,Dibis,دبس,IQG13Q03,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+271,Sarsank,سرسنك,IQG09Q01N04,NA,NA,NA,NA,NA,Al-Amadiya,العمادية,IQG09Q01,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+272,Saruchik,سروجك,IQG06Q10N01,NA,NA,NA,NA,NA,Sharbazher,شهربازار,IQG06Q10,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+273,Shaekh Saad,شيخ سعد,IQG18Q02N02,NA,NA,NA,NA,NA,Al-Kut,الكوت,IQG18Q02,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+274,Shahrazur,شهرزور,IQG06Q05N04,NA,NA,NA,NA,NA,Halabcha,حلبجة,IQG06Q05,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+275,Shorsh,سورش,IQG11Q03N02,NA,NA,NA,NA,NA,Koysinjaq,كويسنجق,IQG11Q03,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+276,Shwan,شوان,IQG13Q04N05,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+277,Sindi,سندي,IQG09Q03N04,NA,NA,NA,NA,NA,Sumail,سميل,IQG09Q03,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+278,Siwail,سويل,IQG06Q10N03,NA,NA,NA,NA,NA,Sharbazher,شهربازار,IQG06Q10,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+279,Sourdash,سورداش,IQG06Q04N02,NA,NA,NA,NA,NA,Dokan,دوكان,IQG06Q04,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+280,Sulaiman Baig,سليمان بيك,IQG16Q07N03,NA,NA,NA,NA,NA,Tooz Khurmato,طوز خورماتو,IQG16Q07,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+281,Sumer,سومر,IQG05Q01N04,NA,NA,NA,NA,NA,Afaq,عفك,IQG05Q01,Al-Qadissiya,القادسية,IQG05,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+282,Talha,طلحة,IQG02Q04N03,NA,NA,NA,NA,NA,Al-Midaina,المدينة,IQG02Q04,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+283,Taq Taq,طق طق,IQG11Q03N01,NA,NA,NA,NA,NA,Koysinjaq,كويسنجق,IQG11Q03,Erbil,اربيل,IQG11,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+284,Taza Khormato,تازة خورماتو,IQG13Q04N01,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+285,That al Salasil,ذات السلاسل,IQG08Q02N03,NA,NA,NA,NA,NA,Al-Kadhmiyah,الكاظمية,IQG08Q02,Baghdad,بغداد,IQG08,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+286,Tilako,تيلاكو,IQG06Q06N03,NA,NA,NA,NA,NA,Kalar,كلار,IQG06Q06,Al-Sulaymaniyah,السليمانية,IQG06,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+287,Um Al-Qura,ام القرى,IQG16Q06N01,NA,NA,NA,NA,NA,Tikrit,تكريت,IQG16Q06,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+288,Um Qasr,ام قصر,IQG02Q06N03,NA,NA,NA,NA,NA,Al-Zubair,الزبير,IQG02Q06,Al-Basrah,البصرة,IQG02,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+289,Wana,وانة,IQG15Q09N03,NA,NA,NA,NA,NA,Tilkaef,تلكيف,IQG15Q09,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+290,Wasit,واسط,IQG18Q02N01,NA,NA,NA,NA,NA,Al-Kut,الكوت,IQG18Q02,Wassit,واسط,IQG18,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+291,Yaijy,يايجي,IQG13Q04N04,NA,NA,NA,NA,NA,Kirkuk,كركوك,IQG13Q04,Kirkuk,كركوك,IQG13,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+292,Yathreb,يثرب,IQG16Q04N01,NA,NA,NA,NA,NA,Balad,بلد,IQG16Q04,Salah Al-Din,صلاح الدين,IQG16,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+293,Zawita,زاويتة,IQG09Q02N03,NA,NA,NA,NA,NA,Duhok,دهوك,IQG09Q02,Duhok,دهوك,IQG09,Iraq,العراق,IQ,1559174400000,1559520000000,NA
+294,Zummar,زمار,IQG15Q08N03,NA,NA,NA,NA,NA,Telafar,تلعفر,IQG15Q08,Ninewa,نينوى,IQG15,Iraq,العراق,IQ,1559174400000,1559520000000,NA

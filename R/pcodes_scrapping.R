@@ -1,3 +1,36 @@
+#' List countries with pcodes available
+#'
+#' @return data.frame - a dataframe containing with countries where pcodes are
+#'     available.
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' available_countries()
+#' }
+
+available_countries <- function(){
+  COD_URL <- "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External"
+
+  iso3_df <- countrycode::codelist %>%
+    select(iso3c, country.name.en) %>%
+    distinct()
+
+  COD_list <-read_html(COD_URL) %>%
+    html_nodes("a")%>%
+    xml_attr("href") %>%
+    tibble(iso3c = .) %>%
+    filter(str_detect(iso3c, "FeatureServer$")) %>%
+    mutate(iso3c = str_remove_all(iso3c, "^/arcgis/rest/services/COD_External/"),
+           iso3c = str_remove_all(iso3c, "_pcode/FeatureServer$")
+    ) %>%
+    left_join(iso3_df, by = c("iso3c")) %>%
+    rename(country_name = country.name.en,
+           country_iso3code = iso3c)
+
+  return(COD_list)
+
+}
 
 #' Scrap pcodes datasets from UNOCHA REST API
 #'
@@ -6,12 +39,11 @@
 #'
 #' @examples
 #' \dontrun{
-#' all_pcodes_feature_servers()
+#' all_pcodes()
 #' }
-all_pcodes_feature_servers <- function(){
-  base_URL <- "https://gistmaps.itos.uga.edu/"
+all_pcodes <- function(){
 
-  COD_URL <- paste0(base_URL, "arcgis/rest/services/COD_External")
+  COD_URL <- "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External"
 
   COD_list <-read_html(COD_URL) %>%
     html_nodes("a")%>%
@@ -21,11 +53,7 @@ all_pcodes_feature_servers <- function(){
 
   all_dfs <- list()
 
-  # for(i in 1:length(COD_list)){
-  #   all_dfs[[1]] <- scrap_country(COD_list[2])
-  # }
-
-  all_dfs <- lapply(COD_list, scrap_country) %>%
+  all_dfs <- lapply(paste0("https://gistmaps.itos.uga.edu", COD_list), country_pcodes_URL) %>%
     bind_rows()
 
   all_dfs_rearranged <- all_dfs %>%
@@ -33,60 +61,69 @@ all_pcodes_feature_servers <- function(){
     mutate(admin0Name = case_when(
       is.na(admin0Name_en) & !is.na(admin0Name_fr) ~ admin0Name_fr,
       is.na(admin0Name_en) & !is.na(admin0Name_es) ~ admin0Name_es,
-      is.na(admin0Name_en) & !is.na(admin0Name_pt) ~ admin0Name_pt,
       !is.na(admin0Name_en) ~ admin0Name_en,
       TRUE ~ NA_character_
     ),
     admin1Name = case_when(
       is.na(admin1Name_en) & !is.na(admin1Name_fr) ~ admin1Name_fr,
       is.na(admin1Name_en) & !is.na(admin1Name_es) ~ admin1Name_es,
-      is.na(admin1Name_en) & !is.na(admin1Name_pt) ~ admin1Name_pt,
       !is.na(admin1Name_en) ~ admin1Name_en,
       TRUE ~ NA_character_
     ),
     admin2Name = case_when(
       is.na(admin2Name_en) & !is.na(admin2Name_fr) ~ admin2Name_fr,
       is.na(admin2Name_en) & !is.na(admin2Name_es) ~ admin2Name_es,
-      is.na(admin2Name_en) & !is.na(admin2Name_pt) ~ admin2Name_pt,
       !is.na(admin2Name_en) ~ admin2Name_en,
       TRUE ~ NA_character_
-      ),
+    ),
     admin3Name = case_when(
       is.na(admin3Name_en) & !is.na(admin3Name_fr) ~ admin3Name_fr,
       is.na(admin3Name_en) & !is.na(admin3Name_es) ~ admin3Name_es,
-      is.na(admin3Name_en) & !is.na(admin3Name_pt) ~ admin3Name_pt,
       !is.na(admin3Name_en) ~ admin3Name_en,
       TRUE ~ NA_character_
     ),
     admin4Name = case_when(
       is.na(admin4Name_en) & !is.na(admin4Name_fr) ~ admin4Name_fr,
-      is.na(admin4Name_en) & !is.na(admin4Name_es) ~ admin4Name_es,
-      is.na(admin4Name_en) & !is.na(admin4Name_pt) ~ admin4Name_pt,
       !is.na(admin4Name_en) ~ admin4Name_en,
       TRUE ~ NA_character_
-    )
+    ),
+    across(matches("^admin[0-9]Name$"), normalise_adm, .names = "{.col}_ref"),
+    across(matches("^admin[0-9]Pcode$"), toupper)
     )%>%
     relocate(admin0Name,admin0Pcode, admin1Name,admin1Pcode, admin2Name, admin2Pcode, admin3Name, admin3Pcode, admin4Name,admin4Pcode)
 
   return(all_dfs_rearranged)
 
-
 }
 
-scrap_one_URL_properties <- function(URL){
-  COD_URL <- "https://gistmaps.itos.uga.edu"
+#' Scrap data properties from one URL on OCHA COD API
+#'
+#' @param layer_URL character - A valid FeatureServer layer directory URL.
+#'     Example: "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer/2"
+#'
+#' @return list - a list containing two elements:
+#'     - name : character - string identifying the name of the layer
+#'     - data : data.frame - data frame containing the layer data.
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' one_URL_properties("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer/2")
+#' }
 
-  url_name <- tryCatch({paste0(COD_URL, URL)%>%
-    read_html() %>%
-    html_nodes("h2") %>%
-    as.character() %>%
-    stringr::str_extract("(?<=: ).*?(?= \\()")},
-    error=function(e){cat("URL not available:", conditionMessage(e), "\n")
+one_URL_properties <- function(layer_URL){
+
+  url_name <- tryCatch({layer_URL%>%
+      read_html() %>%
+      html_nodes("h2") %>%
+      as.character() %>%
+      stringr::str_extract("(?<=: ).*?(?= \\()")},
+      error=function(e){cat("URL not available for", layer_URL,":", conditionMessage(e), "\n")
       })
 
-  query_URL <- paste0(COD_URL, URL, "/query?where=OBJECTID%20%3E%200&outFields=%2A&returnGeometry=false&f=json")
+  query_URL <- paste0(layer_URL, "/query?where=OBJECTID%20%3E%200&outFields=%2A&returnGeometry=false&f=json")
 
-  json <- tryCatch({fromJSON(query_URL)}, error=function(e){cat("URL not available:", conditionMessage(e), "\n")})
+  json <- tryCatch({fromJSON(query_URL)}, error=function(e){cat("URL not available for", layer_URL,":", conditionMessage(e), "\n")})
 
   properties <- json$features$attributes
   list_properties <- list(name = url_name, data = properties)
@@ -94,71 +131,44 @@ scrap_one_URL_properties <- function(URL){
 
 }
 
+#' Scrape all pcodes information on a specific country by iso3 code
+#'
+#' @param country_iso3 character - A valid country {https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3}{iso3 code}
+#'
+#' @return list - a list for the specified URL containing two elements:
+#'     - name : character - string identifying the name of the layer
+#'     - data : data.frame - data frame containing the layer data.
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' country_pcodes_iso3("AFG")
+#' }
 
-scrap_country <- function(URL){
-  COD_URL <- "https://gistmaps.itos.uga.edu"
-
-  all_layers <- tryCatch({paste0(COD_URL, URL, "/layers")%>%
-    read_html() %>%
-    html_nodes("a")%>%
-    xml_attr("href")},
-    error=function(e){cat("URL not available:", conditionMessage(e), "\n")}
-  )
-
-  all_layers <- all_layers[grepl("[0-9]$", all_layers)]
-
-  all_layers_available <- tryCatch({paste0(COD_URL, URL, "/layers")%>%
-    read_html() %>%
-    html_nodes("h3") %>%
-    as.character()},
-    error=function(e){cat("URL not available:", conditionMessage(e), "\n")}
-  )
-
-  if(is.null(all_layers) | is.null(all_layers_available) ){
-    message("URL not available")
-    return(NULL)
-  }else{
-
-    all_layers_names <-stringr::str_extract(all_layers_available,'(?<=">).*?(?=<)')
-    all_layers_id <- stringr::str_extract(all_layers_available,"(?<=<\\/a> \\().*?(?=\\)<\\/h3>)")
-
-    admin_levels_nb <- as.numeric(unlist(str_extract_all(all_layers_names[grepl("^Admin[0-9]", all_layers_names)],  "[0-9]")))
-    lowest_admin  <- all_layers_names[grepl(paste0("Admin",max(admin_levels_nb)), all_layers_names)]
-    lowest_admin_id <- all_layers_id[grepl(lowest_admin, all_layers_names)]
-
-
-    lowest_admin_layer <- all_layers[grepl(paste0(lowest_admin_id, "$"), all_layers)]
-
-    all_properties <- scrap_one_URL_properties(lowest_admin_layer)
-
-    return(all_properties$data)
-  }
+country_pcodes_iso3 <- function(country_iso3){
+  country_URL <- paste0("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/",country_iso3,"_pcode/FeatureServer")
+  country_data <- country_pcodes_URL(country_URL)
+  return(country_data)
 }
 
-scrap_one_URL_geoJSON <- function(URL){
+#' Scrape all pcodes information on a specific country
+#'
+#' @param country_URL character - A valid country FeatureServer directory URL.
+#'     Example: "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer"
+#'
+#' @return list - a list for the specified URL containing two elements:
+#'     - name : character - string identifying the name of the layer
+#'     - data : data.frame - data frame containing the layer data.
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' country_pcodes_URL("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer")
+#' }
 
-  COD_URL <- "https://gistmaps.itos.uga.edu"
+country_pcodes_URL <- function(country_URL){
 
-  url_name <- tryCatch({paste0(COD_URL, URL)%>%
-      read_html() %>%
-      html_nodes("h2") %>%
-      as.character() %>%
-      stringr::str_extract("(?<=: ).*?(?= \\()")},
-      error=function(e){cat("URL not available:", conditionMessage(e), "\n")
-      })
-
-  query_URL <- paste0(COD_URL, URL, "/query?where=OBJECTID+>%3D+0&objectIds=&time=&geometry=&geometryType=esriGeometryPolygon&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=&resultOffset=&resultRecordCount=&returnTrueCurves=false&sqlFormat=none&f=geojson")
-  readlines_geojson <- readLines(query_URL, warn = FALSE)
-
-  return(readlines_geojson)
-
-}
-
-
-scrap_country_geojson <- function(URL){
-  COD_URL <- "https://gistmaps.itos.uga.edu"
-
-  all_layers <- tryCatch({paste0(COD_URL, URL, "/layers")%>%
+  all_layers <- tryCatch({paste0(country_URL, "/layers")%>%
       read_html() %>%
       html_nodes("a")%>%
       xml_attr("href")},
@@ -167,7 +177,7 @@ scrap_country_geojson <- function(URL){
 
   all_layers <- all_layers[grepl("[0-9]$", all_layers)]
 
-  all_layers_available <- tryCatch({paste0(COD_URL, URL, "/layers")%>%
+  all_layers_available <- tryCatch({paste0(country_URL, "/layers")%>%
       read_html() %>%
       html_nodes("h3") %>%
       as.character()},
@@ -180,7 +190,9 @@ scrap_country_geojson <- function(URL){
   }else{
 
     all_layers_names <-stringr::str_extract(all_layers_available,'(?<=">).*?(?=<)')
+    all_layers_names <- all_layers_names[grepl("[0-9]$", all_layers_names)]
     all_layers_id <- stringr::str_extract(all_layers_available,"(?<=<\\/a> \\().*?(?=\\)<\\/h3>)")
+    all_layers_id <- all_layers_id[1:length(all_layers_names)]
 
     admin_levels_nb <- as.numeric(unlist(str_extract_all(all_layers_names[grepl("^Admin[0-9]", all_layers_names)],  "[0-9]")))
     lowest_admin  <- all_layers_names[grepl(paste0("Admin",max(admin_levels_nb)), all_layers_names)]
@@ -188,10 +200,113 @@ scrap_country_geojson <- function(URL){
 
 
     lowest_admin_layer <- all_layers[grepl(paste0(lowest_admin_id, "$"), all_layers)]
+    lowest_admin_layer_URL <- paste0(country_URL, "/", lowest_admin_id)
 
-    geo_json <- scrap_one_URL_geoJSON(lowest_admin_layer)
+    all_properties <- one_URL_properties(lowest_admin_layer_URL)
+
+    return(all_properties$data)
+  }
+}
+
+#' Scrap geoJSON from one URL on \href{https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External}{OCHA COD REST API}
+#'
+#' @param layer_URL character - A valid FeatureServer layer directory URL.
+#'     Example: "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer/2"
+#'
+#' @return geoJSON -  a geoJSON object containing the layer's features
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' one_URL_geoJSON("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer/2")
+#' }
+one_URL_geoJSON <- function(layer_URL){
+
+  url_name <- tryCatch({layer_URL%>%
+      read_html() %>%
+      html_nodes("h2") %>%
+      as.character() %>%
+      stringr::str_extract("(?<=: ).*?(?= \\()")},
+      error=function(e){cat("URL not available:", conditionMessage(e), "\n")
+      })
+
+  query_URL <- paste0(layer_URL, "/query?where=OBJECTID+>%3D+0&objectIds=&time=&geometry=&geometryType=esriGeometryPolygon&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=&resultOffset=&resultRecordCount=&returnTrueCurves=false&sqlFormat=none&f=geojson")
+  readlines_geojson <- fromJSON(query_URL)
+
+  return(readlines_geojson)
+
+}
+
+
+#' Scrape geoJSON features on a specific country
+#'
+#' @param country_URL character - A valid country FeatureServer directory URL.
+#'     Example: "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer"
+#'
+#' @return geoJSON -  a geoJSON object containing the layer's features
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' country_geojson_URL("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/FeatureServer")
+#' }
+country_geojson_URL <- function(country_URL){
+
+  all_layers <- tryCatch({paste0(country_URL, "/layers")%>%
+      read_html() %>%
+      html_nodes("a")%>%
+      xml_attr("href")},
+      error=function(e){cat("URL not available:", conditionMessage(e), "\n")}
+  )
+
+  all_layers <- all_layers[grepl("[0-9]$", all_layers)]
+
+  all_layers_available <- tryCatch({paste0(country_URL, "/layers")%>%
+      read_html() %>%
+      html_nodes("h3") %>%
+      as.character()},
+      error=function(e){cat("URL not available:", conditionMessage(e), "\n")}
+  )
+
+  if(is.null(all_layers) | is.null(all_layers_available) ){
+    message("URL not available")
+    return(NULL)
+  }else{
+
+    all_layers_names <-stringr::str_extract(all_layers_available,'(?<=">).*?(?=<)')
+    all_layers_names <- all_layers_names[grepl("[0-9]$", all_layers_names)]
+    all_layers_id <- stringr::str_extract(all_layers_available,"(?<=<\\/a> \\().*?(?=\\)<\\/h3>)")
+    all_layers_id <- all_layers_id[1:length(all_layers_names)]
+
+    admin_levels_nb <- as.numeric(unlist(str_extract_all(all_layers_names[grepl("^Admin[0-9]", all_layers_names)],  "[0-9]")))
+    lowest_admin  <- all_layers_names[grepl(paste0("Admin",max(admin_levels_nb)), all_layers_names)]
+    lowest_admin_id <- all_layers_id[grepl(lowest_admin, all_layers_names)]
+
+    lowest_admin_layer <- all_layers[grepl(paste0(lowest_admin_id, "$"), all_layers)]
+    lowest_admin_layer_URL <- paste0(country_URL, "/", lowest_admin_id)
+
+    geo_json <- one_URL_geoJSON(lowest_admin_layer_URL)
 
     return(geo_json)
   }
 }
 
+#' Scrape geoJSON layers on a specific country by iso3 code
+#'
+#' @param country_iso3 character - A valid country {https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3}{iso3 code}
+#'
+#' @return list - a list for the specified URL containing two elements:
+#'     - name : character - string identifying the name of the layer
+#'     - data : data.frame - data frame containing the layer data.
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' country_geojson_iso3("AFG")
+#' }
+
+country_geojson_iso3 <- function(country_iso3){
+  country_URL <- paste0("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/",country_iso3,"_pcode/FeatureServer")
+  country_data <- country_geojson_URL(country_URL)
+  return(country_data)
+}

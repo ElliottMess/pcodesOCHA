@@ -1,0 +1,430 @@
+OBJECTID,admin2Name_en,admin2Name_fa,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin2AltName1_fa,admin2AltName2_fa,admin1Name_en,admin1Name_fa,admin1Pcode,admin0Name_en,admin0Name_fa,admin0Pcode,date,validOn,validTo
+1,Abadan,شهرستان آبادان,IR015001,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+2,Abadeh,شهرستان آباده,IR006001,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+3,Abarkuh,شهرستان ابرکوه,IR030001,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+4,Abbasabad,شهرستان عباس آباد,IR020001,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+5,Abdanan,شهرستان آبدانان,IR011001,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+6,Abhar,شهرستان ابهر,IR031001,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+7,Abumusa,شهرستان ابوموسی,IR010001,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+8,Abyek,شهرستان آبیک,IR022001,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+9,Aghajari,شهرستان آغاجاری,IR015002,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+10,Ahar,شهرستان اهر,IR005001,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+11,Ahvaz,شهرستان اهواز,IR015003,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+12,Ajabshir,شهرستان عجب‌شیر,IR005002,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+13,Alborz,شهرستان البرز,IR022002,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+14,Aliabad,شهرستان علی آباد,IR008001,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+15,Aligudarz,شهرستان الیگودرز,IR018001,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+16,Amlash,شهرستان املش,IR007001,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+17,Amol,شهرستان آمل,IR020002,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+18,Anar,شهرستان انار,IR013001,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+19,Anbarabad,شهرستان عنبرآباد,IR013002,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+20,Andika,شهرستان اندیکا,IR015004,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+21,Andimeshk,شهرستان اندیمشک,IR015005,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+22,Aqqala,شهرستان آق قلا,IR008002,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+23,Aradan,شهرستان آرادان,IR025001,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+24,Arak,شهرستان اراک,IR019001,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+25,Aran-o-Bidgol,شهرستان آران وبیدگل,IR012001,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+26,Ardabil,شهرستان اردبیل,IR002001,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+27,Ardal,شهرستان اردل,IR004001,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+28,Ardekan,شهرستان اردکان,IR030002,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+29,Ardestan,شهرستان اردستان,IR012002,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+30,Arsanjan,شهرستان ارسنجان,IR006002,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+31,Arzuiyeh,شهرستان ارزوئیه,IR013003,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+32,Asadabad,شهرستان اسدآباد,IR009001,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+33,Asaluyeh,شهرستان عسلویه,IR003001,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+34,Ashkezar,شهرستان اشکذر,IR030003,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+35,Ashtian,شهرستان آشتیان,IR019002,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+36,Astane-ye-Ashrafiyeh,شهرستان آستانه اشرفیه,IR007002,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+37,Astara,شهرستان آستارا,IR007003,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+38,Avaj,شهرستان آوج,IR022003,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+39,Azadshahr,شهرستان آزادشهر,IR008003,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+40,Azarshahr,شهرستان آذرشهر,IR005003,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+41,Azna,شهرستان ازنا,IR018002,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+42,Babol,شهرستان بابل,IR020003,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+43,Babolsar,شهرستان بابلسر,IR020004,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+44,Badre,شهرستان بدره,IR011002,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+45,Bafq,شهرستان بافق,IR030004,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+46,Baft,شهرستان بافت,IR013004,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+47,Baghmalek,شهرستان باغ‌ملک,IR015006,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+48,Bahabad,شهرستان بهاباد,IR030005,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+49,Bahar,شهرستان بهار,IR009002,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+50,Baharestan,شهرستان بهارستان,IR028001,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+51,Bahmai,شهرستان بهمئی,IR016001,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+52,Bajestan,شهرستان بجستان,IR024001,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+53,Bakharz,شهرستان باخرز,IR024002,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+54,Bam,شهرستان بم,IR013005,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+55,Bandar-Abbas,شهرستان بندرعباس,IR010002,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+56,Bandar-e-Anzali,شهرستان بندر انزلی,IR007004,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+57,Bandar-e-Gaz,شهرستان بندر گز,IR008004,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+58,Bandar-e-Torkaman,شهرستان ترکمن,IR008014,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+59,Bandar-Lengeh,شهرستان بندر لنگه,IR010003,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+60,Baneh,شهرستان بانه,IR017001,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+61,Bardaskan,شهرستان بردسکن,IR024003,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+62,Bardsir,شهرستان بردسیر,IR013006,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+63,Bashagard,شهرستان بشاگرد,IR010004,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+64,Basht,شهرستان باشت,IR016002,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+65,Bastak,شهرستان بستک,IR010005,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+66,Bavanat,شهرستان بوانات,IR006003,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+67,Bavi,شهرستان باوی,IR015008,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+68,Behbahan,شهرستان بهبهان,IR015009,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+69,Behshahr,شهرستان بهشهر,IR020005,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+70,Ben,شهرستان بن,IR004002,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+71,Bijar,شهرستان بیجار,IR017002,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+72,Bilasavar,شهرستان بیله‌سوار,IR002002,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+73,Birjand,شهرستان بیرجند,IR027001,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+74,Bojnurd,شهرستان بجنورد,IR021001,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+75,Bonab,شهرستان بناب,IR005004,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+76,Booeino Miyandasht,شهرستان بوئین ومیاندشت,IR012004,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+77,Borkhar,شهرستان برخوار,IR012003,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+78,Borujen,شهرستان بروجن,IR004003,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+79,Borujerd,شهرستان بروجرد,IR018003,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+80,Boshruyeh,شهرستان بشرویه,IR027002,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+81,Bostanabad,شهرستان بستان آباد,IR005005,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+82,Buin-Zahra,شهرستان بوئین زهرا,IR022004,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+83,Bukan,شهرستان بوکان,IR029002,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+84,Bushehr,شهرستان بوشهر,IR003002,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+85,Chabahar,شهرستان چابهار,IR026001,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+86,Chadegan,شهرستان چادگان,IR012005,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+87,Chaldoran,شهرستان چالدران,IR029003,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+88,Chalus,شهرستان چالوس,IR020006,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+89,Charam,شهرستان چرام,IR016004,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+90,Charuymaq,شهرستان چاراویماق,IR005006,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+91,Chaypareh,شهرستان چایپاره,IR029004,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+92,Chenaran,شهرستان چناران,IR024005,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+93,Dalaho,شهرستان دالاهو,IR014001,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+94,Dalgan,شهرستان دلگان,IR026002,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+95,Damavand,شهرستان دماوند,IR028002,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+96,Damghan,شهرستان دامغان,IR025002,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+97,Darab,شهرستان داراب,IR006004,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+98,Dargaz,شهرستان درگز,IR024006,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+99,Darmian,شهرستان درمیان,IR027003,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+100,Darreh Shahr,شهرستان دره‌شهر,IR011004,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+101,Dasht-e-Azadegan,شهرستان دشت آزادگان,IR015010,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+102,Dashtestan,شهرستان دشتستان,IR003003,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+103,Dashti,شهرستان دشتی,IR003004,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+104,Davarzan,شهرستان داورزن,IR024007,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+105,Dayyer,شهرستان دیر,IR003006,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+106,Dehaghan,شهرستان دهاقان,IR012006,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+107,Dehgolan,شهرستان دهگلان,IR017003,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+108,Dehloran,شهرستان دهلران,IR011005,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+109,Delfan,شهرستان دلفان,IR018004,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+110,Delijan,شهرستان دلیجان,IR019003,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+111,Dena,شهرستان دنا,IR016005,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+112,Deylam,شهرستان دیلم,IR003005,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+113,Dezful,شهرستان دزفول,IR015011,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+114,Divandarreh,شهرستان دیواندره,IR017004,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+115,Dorud,شهرستان دورود,IR018006,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+116,Doureh,شهرستان دوره,IR018005,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+117,Eejrud,شهرستان ایجرود,IR031002,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+118,Eqlid,شهرستان اقلید,IR006005,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+119,Esfarayen,شهرستان اسفراین,IR021002,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+120,Eshtehard,شهرستان اشتهارد,IR001001,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+121,Estahban,شهرستان استهبان,IR006006,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+122,Eyvan,شهرستان ایوان,IR011006,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+123,Fahraj,شهرستان فهرج,IR013007,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+124,Falavarjan,شهرستان فلاورجان,IR012007,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+125,Famenin,شهرستان فامنین,IR009003,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+126,Fanouj,شهرستان فنوج,IR026003,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+127,Farahan,شهرستان فراهان,IR019004,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+128,Farashband,شهرستان فراشبند,IR006007,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+129,Fardis,شهرستان فردیس,IR001002,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+130,Faridan,شهرستان فریدن,IR012008,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+131,Fariman,شهرستان فریمان,IR024008,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+132,Faroj,شهرستان فاروج,IR021003,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+133,Farsan,شهرستان فارسان,IR004004,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+134,Faryab,شهرستان فاریاب,IR013008,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+135,Fasa,شهرستان فسا,IR006008,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+136,Ferdows,شهرستان فردوس,IR027004,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+137,Feredunkenar,شهرستان فریدونکنار,IR020007,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+138,Fereydunshahr,شهرستان فریدون شهر,IR012009,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+139,Firuzabad,شهرستان فیروزآباد,IR006009,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+140,Firuzeh,شهرستان فیروزه,IR024009,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+141,Firuzkuh,شهرستان فیروزکوه,IR028003,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+142,Fuman,شهرستان فومن,IR007005,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+143,Gachsaran,شهرستان گچساران,IR016006,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+144,Galikash,شهرستان گالیکش,IR008005,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+145,Galugah,شهرستان گلوگاه,IR020008,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+146,Ganaveh,شهرستان گناوه,IR003007,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+147,Garmsar,شهرستان گرمسار,IR025003,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+148,Gerash,شهرستان گراش,IR006010,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+149,Germeh,شهرستان گرمه,IR021004,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+150,Germi,شهرستان گرمی,IR002003,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+151,Ghaleye-Ganj,شهرستان قلعه‌گنج,IR013009,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+152,Ghasre Ghand,شهرستان قصرقند,IR026013,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+153,Gilan-e-Gharb,شهرستان گیلانغرب,IR014003,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+154,Golpayegan,شهرستان گلپایگان,IR012010,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+155,Gomishan,شهرستان گمیشان,IR008006,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+156,Gonabad,شهرستان گناباد,IR024010,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+157,Gonbad-e-Kavus,شهرستان گنبد کاووس,IR008007,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+158,Gorgan,شهرستان گرگان,IR008008,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+159,Guotvand,شهرستان گتوند,IR015012,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+160,Haftgol,شهرستان هفتکل,IR015013,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+161,Hajiabad,شهرستان حاجی‌آباد,IR010006,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+162,Hamadan,شهرستان همدان,IR009004,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+163,Hamidieh,شهرستان حمیدیه,IR015014,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+164,Hamoun,شهرستان هامون,IR026004,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+165,Harsin,شهرستان هرسین,IR014004,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+166,Hashtrud,شهرستان هشترود,IR005007,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+167,Hendijan,شهرستان هندیجان,IR015015,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+168,Heris,شهرستان هریس,IR005008,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+169,Hirmand,شهرستان هیرمند,IR026005,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+170,Hoveizeh,شهرستان هویزه,IR015016,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+171,Ilam,شهرستان ایلام,IR011007,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+172,Iranshahr,شهرستان ایرانشهر,IR026006,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+173,Isfahan,شهرستان اصفهان,IR012011,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+174,Islamabad-e-Gharb,شهرستان اسلام آبادغرب,IR014002,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+175,Islamshahr,شهرستان اسلامشهر,IR028005,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+176,Izeh,شهرستان ایذه,IR015017,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+177,Jahrom,شهرستان جهرم,IR006011,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+178,Jajrom,شهرستان جاجرم,IR021005,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+179,Jam,شهرستان جم,IR003008,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+180,Jask,شهرستان جاسک,IR010007,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+181,Javanrud,شهرستان جوانرود,IR014005,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+182,Jiroft,شهرستان جیرفت,IR013010,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+183,Joghatai,شهرستان جغتای,IR024011,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+184,Jolfa,شهرستان جلفا,IR005009,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+185,Jowayin,شهرستان جوین,IR024012,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+186,Juybar,شهرستان جویبار,IR020010,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+187,Kabudarahang,شهرستان کبودرآهنگ,IR009005,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+188,Kahnuj,شهرستان کهنوج,IR013011,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+189,Kalat,شهرستان کلات,IR024013,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+190,Kalibar,شهرستان کلیبر,IR005010,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+191,Kamyaran,شهرستان کامیاران,IR017006,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+192,Kangan,شهرستان کنگان,IR003009,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+193,Kangavar,شهرستان کنگاور,IR014006,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+194,Karaj,شهرستان کرج,IR001003,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+195,Karoun,شهرستان کارون,IR015018,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+196,Kashan,شهرستان کاشان,IR012012,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+197,Kashmar,شهرستان کاشمر,IR024014,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+198,Kavar,شهرستان کوار,IR006012,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+199,Kazerun,شهرستان کازرون,IR006013,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+200,Kelardasht,شهرستان کلاردشت,IR020011,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+201,Kerman,شهرستان کرمان,IR013012,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+202,Kermanshah,شهرستان کرمانشاه,IR014007,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+203,Khaf,شهرستان خواف,IR024015,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+204,Khalilabad,شهرستان خلیل آباد,IR024016,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+205,Khalkhal,شهرستان خلخال,IR002004,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+206,Khamir,شهرستان خمیر,IR010008,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+207,Khansar,شهرستان خوانسار,IR012013,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+208,Khash,شهرستان خاش,IR026007,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+209,Khatam,شهرستان خاتم,IR030006,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+210,Kherameh,شهرستان خرامه,IR006014,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+211,Khodaafarin,شهرستان خداآفرین,IR005011,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+212,Khodabandeh,شهرستان خدابنده,IR031003,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+213,Khomein,شهرستان خمین,IR019005,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+214,Khomeinishahr,شهرستان خمینی شهر,IR012014,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+215,Khondab,شهرستان خنداب,IR019006,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+216,Khonj,شهرستان خنج,IR006015,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+217,Khorobiyabanak,شهرستان خوروبیابانک,IR012015,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+218,Khorramabad,شهرستان خرم‌آباد,IR018007,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+219,Khorrambid,شهرستان خرم‌بید,IR006016,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+220,Khorramdarreh,شهرستان خرمدره,IR031004,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+221,Khorramshahr,شهرستان خرمشهر,IR015019,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+222,Khoshab,شهرستان خوشاب,IR024017,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+223,Khoy,شهرستان خوی,IR029005,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+224,Khusf,شهرستان خوسف,IR027006,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+225,Kiaar,شهرستان کیار,IR004005,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+226,Kohgeluyeh,شهرستان کهگیلویه,IR016007,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+227,Kolaleh,شهرستان کلاله,IR008009,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+228,Komeijan,شهرستان کمیجان,IR019007,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+229,Konarak,شهرستان کنارک,IR026008,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+230,Kordkuy,شهرستان کردکوی,IR008010,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+231,Kowsar,شهرستان کوثر,IR002005,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+232,Kuhbonan,شهرستان کوهبنان,IR013013,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+233,Kuhdasht,شهرستان کوهدشت,IR018008,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+234,Kuhrang,شهرستان کوهرنگ,IR004006,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+235,Lahijan,شهرستان لاهیجان,IR007006,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+236,Lali,شهرستان لالی,IR015020,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+237,Lamerd,شهرستان لامرد,IR006017,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+238,Landeh,شهرستان لنده,IR016008,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+239,Langrud,شهرستان لنگرود,IR007007,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+240,Larestan,شهرستان لارستان,IR006018,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+241,Lenjan,شهرستان لنجان,IR012016,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+242,Lordegan,شهرستان لردگان,IR004007,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+243,Mahabad,شهرستان مهاباد,IR029006,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+244,Mahallat,شهرستان محلات,IR019008,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+245,Mahmudabad,شهرستان محمودآباد,IR020012,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+246,Mahneshan,شهرستان ماه نشان,IR031005,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+247,Mahshahr,شهرستان بندر ماهشهر,IR015007,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+248,Mahvelat,شهرستان مه ولات,IR024018,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+249,Maku,شهرستان ماکو,IR029007,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+250,Malard,شهرستان ملارد,IR028006,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+251,Malayer,شهرستان ملایر,IR009006,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+252,Malekan,شهرستان ملکان,IR005012,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+253,Malekshahi,شهرستان ملکشاهی,IR011008,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+254,Mamasani,شهرستان ممسنی,IR006019,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+255,Maneh-o-Samalqan,شهرستان مانه وسملقان,IR021006,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+256,Manujan,شهرستان منوجان,IR013014,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+257,Maragheh,شهرستان مراغه,IR005013,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+258,Marand,شهرستان مرند,IR005014,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+259,Maravehtapeh,شهرستان مراوه‌تپه,IR008011,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+260,Marivan,شهرستان مریوان,IR017007,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+261,Marvdasht,شهرستان مرودشت,IR006020,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+262,Masal,شهرستان ماسال,IR007008,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+263,Mashhad,شهرستان مشهد,IR024019,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+264,Masjed-Soleyman,شهرستان مسجدسلیمان,IR015021,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+265,Mehdishahr,شهرستان مهدی شهر,IR025004,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+266,Mehr,شهرستان مهر,IR006021,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+267,Mehran,شهرستان مهران,IR011009,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+268,Mehrestan,شهرستان مهرستان,IR026009,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+269,Mehriz,شهرستان مهریز,IR030007,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+270,Meshginshahr,شهرستان مشگین‌شهر,IR002006,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+271,Meyami,شهرستان میامی,IR025005,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+272,Meybod,شهرستان میبد,IR030008,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+273,Miandoab,شهرستان میاندوآب,IR029008,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+274,Miandorud,شهرستان میاندورود,IR020013,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+275,Mianeh,شهرستان میانه,IR005015,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+276,Minab,شهرستان میناب,IR010009,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+277,Minudasht,شهرستان مینودشت,IR008012,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+278,Mirjaveh,شهرستان میرجاوه,IR026010,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+279,Mobarakeh,شهرستان مبارکه,IR012017,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+280,Nahavand,شهرستان نهاوند,IR009007,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+281,Nain,شهرستان نائین,IR012018,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+282,Najafabad,شهرستان نجف آباد,IR012019,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+283,Namin,شهرستان نمین,IR002007,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+284,Naqadeh,شهرستان نقده,IR029009,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+285,Natanz,شهرستان نطنز,IR012020,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+286,Nazarabad,شهرستان نظرآباد,IR001004,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+287,Nehbandan,شهرستان نهبندان,IR027007,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+288,Neka,شهرستان نکا,IR020014,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+289,Neyriz,شهرستان نی ریز,IR006022,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+290,Nikshahr,شهرستان نیک‌شهر,IR026011,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+291,Nimrouz,شهرستان نیمروز,IR026012,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+292,Nir,شهرستان نیر,IR002008,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+293,Nishapur,شهرستان نیشابور,IR024020,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+294,Normashir,شهرستان نرماشیر,IR013015,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+295,Northern Savadkooh,شهرستان سوادکوه شمالی,IR020019,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+296,Noshahr,شهرستان نوشهر,IR020015,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+297,Nur,شهرستان نور,IR020016,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+298,Omidiyeh,شهرستان امیدیه,IR015022,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+299,Oshnaviyeh,شهرستان اشنویه,IR029001,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+300,Osku,شهرستان اسکو,IR005016,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+301,Pakdasht,شهرستان پاکدشت,IR028007,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+302,Pardis,شهرستان پردیس,IR028008,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+303,Parsabad,شهرستان پارس آباد,IR002009,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+304,Parsian,شهرستان پارسیان,IR010010,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+305,Pasargad,شهرستان پاسارگاد,IR006023,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+306,Paveh,شهرستان پاوه,IR014008,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+307,Piranshahr,شهرستان پیرانشهر,IR029010,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+308,Pishva,شهرستان پیشوا,IR028009,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+309,Poldasht,شهرستان پلدشت,IR029011,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+310,Poldokhtar,شهرستان پلدختر,IR018009,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+311,Qaemshahr,شهرستان قائم‌شهر,IR020009,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+312,Qaen,شهرستان قائنات,IR027005,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+313,Qarchak,شهرستان قرچک,IR028004,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+314,Qasr-e-Shirin,شهرستان قصر شیرین,IR014009,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+315,Qazvin,شهرستان قزوین,IR022005,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+316,Qeshm,شهرستان قشم,IR010011,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+317,Qir-o-Karzin,شهرستان قیروکارزین,IR006024,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+318,Qom,شهرستان قم,IR023001,NA,NA,NA,NA,NA,Qom,قم,IR023,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+319,Qorveh,شهرستان قروه,IR017005,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+320,Quchan,شهرستان قوچان,IR024021,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+321,Rabar,شهرستان رابر,IR013016,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+322,Rafsanjan,شهرستان رفسنجان,IR013017,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+323,Ramhormoz,شهرستان رامهرمز,IR015023,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+324,Ramian,شهرستان رامیان,IR008013,NA,NA,NA,NA,NA,Golestan,گلستان,IR008,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+325,Ramsar,شهرستان رامسر,IR020017,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+326,Ramshir,شهرستان رامشیر,IR015024,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+327,Rasht,شهرستان رشت,IR007009,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+328,Rashtkhar,شهرستان رشتخوار,IR024022,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+329,Ravansar,شهرستان روانسر,IR014010,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+330,Ravar,شهرستان راور,IR013018,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+331,Razan,شهرستان رزن,IR009008,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+332,Razo Jalgelan,شهرستان رازوجرگلان,IR021007,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+333,Rey,شهرستان ری,IR028011,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+334,Rezvanshahr,شهرستان رضوانشهر,IR007010,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+335,Rigan,شهرستان ریگان,IR013019,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+336,Robat-Karim,شهرستان رباط کریم,IR028012,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+337,Romeshkan,شهرستان رومشکان,IR018010,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+338,Rostam,شهرستان رستم,IR006025,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+339,Roudbar-e-Jonub,شهرستان رودبار جنوب,IR013020,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+340,Rudan,شهرستان رودان,IR010012,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+341,Rudbar,شهرستان رودبار,IR007011,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+342,Rudsar,شهرستان رودسر,IR007012,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+343,Sabzevar,شهرستان سبزوار,IR024023,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+344,Sahneh,شهرستان صحنه,IR014011,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+345,Salmas,شهرستان سلماس,IR029012,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+346,Saman,شهرستان سامان,IR004008,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+347,Sannandaj,شهرستان سنندج,IR017008,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+348,Saqqez,شهرستان سقز,IR017009,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+349,Sarab,شهرستان سراب,IR005017,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+350,Sarakhs,شهرستان سرخس,IR024024,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+351,Saravan,شهرستان سراوان,IR026014,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+352,Sarayan,شهرستان سرایان,IR027008,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+353,Sarbaz,شهرستان سرباز,IR026015,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+354,Sarbisheh,شهرستان سربیشه,IR027009,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+355,Sardasht,شهرستان سردشت,IR029013,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+356,Sareyn,شهرستان سرعین,IR002010,NA,NA,NA,NA,NA,Ardabil,اردبیل,IR002,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+357,Sari,شهرستان ساری,IR020018,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+358,Sarpol-e-Zahab,شهرستان سرپل ذهاب,IR014013,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+359,Sarvabad,شهرستان سروآباد,IR017010,NA,NA,NA,NA,NA,Kurdistan,کردستان,IR017,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+360,Sarvestan,شهرستان سروستان,IR006026,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+361,Savadkuh,شهرستان سوادکوه,IR020020,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+362,Saveh,شهرستان ساوه,IR019009,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+363,Savojbolagh,شهرستان ساوجبلاغ,IR001005,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+364,Selseleh,شهرستان سلسله,IR018011,NA,NA,NA,NA,NA,Lorestan,لرستان,IR018,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+365,Semirom,شهرستان سمیرم,IR012022,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+366,Semnan,شهرستان سمنان,IR025006,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+367,Sepidan,شهرستان سپیدان,IR006027,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+368,Shabestar,شهرستان شبستر,IR005018,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+369,Shadegan,شهرستان شادگان,IR015025,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+370,Shaft,شهرستان شفت,IR007013,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+371,Shahindej,شهرستان شاهین‌دژ,IR029014,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+372,Shahinshahro Meymeh,شهرستان شاهین شهرومیمه,IR012023,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+373,Shahr-e-Babak,شهرستان شهربابک,IR013021,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+374,Shahr-e Qods,شهرستان قدس,IR028010,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+375,Shahrekord,شهرستان شهرکرد,IR004009,NA,NA,NA,NA,NA,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,IR004,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+376,Shahreza,شهرستان شهرضا,IR012021,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+377,Shahriar,شهرستان شهریار,IR028013,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+378,Shahrud,شهرستان شاهرود,IR025008,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+379,Shazand,شهرستان شازند,IR019010,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+380,Shemiranat,شهرستان شمیرانات,IR028014,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+381,Shiraz,شهرستان شیراز,IR006028,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+382,Shirvan,شهرستان شیروان,IR021008,NA,NA,NA,NA,NA,North Khorasan,خراسان شمالی,IR021,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+383,Shirvan-o-Chardavol,شهرستان چرداول,IR011003,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+384,Showt,شهرستان شوط,IR029015,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+385,Shush,شهرستان شوش,IR015026,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+386,Shushtar,شهرستان شوشتر,IR015027,NA,NA,NA,NA,NA,Khuzestan,خوزستان,IR015,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+387,Siahkal,شهرستان سیاهکل,IR007014,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+388,Sibo Soran,شهرستان سیب وسوران,IR026016,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+389,Simorgh,شهرستان سیمرغ,IR020021,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+390,Sirik,شهرستان سیریک,IR010013,NA,NA,NA,NA,NA,Hormozgan,هرمزگان,IR010,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+391,Sirjan,شهرستان سیرجان,IR013022,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+392,Sirvan,شهرستان سیروان,IR011010,NA,NA,NA,NA,NA,Ilam,ایلام,IR011,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+393,Solas-e-Babajani,شهرستان ثلاث باباجانی,IR014012,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+394,Soltanieh,شهرستان سلطانیه,IR031006,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+395,Some'e-Sara,شهرستان صومعه سرا,IR007015,Somee-Sara,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+396,Sonqor,شهرستان سنقر,IR014014,NA,NA,NA,NA,NA,Kermanshah,کرمانشاه,IR014,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+397,Sorkheh,شهرستان سرخه,IR025009,NA,NA,NA,NA,NA,Semnan,سمنان,IR025,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+398,Tabas,شهرستان طبس,IR027010,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+399,Tabriz,شهرستان تبریز,IR005019,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+400,Tafresh,شهرستان تفرش,IR019011,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+401,Taft,شهرستان تفت,IR030009,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+402,Takab,شهرستان تکاب,IR029016,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+403,Takestan,شهرستان تاکستان,IR022006,NA,NA,NA,NA,NA,Qazvin,قزوین,IR022,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+404,Taleghan,شهرستان طالقان,IR001006,NA,NA,NA,NA,NA,Alborz,البرز‎,IR001,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+405,Talesh,شهرستان طوالش,IR007016,NA,NA,NA,NA,NA,Gilan,گیلان,IR007,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+406,Tangestan,شهرستان تنگستان,IR003010,NA,NA,NA,NA,NA,Bushehr,بوشهر,IR003,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+407,Tarom,شهرستان طارم,IR031007,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+408,Taybad,شهرستان تایباد,IR024025,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+409,Tehran,شهرستان تهران,IR028015,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+410,Tiran-o-Korun,شهرستان تیران وکرون,IR012024,NA,NA,NA,NA,NA,Isfahan,اصفهان,IR012,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+411,Tonekabon,شهرستان تنکابن,IR020022,NA,NA,NA,NA,NA,Mazandaran,مازندران,IR020,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+412,Torbat-e-Heydarieh,شهرستان تربت حیدریه,IR024026,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+413,Torbat-e-Jam,شهرستان تربت جام,IR024027,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+414,Torghabe-o-Shandiz,شهرستان بینالود,IR024004,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+415,Tuyserkan,شهرستان تویسرکان,IR009009,NA,NA,NA,NA,NA,Hamadan,همدان,IR009,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+416,Urumia,شهرستان ارومیه,IR029017,NA,NA,NA,NA,NA,West Azerbaijan,آذربایجان غربی,IR029,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+417,Varamin,شهرستان ورامین,IR028016,NA,NA,NA,NA,NA,Tehran,تهران,IR028,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+418,Varzaqan,شهرستان ورزقان,IR005020,NA,NA,NA,NA,NA,East Azerbaijan,آذربایجان شرقی,IR005,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+419,"Yasooj",شهرستان بویراحمد,IR016003,NA,NA,NA,NA,NA,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,IR016,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+420,Yazd,شهرستان یزد,IR030010,NA,NA,NA,NA,NA,Yazd,یزد,IR030,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+421,Zabol,شهرستان زابل,IR026017,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+422,Zahedan,شهرستان زاهدان,IR026019,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+423,Zanjan,شهرستان زنجان,IR031008,NA,NA,NA,NA,NA,Zanjan,زنجان,IR031,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+424,Zarand,شهرستان زرند,IR013023,NA,NA,NA,NA,NA,Kerman,کرمان,IR013,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+425,Zarandieh,شهرستان زرندیه,IR019012,NA,NA,NA,NA,NA,Markazi,مرکزی,IR019,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+426,Zarrindasht,شهرستان زرین‌دشت,IR006029,NA,NA,NA,NA,NA,Fars,فارس,IR006,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+427,Zave,شهرستان زاوه,IR024028,NA,NA,NA,NA,NA,Razavi Khorasan,خراسان رضوی,IR024,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+428,Zehak,شهرستان زهک,IR026018,NA,NA,NA,NA,NA,Sistan and Baluchestan,سیستان و بلوچستان,IR026,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA
+429,Zirkouh,شهرستان زیرکوه,IR027011,NA,NA,NA,NA,NA,South Khorasan,خراسان جنوبی,IR027,Iran (Islamic Republic of),ایران (جمهوری اسلامی),IR,1554768000000,1557792000000,NA

@@ -1,0 +1,56 @@
+OBJECTID,admin3Name_en,admin3Pcode,admin3RefName,admin3AltName1_en,admin3AltName2_en,admin2Name_en,admin2Pcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo
+1,Adda,KM121,NA,NA,NA,Mrémani,KM12,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+2,Bambao Mtrouni,KM141,NA,NA,NA,Ouani,KM14,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+3,Bambao Mtsanga,KM111,NA,NA,NA,Domoni,KM11,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+4,Bambao Ya Hari,KM271,NA,NA,NA,Moroni-Bambao,KM27,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+5,Bambao Ya Mboini,KM272,NA,NA,NA,Moroni-Bambao,KM27,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+6,Bambao Yadjou,KM273,NA,NA,NA,Moroni-Bambao,KM27,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+7,Bandrani Ya Chironkamba,KM131,NA,NA,NA,Mutsamudu,KM13,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+8,Bandrani Ya Mtsangani,KM132,NA,NA,NA,Mutsamudu,KM13,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+9,Bangaani,KM231,NA,NA,NA,Itsandra-Hamanvou,KM23,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+10,Bazimini,KM142,NA,NA,NA,Ouani,KM14,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+11,Cembenoi Lac Salé,KM261,Cembenoi Lac Sale,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+12,Cembenoi Sada Djoulamlima,KM262,NA,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+13,Chaweni,KM122,NA,NA,NA,Mrémani,KM12,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+14,Cratère du Karthala,KM291,Cratere du Karthala,NA,NA,Kartala,KM29,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+15,Dimani,KM281,NA,NA,NA,Oichili-Dimani,KM28,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+16,Djando,KM311,NA,NA,NA,Djando,KM31,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+17,Djoumoichongo,KM232,NA,NA,NA,Itsandra-Hamanvou,KM23,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+18,Djoumoipangua,KM221,NA,NA,NA,Hambou,KM22,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+19,Domba,KM241,NA,NA,NA,Mbadjini Est,KM24,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+20,Domoni,KM112,NA,NA,NA,Domoni,KM11,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+21,Fomboni,KM321,NA,NA,NA,Fomboni,KM32,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+22,Hamanvou,KM233,NA,NA,NA,Itsandra-Hamanvou,KM23,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+23,Isahari,KM234,NA,NA,NA,Itsandra-Hamanvou,KM23,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+24,Itsahidi,KM242,NA,NA,NA,Mbadjini Est,KM24,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+25,Jimlimé,KM113,Jimlime,NA,NA,Domoni,KM11,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+26,Koni,KM114,NA,NA,NA,Domoni,KM11,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+27,Mbadani,KM235,NA,NA,NA,Itsandra-Hamanvou,KM23,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+28,Mboinkou,KM211,NA,NA,NA,Hamahamet-Mboinkou,KM21,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+29,Mirontsi,KM133,NA,NA,NA,Mutsamudu,KM13,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+30,Mitsamiouli,KM263,NA,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+31,Mlédjélé,KM331,Mledjele,NA,NA,Nioumachioi,KM33,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+32,Moili Mdjini,KM322,NA,NA,NA,Fomboni,KM32,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+33,Moimbao,KM332,NA,NA,NA,Nioumachioi,KM33,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+34,Moimbassa,KM323,NA,NA,NA,Fomboni,KM32,Mohéli (Mwali),KM3,Comoros (the),KM,1545955200000,1575504000000,NA
+35,Moroni,KM274,NA,NA,NA,Moroni-Bambao,KM27,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+36,Moya,KM151,NA,NA,NA,Sima,KM15,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+37,Mramani,KM123,NA,NA,NA,Mrémani,KM12,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+38,Mrémani,KM124,Mremani,NA,NA,Mrémani,KM12,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+39,Mutsamudu,KM134,NA,NA,NA,Mutsamudu,KM13,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+40,Ngandzalé,KM115,Ngandzale,NA,NA,Domoni,KM11,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+41,Ngouengoe,KM251,NA,NA,NA,Mbadjini Ouest,KM25,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+42,Nioumagama,KM252,NA,NA,NA,Mbadjini Ouest,KM25,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+43,Nyuma Komo,KM264,NA,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+44,Nyuma Mro,KM212,NA,NA,NA,Hamahamet-Mboinkou,KM21,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+45,Nyuma Msiru,KM213,NA,NA,NA,Hamahamet-Mboinkou,KM21,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+46,Nyumamro Kiblani,KM265,NA,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+47,Nyumamro Souheili,KM266,NA,NA,NA,Mitsamiouli-Mboudé,KM26,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+48,Oichili Yadjou,KM282,NA,NA,NA,Oichili-Dimani,KM28,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+49,Oichili Yamboini,KM283,NA,NA,NA,Oichili-Dimani,KM28,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+50,Ongojou,KM125,NA,NA,NA,Mrémani,KM12,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+51,Ouani,KM143,NA,NA,NA,Ouani,KM14,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+52,Pimba,KM243,NA,NA,NA,Mbadjini Est,KM24,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+53,Sima,KM152,NA,NA,NA,Sima,KM15,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA
+54,Tsinimoipangua,KM222,NA,NA,NA,Hambou,KM22,Grande Comore (Ngazidja),KM2,Comoros (the),KM,1545955200000,1575504000000,NA
+55,Vouani,KM153,NA,NA,NA,Sima,KM15,Anjouan (Ndzouani),KM1,Comoros (the),KM,1545955200000,1575504000000,NA

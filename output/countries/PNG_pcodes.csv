@@ -1,0 +1,327 @@
+OBJECTID,admin3Name_en,admin3Pcode,admin3RefName,admin3AltName1_en,admin3AltName2_en,admin2Name_en,admin2Pcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo
+1,Afore Rural LLG,PG060103,NA,NA,NA,Ijivitari District,PG0601,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+2,Agarabi Rural LLG,PG110418,NA,NA,NA,Kainanatu District,PG1104,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+3,Ahi Rural LLG,PG120515,NA,NA,NA,Lae District,PG1205,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+4,Aiya Rural LLG,PG070332,NA,NA,NA,Kagua/Erave District,PG0703,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+5,Albiges/Mablep Rural LLG,PG140310,NA,NA,NA,Maprik District,PG1403,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+6,Almami Rural LLG,PG130101,NA,NA,NA,Bogia District,PG1301,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+7,Alotau Urban LLG,PG050107,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+8,Amanab Rural LLG,PG150412,NA,NA,NA,Vanimo/Green River District,PG1504,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+9,Amazon Bay Rural LLG,PG030101,NA,NA,NA,Abau District,PG0301,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+10,Ambenob Rural LLG,PG130204,NA,NA,NA,Madang District,PG1302,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+11,Ambum Rural LLG,PG080203,NA,NA,NA,Kompiam District,PG0802,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+12,Ambunti Rural LLG,PG140101,NA,NA,NA,Ambunti/Drekikier District,PG1401,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+13,Anglimp Rural LLG,PG220101,NA,NA,NA,Anglimp/South Waghi District,PG2201,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+14,Angoram/Middle Sepik LLG,PG140205,NA,NA,NA,Angoram District,PG1402,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+15,Arabaka Rural LLG,PG130307,NA,NA,NA,Middle Ramu District,PG1303,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+16,Arawa LLG,PG200208,NA,NA,NA,Central Bougainville District,PG2002,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+17,Aroma Rural LLG,PG030102,NA,NA,NA,Abau District,PG0301,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+18,Astrolabe Bay Rural LLG,PG130410,NA,NA,NA,Rai Coast District,PG1304,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+19,Attols LLG,PG200106,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+20,Aua Wuvulu LLG,PG160101,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+21,Awi/Pori Rural LLG,PG210514,NA,NA,NA,Koroba/Kopiago District,PG2105,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+22,Baimuru Rural LLG,PG020207,NA,NA,NA,Kikori District,PG0202,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+23,Baiyer Rural LLG,PG090509,NA,NA,NA,Mul/Baiyer District,PG0905,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+24,Balanataman Rural LLG,PG180415,NA,NA,NA,Rabaul District,PG1804,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+25,Bali/Witu Rural LLG,PG190207,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+26,Balimo Urban LLG,PG010101,NA,NA,NA,Middle Fly District,PG0101,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+27,Balopa LLG,PG160111,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+28,Bamu Rural LLG,PG010102,NA,NA,NA,Middle Fly District,PG0101,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+29,Bana LLG,PG200311,NA,NA,NA,South Bougainville District,PG2003,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+30,Bewani/Wutung Onei Rural LLG,PG150413,NA,NA,NA,Vanimo/Green River District,PG1504,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+31,Bialla Rural LLG,PG190206,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+32,Bisikani/Soparibeu LLG,PG160103,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+33,Bitapaka Rural LLG,PG180206,NA,NA,NA,Kokopo District,PG1802,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+34,Boikin/Dagua Rural LLG,PG140414,NA,NA,NA,Wewak District,PG1404,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+35,Bomai/Gumai Rural LLG,PG100204,NA,NA,NA,Gumine District,PG1002,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+36,Buang Rural LLG,PG120129,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+37,Buin LLG,PG200309,NA,NA,NA,South Bougainville District,PG2003,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+38,Buka LLG,PG200104,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+39,Bumbita/Muhian Rural LLG,PG140311,NA,NA,NA,Maprik District,PG1403,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+40,Bundi Rural LLG,PG130615,NA,NA,NA,Usino Bundi District,PG1306,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+41,Burui/Kunai Rural LLG,PG140519,NA,NA,NA,Wosera Gawi District,PG1405,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+42,Burum Kwat LLG,PG120206,NA,NA,NA,Finschafen District,PG1202,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+43,Bwanabwana Rural LLG,PG050208,NA,NA,NA,Samarai-Murua District,PG0502,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+44,Central Gazelle Rural LLG,PG180101,NA,NA,NA,Gazelle District,PG1801,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+45,Central Kerema Rural LLG,PG020101,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+46,Central/Inland Pomio LLG,PG180310,NA,NA,NA,Pomio District,PG1803,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+47,Chuave Rural LLG,PG100101,NA,NA,NA,Chuave District,PG1001,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+48,Cloudy Bay Rural LLG,PG030103,NA,NA,NA,Abau District,PG0301,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+49,Daga Rural LLG,PG050102,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+50,Daru Urban LLG,PG010311,NA,NA,NA,South Fly District,PG0103,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+51,Dei Rural LLG,PG090203,NA,NA,NA,Dei District,PG0902,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+52,Deyamos Rural LLG,PG120412,NA,NA,NA,Kabwum District,PG1204,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+53,Dobu Rural LLG,PG050415,NA,NA,NA,Esa'ala District,PG0504,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+54,Dreikikier Rural LLG,PG140102,NA,NA,NA,Ambunti/Drekikier District,PG1401,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+55,Duau Rural LLG,PG050416,NA,NA,NA,Esa'ala District,PG0504,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+56,Duke of York Rural LLG,PG180207,NA,NA,NA,Kokopo District,PG1802,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+57,Dunantina Rural LLG,PG110315,NA,NA,NA,Henganofi District,PG1103,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+58,East Aitape Rural LLG,PG150101,NA,NA,NA,Aitape/Lumi District,PG1501,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+59,East Kerema Rural LLG,PG020102,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+60,East Kikori Rural LLG,PG020208,NA,NA,NA,Kikori District,PG0202,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+61,East Okapa Rural LLG,PG110710,NA,NA,NA,Okapa District,PG1107,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+62,East Pangia Rural LLG,PG070101,NA,NA,NA,Ialibu/Pangia District,PG0701,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+63,East Pomio Rural LLG,PG180311,NA,NA,NA,Pomio District,PG1803,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+64,East Wapei Rural LLG,PG150102,NA,NA,NA,Aitape/Lumi District,PG1501,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+65,East Yangoru Rural LLG,PG140623,NA,NA,NA,Yangoru Saussia District,PG1406,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+66,Elimbari Rural LLG,PG100102,NA,NA,NA,Chuave District,PG1001,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+67,Erave Rural LLG,PG070308,NA,NA,NA,Kagua/Erave District,PG0703,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+68,Fayantina Rural LLG,PG110316,NA,NA,NA,Henganofi District,PG1103,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+69,Finschafen Urban LLG,PG120233,NA,NA,NA,Finschafen District,PG1202,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+70,Gadsup/Tairora Rural LLG,PG110419,NA,NA,NA,Kainanatu District,PG1104,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+71,Gahuku Rural LLG,PG110202,NA,NA,NA,Goroka District,PG1102,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+72,Gama Rural LLG,PG130619,NA,NA,NA,Usino Bundi District,PG1306,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+73,Gasmata Rural LLG,PG190101,NA,NA,NA,Kandrian/Gloucester District,PG1901,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+74,Gawanga Rural LLG,PG140103,NA,NA,NA,Ambunti/Drekikier District,PG1401,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+75,Gawi Rural LLG,PG140520,NA,NA,NA,Wosera Gawi District,PG1405,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+76,Gena/Waugla Rural LLG,PG100410,NA,NA,NA,Kerowagi District,PG1004,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+77,Gloucester Rural LLG,PG190102,NA,NA,NA,Kandrian/Gloucester District,PG1901,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+78,Gogodala Rural LLG,PG010103,NA,NA,NA,Middle Fly District,PG0101,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+79,Goodenough Island LLG,PG050313,NA,NA,NA,Kiriwina-Goodenough District,PG0503,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+80,Goroka Urban LLG,PG110203,NA,NA,NA,Goroka District,PG1102,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+81,Green River Rural LLG,PG150414,NA,NA,NA,Vanimo/Green River District,PG1504,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+82,Guari Rural LLG,PG030204,NA,NA,NA,Goilala District,PG0302,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+83,Gumine Rural LLG,PG100205,NA,NA,NA,Gumine District,PG1002,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+84,Hayapuga Rural LLG,PG210827,NA,NA,NA,Tari/Pori District,PG2108,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+85,Higaturu Rural LLG,PG060206,NA,NA,NA,Sohe District,PG0602,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+86,Hiri Rural LLG,PG030307,NA,NA,NA,Kairuku - Hiri District,PG0303,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+87,Hoskins Rural LLG,PG190208,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+88,Hube Rural LLG,PG120232,NA,NA,NA,Finschafen District,PG1202,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+89,Huhu Rural LLG,PG050105,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+90,Hulia Rural LLG,PG210411,NA,NA,NA,Komo/Magarima District,PG2104,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+91,Iabu Rural LLG,PG130102,NA,NA,NA,Bogia District,PG1301,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+92,Ialibu Basin Rural LLG,PG070205,NA,NA,NA,Imbonggu District,PG0702,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+93,Ialibu Urban LLG,PG070102,NA,NA,NA,Ialibu/Pangia District,PG0701,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+94,Ihu Rural LLG,PG020209,NA,NA,NA,Kikori District,PG0202,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+95,Imbongu Rural LLG,PG070206,NA,NA,NA,Imbonggu District,PG0702,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+96,Inland Baining Rural LLG,PG180102,NA,NA,NA,Gazelle District,PG1801,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+97,Jimi Rural LLG,PG220406,NA,NA,NA,Jimi District,PG2204,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+98,Josephstaal Rural LLG,PG130308,NA,NA,NA,Middle Ramu District,PG1303,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+99,Kafentina Rural LLG,PG110304,NA,NA,NA,Henganofi District,PG1103,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+100,Kagua Rural LLG,PG070309,NA,NA,NA,Kagua/Erave District,PG0703,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+101,Kainantu Urban LLG,PG110406,NA,NA,NA,Kainanatu District,PG1104,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+102,Kaintiba Rural LLG,PG020103,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+103,Kairuku Rural LLG,PG030308,NA,NA,NA,Kairuku - Hiri District,PG0303,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+104,Kamano No. 1 Rural LLG,PG110417,NA,NA,NA,Kainanatu District,PG1104,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+105,Kamano No. 2 Rural LLG,PG110405,NA,NA,NA,Kainanatu District,PG1104,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+106,Kandep Rural LLG,PG080101,NA,NA,NA,Kandep District,PG0801,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+107,Kandrian Coastal Rural LLG,PG190103,NA,NA,NA,Kandrian/Gloucester District,PG1901,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+108,Kandrian Inland Rural LLG,PG190104,NA,NA,NA,Kandrian/Gloucester District,PG1901,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+109,Kapao Rural LLG,PG120730,NA,NA,NA,Menyamya District,PG1207,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+110,Karawari Rural LLG,PG140206,NA,NA,NA,Angoram District,PG1402,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+111,Karimui Rural LLG,PG100307,NA,NA,NA,Karimui/Nomane District,PG1003,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+112,Karints Rural LLG,PG070618,NA,NA,NA,Mendi/Munihu District,PG0706,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+113,Karkar Rural LLG,PG130513,NA,NA,NA,Sumkar District,PG1305,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+114,Kavieng Urban LLG,PG170104,NA,NA,NA,Kavieng District,PG1701,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+115,Keram Rural LLG,PG140207,NA,NA,NA,Angoram District,PG1402,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+116,Kerema Urban LLG,PG020104,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+117,Kerowagi Urban LLG,PG100420,NA,NA,NA,Kerowagi District,PG1004,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+118,Kewabi Rural LLG,PG070103,NA,NA,NA,Ialibu/Pangia District,PG0701,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+119,Kimbe Urban LLG,PG190209,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+120,Kira Rural LLG,PG060208,NA,NA,NA,Sohe District,PG0602,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+121,Kiriwina Rural LLG,PG050312,NA,NA,NA,Kiriwina-Goodenough District,PG0503,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+122,Kiunga Rural LLG,PG010206,NA,NA,NA,North Fly District,PG0102,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+123,Kiunga Urban LLG,PG010207,NA,NA,NA,North Fly District,PG0102,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+124,Kiwai Rural LLG,PG010312,NA,NA,NA,South Fly District,PG0103,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+125,Koiari Rural LLG,PG030309,NA,NA,NA,Kairuku - Hiri District,PG0303,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+126,Kokoda Rural LLG,PG060205,NA,NA,NA,Sohe District,PG0602,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+127,Kokopo/Vunamami Urban LLG,PG180208,NA,NA,NA,Kokopo District,PG1802,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+128,Kol Rural LLG,PG220407,NA,NA,NA,Jimi District,PG2204,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+129,Komba Rural LLG,PG120431,NA,NA,NA,Kabwum District,PG1204,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+130,Kombiu Rural LLG,PG180416,NA,NA,NA,Rabaul District,PG1804,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+131,Kome Rural LLG,PG120721,NA,NA,NA,Menyamya District,PG1207,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+132,Komo Rural LLG,PG210412,NA,NA,NA,Komo/Magarima District,PG2104,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+133,Kompiam Rural LLG,PG080204,NA,NA,NA,Kompiam District,PG0802,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+134,Konoagil Rural LLG,PG170207,NA,NA,NA,Namatanai District,PG1702,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+135,Kotidanga Rural LLG,PG020105,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+136,Kotna Rural LLG,PG090214,NA,NA,NA,Dei District,PG0902,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+137,Kotte Rural LLG,PG120207,NA,NA,NA,Finschafen District,PG1202,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+138,Kove/Kaliai Rural LLG,PG190105,NA,NA,NA,Kandrian/Gloucester District,PG1901,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+139,Kovon LLG,PG130317,NA,NA,NA,Middle Ramu District,PG1303,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+140,Kuare Rural LLG,PG070310,NA,NA,NA,Kagua/Erave District,PG0703,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+141,Kundiawa Urban LLG,PG100513,NA,NA,NA,Kundiawa/Gembogl District,PG1005,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+142,Kunua LLG,PG200102,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+143,Kup Rural LLG,PG100412,NA,NA,NA,Kerowagi District,PG1004,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+144,Labuta Rural LLG,PG120823,NA,NA,NA,Nawae District,PG1208,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+145,Lae Urban LLG,PG120516,NA,NA,NA,Lae District,PG1205,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+146,Lagaip Rural LLG,PG080306,NA,NA,NA,Lagaip/Pogera District,PG0803,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+147,Lai Valley Rural LLG,PG070619,NA,NA,NA,Mendi/Munihu District,PG0706,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+148,Lake Kopiago Rural LLG,PG210515,NA,NA,NA,Koroba/Kopiago District,PG2105,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+149,Lake Kutubu Rural LLG,PG070722,NA,NA,NA,Nipa/Kutubu District,PG0707,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+150,Lake Murray Rural LLG,PG010104,NA,NA,NA,Middle Fly District,PG0101,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+151,Lakekamu-Tauri Rural LLG,PG020106,NA,NA,NA,Kerema District,PG0201,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+152,Lamari Rural LLG,PG110608,NA,NA,NA,Obura/Wonenara District,PG1106,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+153,Lassul Baining Rural LLG,PG180103,NA,NA,NA,Gazelle District,PG1801,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+154,Lelemadih/Bupichupeu LLG,PG160105,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+155,Livuan/Reimber Rural LLG,PG180104,NA,NA,NA,Gazelle District,PG1801,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+156,Lorengau Urban LLG,PG160106,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+157,Los Negros LLG,PG160107,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+158,Louisiade Rural LLG,PG050209,NA,NA,NA,Samarai-Murua District,PG0502,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+159,Lovongai Rural LLG,PG170102,NA,NA,NA,Kavieng District,PG1701,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+160,Lower Asaro Rural LLG,PG110112,NA,NA,NA,Daulo District,PG1101,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+161,Lower Benna LLG,PG110811,NA,NA,NA,Unggai/Benna District,PG1108,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+162,Lower Mendi Rural LLG,PG070207,NA,NA,NA,Imbonggu District,PG0702,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+163,Lower Wage LLG,PG210413,NA,NA,NA,Komo/Magarima District,PG2104,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+164,Lumusa Rural LLG,PG090510,NA,NA,NA,Mul/Baiyer District,PG0905,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+165,Madang Urban LLG,PG130205,NA,NA,NA,Madang District,PG1302,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+166,Maimai Wanwan LLG,PG150217,NA,NA,NA,Nuku District,PG1502,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+167,Maip Muritaka Rural LLG,PG080307,NA,NA,NA,Lagaip/Pogera District,PG0803,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+168,Makamaka Rural LLG,PG050101,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+169,Maprik/Wora Rural LLG,PG140312,NA,NA,NA,Maprik District,PG1403,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+170,Maramatana Rural LLG,PG050104,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+171,Maramuni Rural LLG,PG080412,NA,NA,NA,Wabag District,PG0804,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+172,Marienberg Rural LLG,PG140208,NA,NA,NA,Angoram District,PG1402,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+173,Mawase Rural LLG,PG150205,NA,NA,NA,Nuku District,PG1502,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+174,Mekeo Kuni Rural LLG,PG030310,NA,NA,NA,Kairuku - Hiri District,PG0303,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+175,Melkoi Rural LLG,PG180312,NA,NA,NA,Pomio District,PG1803,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+176,Mendi Urban LLG,PG070620,NA,NA,NA,Mendi/Munihu District,PG0706,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+177,Mimanalo Rural LLG,PG110214,NA,NA,NA,Goroka District,PG1102,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+178,Mitnande Rural LLG,PG100514,NA,NA,NA,Kundiawa/Gembogl District,PG1005,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+179,Morehead Rural LLG,PG010313,NA,NA,NA,South Fly District,PG0103,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+180,Morobe Rural LLG,PG120309,NA,NA,NA,Huon District,PG1203,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+181,Mosa Rural LLG,PG190210,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+182,Mt Bosavi Rural LLG,PG070723,NA,NA,NA,Nipa/Kutubu District,PG0707,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+183,Mt Digine Rural LLG,PG100206,NA,NA,NA,Gumine District,PG1002,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+184,Mt Giluwe Rural LLG,PG090712,NA,NA,NA,Tambul/Nebilyer District,PG0907,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+185,Mt Hagen Rural LLG,PG090304,NA,NA,NA,Mt Hagen District,PG0903,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+186,Mt Hagen Urban LLG,PG090305,NA,NA,NA,Mt Hagen District,PG0903,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+187,Mt. Michael Rural LLG,PG110520,NA,NA,NA,Lufa District,PG1105,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+188,Mul Rural LLG,PG090508,NA,NA,NA,Mul/Baiyer District,PG0905,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+189,Mumeng Rural LLG,PG120101,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+190,Murat Rural LLG,PG170101,NA,NA,NA,Kavieng District,PG1701,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+191,Murua Rural LLG,PG050211,NA,NA,NA,Samarai-Murua District,PG0502,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+192,Nabak Rural LLG,PG120824,NA,NA,NA,Nawae District,PG1208,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+193,Naho Rawa Rural LLG,PG130411,NA,NA,NA,Rai Coast District,PG1304,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+194,Nali Sopat/Penabu LLG,PG160108,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+195,Namatanai Rural LLG,PG170205,NA,NA,NA,Namatanai District,PG1702,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+196,Namea Rural LLG,PG150308,NA,NA,NA,Telefomin District,PG1503,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+197,Nanima Kariba LLG,PG120734,NA,NA,NA,Menyamya District,PG1207,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+198,National Capital District,PG040101,NA,NA,NA,National Capital District,PG0401,National Capital District,PG04,Papua New Guinea,PG,1424736000000,1557273600000,NA
+199,Nayudo Rural LLG,PG130418,NA,NA,NA,Rai Coast District,PG1304,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+200,Nebilyer Rural LLG,PG090713,NA,NA,NA,Tambul/Nebilyer District,PG0907,Western Highlands Province,PG09,Papua New Guinea,PG,1424736000000,1557273600000,NA
+201,Nembi Plateau Rural LLG,PG070724,NA,NA,NA,Nipa/Kutubu District,PG0707,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+202,Niglkande Rural LLG,PG100515,NA,NA,NA,Kundiawa/Gembogl District,PG1005,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+203,Nigoherm LLG,PG160102,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+204,Nimamar Rural LLG,PG170209,NA,NA,NA,Namatanai District,PG1702,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+205,Ningerum Rural LLG,PG010208,NA,NA,NA,North Fly District,PG0102,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+206,Nipa Rural LLG,PG070725,NA,NA,NA,Nipa/Kutubu District,PG0707,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+207,Nissan LLG,PG200105,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+208,Nomad Rural LLG,PG010105,NA,NA,NA,Middle Fly District,PG0101,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+209,Nomane Rural LLG,PG100308,NA,NA,NA,Karimui/Nomane District,PG1003,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+210,Nondugl Rural LLG,PG220615,NA,NA,NA,North Waghi District,PG2206,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+211,North Koroba Rural LLG,PG210516,NA,NA,NA,Koroba/Kopiago District,PG2105,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+212,North Waghi Rural LLG,PG220611,NA,NA,NA,North Waghi District,PG2206,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+213,North Wosera Rural LLG,PG140521,NA,NA,NA,Wosera Gawi District,PG1405,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+214,Numbor Rural LLG,PG140624,NA,NA,NA,Yangoru Saussia District,PG1406,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+215,Oksapmin Rural LLG,PG150309,NA,NA,NA,Telefomin District,PG1503,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+216,Olsobip Rural LLG,PG010209,NA,NA,NA,North Fly District,PG0102,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+217,Onga/Waffa Rural LLG,PG120617,NA,NA,NA,Markham District,PG1206,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+218,Oriomo-Bituri Rural LLG,PG010314,NA,NA,NA,South Fly District,PG0103,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+219,Oro Bay Rural LLG,PG060101,NA,NA,NA,Ijivitari District,PG0601,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+220,Paiela/Hewa Rural LLG,PG080308,NA,NA,NA,Lagaip/Pogera District,PG0803,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+221,Palmai Rural LLG,PG150206,NA,NA,NA,Nuku District,PG1502,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+222,Pilikambi Rural LLG,PG080315,NA,NA,NA,Lagaip/Pogera District,PG0803,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+223,Pobuma LLG,PG160110,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+224,Pomutu/Kurti/Andra LLG,PG160104,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+225,Popondetta Urban LLG,PG060104,NA,NA,NA,Ijivitari District,PG0601,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+226,Porgera Rural LLG,PG080309,NA,NA,NA,Lagaip/Pogera District,PG0803,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+227,Poroma Rural LLG,PG070726,NA,NA,NA,Nipa/Kutubu District,PG0707,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+228,Rabaul Urban LLG,PG180417,NA,NA,NA,Rabaul District,PG1804,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+229,Rai Coast Rural LLG,PG130412,NA,NA,NA,Rai Coast District,PG1304,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+230,Raluana Rural LLG,PG180209,NA,NA,NA,Kokopo District,PG1802,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+231,Rapatona LLG,PG160112,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+232,Rigo Central Rural LLG,PG030411,NA,NA,NA,Rigo District,PG0304,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+233,Rigo Coastal Rural LLG,PG030412,NA,NA,NA,Rigo District,PG0304,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+234,Rigo Inland Rural LLG,PG030413,NA,NA,NA,Rigo District,PG0304,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+235,Safia Rural LLG,PG060109,NA,NA,NA,Ijivitari District,PG0601,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+236,Salamaua Rural LLG,PG120310,NA,NA,NA,Huon District,PG1203,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+237,Salt Rural LLG,PG100309,NA,NA,NA,Karimui/Nomane District,PG1003,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+238,Sausso Rural LLG,PG140625,NA,NA,NA,Yangoru Saussia District,PG1406,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+239,Selau/Suir LLG,PG200103,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+240,Selepet Rural LLG,PG120435,NA,NA,NA,Kabwum District,PG1204,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+241,Sentral Niu Ailan Rural LLG,PG170206,NA,NA,NA,Namatanai District,PG1702,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+242,Sialum Rural LLG,PG120926,NA,NA,NA,Tawae/Siassi District,PG1209,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+243,Siane Rural LLG,PG100103,NA,NA,NA,Chuave District,PG1001,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+244,Siassi Rural LLG,PG120927,NA,NA,NA,Tawae/Siassi District,PG1209,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+245,Simbai Rural LLG,PG130309,NA,NA,NA,Middle Ramu District,PG1303,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+246,Sinivit Rural LLG,PG180313,NA,NA,NA,Pomio District,PG1803,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+247,Siwai LLG,PG200310,NA,NA,NA,South Bougainville District,PG2003,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+248,South Koroba Rural LLG,PG210517,NA,NA,NA,Koroba/Kopiago District,PG2105,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+249,South Waghi Rural LLG,PG220102,NA,NA,NA,Anglimp/South Waghi District,PG2201,Jiwaka Province,PG22,Papua New Guinea,PG,1424736000000,1557273600000,NA
+250,South Wosera Rural LLG,PG140522,NA,NA,NA,Wosera Gawi District,PG1405,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+251,Star Mountains Rural LLG,PG010210,NA,NA,NA,North Fly District,PG0102,Western Province,PG01,Papua New Guinea,PG,1424736000000,1557273600000,NA
+252,Suai Rural LLG,PG100618,NA,NA,NA,Sina Sina Yonggomugl District,PG1006,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+253,Suau Rural LLG,PG050106,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+254,Sumgilbar Rural LLG,PG130514,NA,NA,NA,Sumkar District,PG1305,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+255,Tabare Rural LLG,PG100617,NA,NA,NA,Sina Sina Yonggomugl District,PG1006,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+256,Tagali Rural LLG,PG210828,NA,NA,NA,Tari/Pori District,PG2108,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+257,Talasea Rural LLG,PG190211,NA,NA,NA,Talasea District,PG1902,West New Britain Province,PG19,Papua New Guinea,PG,1424736000000,1557273600000,NA
+258,Tamata Rural LLG,PG060207,NA,NA,NA,Sohe District,PG0602,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+259,Tanir Rural LLG,PG170208,NA,NA,NA,Namatanai District,PG1702,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+260,Tapini Rural LLG,PG030205,NA,NA,NA,Goilala District,PG0302,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+261,Tari Urban LLG,PG210829,NA,NA,NA,Tari/Pori District,PG2108,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+262,Tebi Rural LLG,PG210830,NA,NA,NA,Tari/Pori District,PG2108,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+263,Telefomin Rural LLG,PG150310,NA,NA,NA,Telefomin District,PG1503,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+264,Tetidu LLG,PG160109,NA,NA,NA,Manus District,PG1601,Manus Province,PG16,Papua New Guinea,PG,1424736000000,1557273600000,NA
+265,Tikana Rural LLG,PG170103,NA,NA,NA,Kavieng District,PG1701,New Ireland Province,PG17,Papua New Guinea,PG,1424736000000,1557273600000,NA
+266,Tinputz LLG,PG200101,NA,NA,NA,North Bougainville District,PG2001,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+267,Torokina LLG,PG200312,NA,NA,NA,South Bougainville District,PG2003,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+268,Transgogol Rural LLG,PG130206,NA,NA,NA,Madang District,PG1302,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+269,Tsak Rural LLG,PG080514,NA,NA,NA,Wapenamanda District,PG0805,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+270,Tufi Rural LLG,PG060102,NA,NA,NA,Ijivitari District,PG0601,Northern (Oro) Province,PG06,Papua New Guinea,PG,1424736000000,1557273600000,NA
+271,Tunap/Hustein LLG,PG140104,NA,NA,NA,Ambunti/Drekikier District,PG1401,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+272,Turubu Rural LLG,PG140415,NA,NA,NA,Wewak District,PG1404,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+273,Umi/Atzera Rural LLG,PG120618,NA,NA,NA,Markham District,PG1206,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+274,Unavi Rural LLG,PG110507,NA,NA,NA,Lufa District,PG1105,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+275,Unggai Rural LLG,PG110824,NA,NA,NA,Unggai/Benna District,PG1108,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+276,Upper Asaro Rural LLG,PG110113,NA,NA,NA,Daulo District,PG1101,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+277,Upper Bena Rural LLG,PG110823,NA,NA,NA,Unggai/Benna District,PG1108,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+278,Upper Mendi Rural LLG,PG070621,NA,NA,NA,Mendi/Munihu District,PG0706,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+279,Upper Wage LLG,PG210431,NA,NA,NA,Komo/Magarima District,PG2104,Hela Province,PG21,Papua New Guinea,PG,1424736000000,1557273600000,NA
+280,Upper/Lower Koronigl LLG,PG100411,NA,NA,NA,Kerowagi District,PG1004,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+281,Usino Rural LLG,PG130616,NA,NA,NA,Usino Bundi District,PG1306,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+282,Vanimo Urban LLG,PG150415,NA,NA,NA,Vanimo/Green River District,PG1504,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+283,Vunadidir/Toma Rural LLG,PG180105,NA,NA,NA,Gazelle District,PG1801,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+284,Wabag Rural LLG,PG080411,NA,NA,NA,Wabag District,PG0804,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+285,Wabag Urban LLG,PG080410,NA,NA,NA,Wabag District,PG0804,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+286,Wage Rural LLG,PG080102,NA,NA,NA,Kandep District,PG0801,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+287,Wain-Erap Rural LLG,PG120825,NA,NA,NA,Nawae District,PG1208,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+288,Waiye LLG,PG100516,NA,NA,NA,Kundiawa/Gembogl District,PG1005,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+289,Wakunai LLG,PG200207,NA,NA,NA,Central Bougainville District,PG2002,Autonomous Region of Bougainville,PG20,Papua New Guinea,PG,1424736000000,1557273600000,NA
+290,Walsa Rural LLG,PG150416,NA,NA,NA,Vanimo/Green River District,PG1504,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+291,Wampar Rural LLG,PG120311,NA,NA,NA,Huon District,PG1203,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+292,Wantoat/Leron Rural LLG,PG120619,NA,NA,NA,Markham District,PG1206,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+293,Wapenamanda Rural LLG,PG080513,NA,NA,NA,Wapenamanda District,PG0805,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+294,Wapi-Yengis Rural LLG,PG080205,NA,NA,NA,Kompiam District,PG0802,Enga Province,PG08,Papua New Guinea,PG,1424736000000,1557273600000,NA
+295,Wapi Rural LLG,PG120722,NA,NA,NA,Menyamya District,PG1207,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+296,Waria Rural LLG,PG120102,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+297,Wasu Rural LLG,PG120928,NA,NA,NA,Tawae/Siassi District,PG1209,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+298,Watabung Rural LLG,PG110101,NA,NA,NA,Daulo District,PG1101,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+299,Watom Island Rual LLG,PG180418,NA,NA,NA,Rabaul District,PG1804,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+300,Watut Rural LLG,PG120103,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+301,Wau Rural LLG,PG120105,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+302,Wau/Bulolo Urban LLG,PG120104,NA,NA,NA,Bulolo District,PG1201,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+303,Weraura Rural LLG,PG050103,NA,NA,NA,Alotau District,PG0501,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+304,West Aitape Rural LLG,PG150103,NA,NA,NA,Aitape/Lumi District,PG1501,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+305,West Ferguson Rural LLG,PG050414,NA,NA,NA,Esa'ala District,PG0504,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+306,West Kikori Rural LLG,PG020210,NA,NA,NA,Kikori District,PG0202,Gulf Province,PG02,Papua New Guinea,PG,1424736000000,1557273600000,NA
+307,West Okapa Rural LLG,PG110722,NA,NA,NA,Okapa District,PG1107,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+308,West Pomio/Mamusi Rural LLG,PG180314,NA,NA,NA,Pomio District,PG1803,East New Britain Province,PG18,Papua New Guinea,PG,1424736000000,1557273600000,NA
+309,West Wapei Rural LLG,PG150104,NA,NA,NA,Aitape/Lumi District,PG1501,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+310,West Yangoru Rural LLG,PG140626,NA,NA,NA,Yangoru Saussia District,PG1406,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+311,Wewak Islands Rural LLG,PG140416,NA,NA,NA,Wewak District,PG1404,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+312,Wewak Rural LLG,PG140417,NA,NA,NA,Wewak District,PG1404,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+313,Wewak Urban LLG,PG140418,NA,NA,NA,Wewak District,PG1404,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+314,Wiru Rural LLG,PG070104,NA,NA,NA,Ialibu/Pangia District,PG0701,Southern Highlands Province,PG07,Papua New Guinea,PG,1424736000000,1557273600000,NA
+315,Woitape Rural LLG,PG030206,NA,NA,NA,Goilala District,PG0302,Central Province,PG03,Papua New Guinea,PG,1424736000000,1557273600000,NA
+316,Yabim Mape Rural LLG,PG120208,NA,NA,NA,Finschafen District,PG1202,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA
+317,Yagaria Rural LLG,PG110521,NA,NA,NA,Lufa District,PG1105,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+318,Yaleyemba Rural LLG,PG050210,NA,NA,NA,Samarai-Murua District,PG0502,Milne Bay Province,PG05,Papua New Guinea,PG,1424736000000,1557273600000,NA
+319,Yamil/Tamaui Rural LLG,PG140313,NA,NA,NA,Maprik District,PG1403,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+320,Yangkok Rural LLG,PG150207,NA,NA,NA,Nuku District,PG1502,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+321,Yapsie Rural LLG,PG150311,NA,NA,NA,Telefomin District,PG1503,West Sepik (Sandaun) Province,PG15,Papua New Guinea,PG,1424736000000,1557273600000,NA
+322,Yawar Rural LLG,PG130103,NA,NA,NA,Bogia District,PG1301,Madang Province,PG13,Papua New Guinea,PG,1424736000000,1557273600000,NA
+323,Yelia Rural LLG,PG110609,NA,NA,NA,Obura/Wonenara District,PG1106,Eastern Highlands Province,PG11,Papua New Guinea,PG,1424736000000,1557273600000,NA
+324,Yonggomugl Rural LLG,PG100619,NA,NA,NA,Sina Sina Yonggomugl District,PG1006,Chimbu (Simbu) Province,PG10,Papua New Guinea,PG,1424736000000,1557273600000,NA
+325,Yuat Rural LLG,PG140209,NA,NA,NA,Angoram District,PG1402,East Sepik Province,PG14,Papua New Guinea,PG,1424736000000,1557273600000,NA
+326,Yus Rural LLG,PG120414,NA,NA,NA,Kabwum District,PG1204,Morobe Province,PG12,Papua New Guinea,PG,1424736000000,1557273600000,NA

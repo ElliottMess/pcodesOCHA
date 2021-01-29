@@ -18,12 +18,25 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of pcodesOCHA is to scrap pcodes from [UNOCHA Common Operational Datasets web server](https://gistmaps.itos.uga.edu/arcgis/rest/services)
+The goal of pcodesOCHA is to scrap pcodes and geoJSON from [UNOCHA Common Operational Datasets web server](https://gistmaps.itos.uga.edu/arcgis/rest/services)
 
-There is just one function exported: all_pcodes_feature_servers
-Other helper functions are available.
+While the package can be used as a standalone, the scraped files are available in output folder.
 
-One function implemented partially to scrap geoJSON files: scrap_country_geojson
+A Cron job runs once a month at 12:00 am to update the outputs thanks to github actions.
+
+# Functions available
+
+- all_pcodes : list all pcodes availables
+- all_pcodes_feature_servers : legacy all_pcodes
+- available_countries : list all available countries and their corresponding [ISO 3 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
+- country_geojson_URL : scrape geoJSON for a country from URL
+- country_geojson_iso3 : scrape geoJSON for a country from ISO 3 code
+- country_pcodes_URL : scrape pcodes for a country from URL
+- country_pcodes_iso3 : scrape pcodes for a country from ISO 3 code
+- one_URL_geoJSON : scrape geoJSON from a specific URL for the API
+- one_URL_properties : scrape properties (pcodes) from a specific URL for the API
+
+# Datasets available
 
 the easiest way to use the data is probably by importing directly the data from the raw data in the folder output:
 - CSV : https://raw.githubusercontent.com/ElliottMess/pcodesOCHA/master/output/all_pcodes_20210112.csv
