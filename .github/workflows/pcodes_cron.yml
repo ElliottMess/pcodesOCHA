@@ -1,3 +1,5 @@
+name: pcodes-cron
+
 on:
   schedule:
     - cron: "0 0 1 * *"
