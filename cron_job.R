@@ -28,6 +28,8 @@ library(readr)
 library(countrycode)
 library(purrr)
 source("R/pcodes_scrapping.R")
+source("R/utils.R")
+
 
 all_pcodes_df <- all_pcodes()
 all_pcodes_df <- all_pcodes_df[,colSums(is.na(all_pcodes_df))<nrow(all_pcodes_df)] %>%
