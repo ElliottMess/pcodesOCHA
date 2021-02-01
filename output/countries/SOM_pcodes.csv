@@ -1,75 +1,19 @@
-OBJECTID,admin2Name_en,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,ValidTo
-1,Banadir,SO2201,Banadir, ,NA,Banadir,SO22,Somalia,SO,1402012800000,1491350400000,NA
-2,Borama,SO1101,Borama,Boorama,NA,Awdal,SO11,Somalia,SO,1402012800000,1491350400000,NA
-3,Baki,SO1102,Baki, ,NA,Awdal,SO11,Somalia,SO,1402012800000,1491350400000,NA
-4,Lughaye,SO1103,Lughaye, ,NA,Awdal,SO11,Somalia,SO,1402012800000,1491350400000,NA
-5,Zeylac,SO1104,Zeylac,Saylac,NA,Awdal,SO11,Somalia,SO,1402012800000,1491350400000,NA
-6,Hargeysa,SO1201,Hargeysa,Hargeisa,NA,Woqooyi Galbeed,SO12,Somalia,SO,1402012800000,1491350400000,NA
-7,Berbera,SO1202,Berbera, ,NA,Woqooyi Galbeed,SO12,Somalia,SO,1402012800000,1491350400000,NA
-8,Gebiley,SO1203,Gebiley,Gabiley,NA,Woqooyi Galbeed,SO12,Somalia,SO,1402012800000,1491350400000,NA
-9,Burco,SO1301,Burco,Burao,NA,Togdheer,SO13,Somalia,SO,1402012800000,1491350400000,NA
-10,Buuhoodle,SO1302,Buuhoodle,Buhodle,NA,Togdheer,SO13,Somalia,SO,1402012800000,1491350400000,NA
-11,Owdweyne,SO1303,Owdweyne,Oodweyne,NA,Togdheer,SO13,Somalia,SO,1402012800000,1491350400000,NA
-12,Sheikh,SO1304,Sheikh,Sheekh,NA,Togdheer,SO13,Somalia,SO,1402012800000,1491350400000,NA
-13,Laas Caanood,SO1401,Laas Caanood,"Las Caanood, Lascaanod, Lasanod, Las Anod",NA,Sool,SO14,Somalia,SO,1402012800000,1491350400000,NA
-14,Caynabo,SO1402,Caynabo,Ainabo,NA,Sool,SO14,Somalia,SO,1402012800000,1491350400000,NA
-15,Taleex,SO1403,Taleex,Taleh,NA,Sool,SO14,Somalia,SO,1402012800000,1491350400000,NA
-16,Xudun,SO1404,Xudun,Hudun,NA,Sool,SO14,Somalia,SO,1402012800000,1491350400000,NA
-17,Ceerigaabo,SO1501,Ceerigaabo,"Ceerigaavo, Erigavo, Erigabo",NA,Sanaag,SO15,Somalia,SO,1402012800000,1491350400000,NA
-18,Ceel Afweyn,SO1502,Ceel Afweyn,"Ceel Afweyne, Ceel-afwein, El Afwein",NA,Sanaag,SO15,Somalia,SO,1402012800000,1491350400000,NA
-19,Laasqoray,SO1503,Laasqoray,Lasqoray,NA,Sanaag,SO15,Somalia,SO,1402012800000,1491350400000,NA
-20,Bossaso,SO1601,Bossaso,"Bossaaso, Bossaso , Bosaaso",NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-21,Bandarbeyla,SO1602,Bandarbeyla,"Bandar Beyla, Bander-beyla, Benderbela",NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-22,Caluula,SO1603,Caluula,"Calawla, Alula",NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-23,Iskushuban,SO1604,Iskushuban, ,NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-24,Qandala,SO1605,Qandala,Kandala,NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-25,Qardho,SO1606,Qardho,Gardo,NA,Bari,SO16,Somalia,SO,1402012800000,1491350400000,NA
-26,Garoowe,SO1701,Garoowe,Garowe,NA,Nugaal,SO17,Somalia,SO,1402012800000,1491350400000,NA
-27,Burtinle,SO1702,Burtinle, ,NA,Nugaal,SO17,Somalia,SO,1402012800000,1491350400000,NA
-28,Eyl,SO1703,Eyl, ,NA,Nugaal,SO17,Somalia,SO,1402012800000,1491350400000,NA
-29,Gaalkacyo,SO1801,Gaalkacyo,"Galkacyo, Gaalkacayo, Galkayo",NA,Mudug,SO18,Somalia,SO,1402012800000,1491350400000,NA
-30,Galdogob,SO1802,Galdogob,Goldogob,NA,Mudug,SO18,Somalia,SO,1402012800000,1491350400000,NA
-31,Hobyo,SO1803,Hobyo, ,NA,Mudug,SO18,Somalia,SO,1402012800000,1491350400000,NA
-32,Jariiban,SO1804,Jariiban, ,NA,Mudug,SO18,Somalia,SO,1402012800000,1491350400000,NA
-33,Xarardheere,SO1805,Xarardheere,"Hararheere, Harardhere",NA,Mudug,SO18,Somalia,SO,1402012800000,1491350400000,NA
-34,Dhuusamarreeb,SO1901,Dhuusamarreeb,"Dhusa Marreeb, Dhuusamareeb, Dhusa Mareeb",NA,Galgaduud,SO19,Somalia,SO,1402012800000,1491350400000,NA
-35,Cabudwaaq,SO1902,Cabudwaaq,"Caabudwaaq, Abudwaq",NA,Galgaduud,SO19,Somalia,SO,1402012800000,1491350400000,NA
-36,Cadaado,SO1903,Cadaado,"Cadado, Adado",NA,Galgaduud,SO19,Somalia,SO,1402012800000,1491350400000,NA
-37,Ceel Buur,SO1904,Ceel Buur,"El Bur, Ceel Bur",NA,Galgaduud,SO19,Somalia,SO,1402012800000,1491350400000,NA
-38,Ceel Dheer,SO1905,Ceel Dheer,"El Dere, El Der",NA,Galgaduud,SO19,Somalia,SO,1402012800000,1491350400000,NA
-39,Belet Weyne,SO2001,Belet Weyne,Beled Weyne,NA,Hiraan,SO20,Somalia,SO,1402012800000,1491350400000,NA
-40,Bulo Burto,SO2002,Bulo Burto,"Bulo Barde, Buulo Burdo, Bula-brif, Bulo Burti",NA,Hiraan,SO20,Somalia,SO,1402012800000,1491350400000,NA
-41,Jalalaqsi,SO2003,Jalalaqsi, ,NA,Hiraan,SO20,Somalia,SO,1402012800000,1491350400000,NA
-42,Jowhar,SO2101,Jowhar,Jawhar,NA,Middle Shabelle,SO21,Somalia,SO,1402012800000,1491350400000,NA
-43,Adan Yabaal,SO2102,Adan Yabaal,"Aden Yabal, Aadan",NA,Middle Shabelle,SO21,Somalia,SO,1402012800000,1491350400000,NA
-44,Balcad,SO2103,Balcad,Balad,NA,Middle Shabelle,SO21,Somalia,SO,1402012800000,1491350400000,NA
-45,Cadale,SO2104,Cadale,Adale,NA,Middle Shabelle,SO21,Somalia,SO,1402012800000,1491350400000,NA
-46,Marka,SO2301,Marka,Merka,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-47,Afgooye,SO2302,Afgooye,Afgoi,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-48,Baraawe,SO2303,Baraawe,Barawe,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-49,Kurtunwaarey,SO2304,Kurtunwaarey,Kuntuwaaray,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-50,Qoryooley,SO2305,Qoryooley,Qoryoley,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-51,Sablaale,SO2306,Sablaale,Sablale,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-52,Wanla Weyn,SO2307,Wanla Weyn,Wanla Weyne,NA,Lower Shabelle,SO23,Somalia,SO,1402012800000,1491350400000,NA
-53,Baydhaba,SO2401,Baydhaba,"Baydhabo, Baidoa",NA,Bay,SO24,Somalia,SO,1402012800000,1491350400000,NA
-54,Buur Hakaba,SO2402,Buur Hakaba,"Buur Xakaba, Bur Hacaba",NA,Bay,SO24,Somalia,SO,1402012800000,1491350400000,NA
-55,Diinsoor,SO2403,Diinsoor,"Dinsor, Diinsor",NA,Bay,SO24,Somalia,SO,1402012800000,1491350400000,NA
-56,Qansax Dheere,SO2404,Qansax Dheere,Qansah Dere,NA,Bay,SO24,Somalia,SO,1402012800000,1491350400000,NA
-57,Xudur,SO2501,Xudur,Hudur,NA,Bakool,SO25,Somalia,SO,1402012800000,1491350400000,NA
-58,Ceel Barde,SO2502,Ceel Barde,El Barde,NA,Bakool,SO25,Somalia,SO,1402012800000,1491350400000,NA
-59,Tayeeglow,SO2503,Tayeeglow,"Tiyeeglow, Tayeglow, Tieglow",NA,Bakool,SO25,Somalia,SO,1402012800000,1491350400000,NA
-60,Waajid,SO2504,Waajid,Wajid,NA,Bakool,SO25,Somalia,SO,1402012800000,1491350400000,NA
-61,Rab Dhuure,SO2505,Rab Dhuure,"Yeed, Biyole",NA,Bakool,SO25,Somalia,SO,1402012800000,1491350400000,NA
-62,Garbahaarey,SO2601,Garbahaarey,"Garbahaaray, Garbaharey",NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-63,Baardheere,SO2602,Baardheere,"Baar-dheere, Bardera",NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-64,Belet Xaawo,SO2603,Belet Xaawo,Belet Xaawa,NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-65,Ceel Waaq,SO2604,Ceel Waaq,"Ceel Waq, El Wak, El Waq",NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-66,Doolow,SO2605,Doolow,"Dolow, Dolo",NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-67,Luuq,SO2606,Luuq,"Luuk, Luq",NA,Gedo,SO26,Somalia,SO,1402012800000,1491350400000,NA
-68,Bu'aale,SO2701,Bu'aale, ,NA,Middle Juba,SO27,Somalia,SO,1402012800000,1491350400000,NA
-69,Jilib,SO2702,Jilib, ,NA,Middle Juba,SO27,Somalia,SO,1402012800000,1491350400000,NA
-70,Saakow,SO2703,Saakow,Sakow,NA,Middle Juba,SO27,Somalia,SO,1402012800000,1491350400000,NA
-71,Kismaayo,SO2801,Kismaayo,Kismayo,NA,Lower Juba,SO28,Somalia,SO,1402012800000,1491350400000,NA
-72,Afmadow,SO2802,Afmadow, ,NA,Lower Juba,SO28,Somalia,SO,1402012800000,1491350400000,NA
-73,Badhaadhe,SO2803,Badhaadhe,Badhadhe,NA,Lower Juba,SO28,Somalia,SO,1402012800000,1491350400000,NA
-74,Jamaame,SO2804,Jamaame,Jamame,NA,Lower Juba,SO28,Somalia,SO,1402012800000,1491350400000,NA
+OBJECTID,admin1Name_en,admin1Pcode,admin1RefName,admin1AltName1_en,admin1AltName2_en,admin0Name_en,admin0Pcode,date,validOn,validTo
+1,Awdal,SO11,Awdal,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+2,Bakool,SO25,Bakool,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+3,Banadir,SO22,Banadir,Banaadir,NA,Somalia,SO,1402012800000,1491350400000,NA
+4,Bari,SO16,Bari,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+5,Bay,SO24,Bay,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+6,Galgaduud,SO19,Galgaduud,Galgadud,NA,Somalia,SO,1402012800000,1491350400000,NA
+7,Gedo,SO26,Gedo,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+8,Hiraan,SO20,Hiraan,Hiiraan,NA,Somalia,SO,1402012800000,1491350400000,NA
+9,Middle Juba,SO27,Middle Juba,Jubbada Dhexe,NA,Somalia,SO,1402012800000,1491350400000,NA
+10,Lower Juba,SO28,Lower Juba,Jubbada Hoose,NA,Somalia,SO,1402012800000,1491350400000,NA
+11,Mudug,SO18,Mudug,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+12,Nugaal,SO17,Nugaal,Nugal,NA,Somalia,SO,1402012800000,1491350400000,NA
+13,Sanaag,SO15,Sanaag,Sanag,NA,Somalia,SO,1402012800000,1491350400000,NA
+14,Middle Shabelle,SO21,Middle Shabelle,Shabeellaha Dhexe,NA,Somalia,SO,1402012800000,1491350400000,NA
+15,Lower Shabelle,SO23,Lower Shabelle,Shabeellaha Hoose,NA,Somalia,SO,1402012800000,1491350400000,NA
+16,Sool,SO14,Sool,NA,NA,Somalia,SO,1402012800000,1491350400000,NA
+17,Togdheer,SO13,Togdheer,Tog-dheer,NA,Somalia,SO,1402012800000,1491350400000,NA
+18,Woqooyi Galbeed,SO12,Woqooyi Galbeed,West Galbeed,NA,Somalia,SO,1402012800000,1491350400000,NA
