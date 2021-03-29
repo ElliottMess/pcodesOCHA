@@ -8,3 +8,24 @@ normalise_adm <- function(string){
 
   return(remove_other)
 }
+
+r3c<-function(vec,name,label){
+  name <-  name %>% as.character()
+  vec <-  vec %>% as.character()
+  label <-  label %>% as.character()
+
+  if(length(name)==length(label)){
+    for (i in 1:length(name)){
+      cond<-which(vec%in%name[i])
+      if(length(cond)>0){
+        vec[cond]<-label[i]
+      }
+      if(length(grep(paste0(name[i], "\\."), vec)) > 0){
+        vec[grep(paste0(name[i], "\\."), vec)] <- gsub(paste0(name[i], "\\."), paste0(label[i],"\\."), vec[grep(paste0(name[i], "\\."), vec)])
+      }
+    }
+    return(vec)
+  } else {
+    print("y and z must have the length")
+  }
+}

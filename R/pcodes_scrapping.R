@@ -32,6 +32,84 @@ available_countries <- function(){
 
 }
 
+#' Rename pcode dataframe with uniform column names
+#'
+#' @param pcodes data.frame containing pcodes extracted from OCHA server
+#'
+#' @return dataframe with uniform column names
+#' @export
+#'
+#' @examples
+#'
+rename_pcodes <- function(pcodes){
+
+  cols_names_admins <- c("admin2Name_en", "admin2Name_da", "admin2Pcode",
+                      "admin2RefName", "admin2AltName1_en", "admin2AltName2_en",
+                      "admin2AltName1_da",   "admin2AltName2_da" ,  "admin1Name_en",
+                      "admin1Name_da", "admin1Pcode", "admin0Name_en", "admin0Name_da",
+                      "admin0Pcode", "regionName_en",
+                      "regionName_da", "regionCode", "admin3Name_en", "admin3Pcode",
+                      "admin3RefName",  "admin3AltName1_en", "admin3AltName2_en",
+                      "admin2Name_fr", "admin2AltName1_fr", "admin2AltName2_fr",
+                      "admin1Name_fr", "admin0Name_fr", "admin3Name_fr", "admin3AltName1_fr",
+                      "admin3AltName2_fr", "admin4Name_en", "admin4Pcode", "admin4RefName",
+                      "admin4AltName1_en", "admin4AltName2_en", "admin3Name_es", "admin3AltName1_es",
+                      "admin3AltName2_es", "admin2Name_es", "admin1Name_es", "admin0Name_es",
+                      "admin4Name_fr", "admin4AltName1_fr", "admin4AltName2_fr","admin2AltName1_es",
+                      "admin2AltName2_es","admin2Name_ar", "admin2AltName1_ar","admin2AltName2_ar",
+                      "admin1Name_ar", "admin0Name_ar", "admin2Name_ka", "admin2AltName1_ka",
+                      "admin2AltName2_ka","admin1Name_ka","admin0Name_ka", "admin1RefName",
+                      "admin1AltName1_es","admin1AltName2_es","admin3Name_ht", "admin3AltName1_ht",
+                      "admin3AltName2_ht","admin2Name_ht", "admin1Name_ht", "admin0Name_ht",
+                      "admin2Name_fa", "admin2AltName1_fa","admin2AltName2_fa","admin1Name_fa",
+                      "admin0Name_fa", "admin3Name_ar", "admin3AltName1_ar","admin3AltName2_ar",
+                      "admin3Name_ru", "admin3Name_ky", "admin3AltName1_ru","admin3AltName2_ru",
+                      "admin3AltName1_ky","admin3AltName2_ky","admin2Name_ru", "admin2Name_ky",
+                      "admin1Name_ru", "admin1Name_ky", "admin0Name_ru", "admin0Name_ky","admin3Type_en",
+                      "admin3Type_ru", "admin3Type_ky", "admin2Name_lo", "admin2AltName1_lo","admin2AltName2_lo",
+                      "admin1Name_lo", "admin0Name_lo", "admin1AltName1_en","admin1AltName2_en","admin1AltName1_ar",
+                      "admin1AltName2_ar", "admin4Name_si", "admin4Name_ta", "admin4AltName1_si","admin4AltName2_si",
+                      "admin4AltName1_ta","admin4AltName2_ta", "admin3Name_si", "admin3Name_ta", "admin2Name_si",
+                      "admin2Name_ta", "admin1Name_si", "admin1Name_ta", "admin0Name_si", "admin0Name_ta", "admin1Name_mn",
+                      "admin1AltName1_mn","admin1AltName2_mn","admin0Name_mn",  "region_en", "admin3Name_pt",
+                      "admin3AltName1_pt","admin3AltName2_pt","admin2Name_pt", "admin1Name_pt", "admin0Name_pt", "admin3Name_th",
+                      "admin3AltName1_th","admin3AltName2_th", "admin2Name_th", "admin1Name_th",
+                      "admin0Name_th", "admin4Name_ua", "admin4Name_ru", "admin4AltName1_ua", "admin4AltName2_ua",
+                      "admin4AltName1_ru","admin4AltName2_ru","admin3Name_ua", "admin2Name_ua", "admin1Name_ua",
+                      "admin0Name_ua", "admin2Name_vi", "admin2AltName1_vi","admin2AltName2_vi", "admin1Name_vi",
+                      "admin0Name_vi") %>%
+    as_tibble() %>%
+    mutate(original_cols = value) %>%
+    separate(value, into=c("admin_level", "language"), sep = "_", fill = "right" )
+
+  col_names <- data.frame(names = names(pcodes)) %>%
+    left_join(cols_names_admins, by = c("names" = "original_cols")) %>%
+    filter(!is.na(admin_level)) %>%
+    group_by(admin_level) %>%
+    mutate(
+           admin_level = case_when(
+             n() > 1 & language == "en" ~ admin_level,
+             n() > 1 & language == "fr" ~ admin_level,
+             n() > 1 & language == "es" ~ admin_level,
+             n() > 1 & language == "pt" ~ admin_level,
+             TRUE ~ names
+           ))
+
+  pcodes_reduced <- pcodes %>%
+    select(any_of(col_names$names))
+
+  names(pcodes_reduced) <- r3c(names(pcodes_reduced), col_names$names, col_names$admin_level)
+
+  pcodes_renamed <- pcodes_reduced %>%
+    mutate(
+    across(matches("^admin[0-9]Name$"), normalise_adm, .names = "{.col}_ref"),
+    across(matches("^admin[0-9]Pcode$"), toupper)
+    )%>%
+    relocate(any_of(sort(col_names$admin_level)))
+
+  return(pcodes_renamed)
+}
+
 #' Scrap pcodes datasets from UNOCHA REST API
 #'
 #' @return a dataframe containing all pcodes at the lowest administrative level available
@@ -56,41 +134,7 @@ all_pcodes <- function(){
   all_dfs <- lapply(paste0("https://gistmaps.itos.uga.edu", COD_list), country_pcodes_URL) %>%
     bind_rows()
 
-  all_dfs_rearranged <- all_dfs %>%
-    select(-OBJECTID) %>%
-    mutate(admin0Name = case_when(
-      is.na(admin0Name_en) & !is.na(admin0Name_fr) ~ admin0Name_fr,
-      is.na(admin0Name_en) & !is.na(admin0Name_es) ~ admin0Name_es,
-      !is.na(admin0Name_en) ~ admin0Name_en,
-      TRUE ~ NA_character_
-    ),
-    admin1Name = case_when(
-      is.na(admin1Name_en) & !is.na(admin1Name_fr) ~ admin1Name_fr,
-      is.na(admin1Name_en) & !is.na(admin1Name_es) ~ admin1Name_es,
-      !is.na(admin1Name_en) ~ admin1Name_en,
-      TRUE ~ NA_character_
-    ),
-    admin2Name = case_when(
-      is.na(admin2Name_en) & !is.na(admin2Name_fr) ~ admin2Name_fr,
-      is.na(admin2Name_en) & !is.na(admin2Name_es) ~ admin2Name_es,
-      !is.na(admin2Name_en) ~ admin2Name_en,
-      TRUE ~ NA_character_
-    ),
-    admin3Name = case_when(
-      is.na(admin3Name_en) & !is.na(admin3Name_fr) ~ admin3Name_fr,
-      is.na(admin3Name_en) & !is.na(admin3Name_es) ~ admin3Name_es,
-      !is.na(admin3Name_en) ~ admin3Name_en,
-      TRUE ~ NA_character_
-    ),
-    admin4Name = case_when(
-      is.na(admin4Name_en) & !is.na(admin4Name_fr) ~ admin4Name_fr,
-      !is.na(admin4Name_en) ~ admin4Name_en,
-      TRUE ~ NA_character_
-    ),
-    across(matches("^admin[0-9]Name$"), normalise_adm, .names = "{.col}_ref"),
-    across(matches("^admin[0-9]Pcode$"), toupper)
-    )%>%
-    relocate(admin0Name,admin0Pcode, admin1Name,admin1Pcode, admin2Name, admin2Pcode, admin3Name, admin3Pcode, admin4Name,admin4Pcode)
+  all_dfs_rearranged <- rename_pcodes(all_dfs)
 
   return(all_dfs_rearranged)
 
@@ -147,7 +191,7 @@ one_URL_properties <- function(layer_URL){
 
 country_pcodes_iso3 <- function(country_iso3){
   country_URL <- paste0("https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/",country_iso3,"_pcode/FeatureServer")
-  country_data <- country_pcodes_URL(country_URL)
+  country_data <- rename_pcodes(country_pcodes_URL(country_URL))
   return(country_data)
 }
 
