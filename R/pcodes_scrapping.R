@@ -171,7 +171,7 @@ country_pcodes_URL <- function(country_URL){
   all_layers <- tryCatch({paste0(country_URL, "/layers")%>%
       read_html() %>%
       html_nodes("a")%>%
-      xml_attr("href")},
+      xml2::xml_attr("href")},
       error=function(e){cat("URL not available:", conditionMessage(e), "\n")}
   )
 

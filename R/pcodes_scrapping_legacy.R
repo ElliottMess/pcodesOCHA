@@ -1,15 +1,4 @@
 
-#' Scrap pcodes datasets from UNOCHA REST API
-#'
-#' This function was replaced
-#'
-#' @return a dataframe containing all pcodes at the lowest administrative level available
-#' @export
-#'
-#' @examples
-#' \dontrun{
-#' all_pcodes_feature_servers()
-#' }
 all_pcodes_feature_servers <- function(){
   base_URL <- "https://gistmaps.itos.uga.edu/"
 
