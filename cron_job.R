@@ -8,8 +8,8 @@ packages <- list(
   "readr",
   "countrycode",
   "xml2",
-  "pcodesOCHA"
-)
+  "devtools")
+
 
 package.check <- lapply(
   packages,function(x) {
@@ -19,6 +19,8 @@ package.check <- lapply(
     }
   }
 )
+
+devtools::install_github("elliottmess/pcodesocha")
 
 library(httr)
 library(dplyr)
@@ -30,6 +32,7 @@ library(readr)
 library(countrycode)
 library(purrr)
 library(xml2)
+library(pcodesOCHA)
 source("R/pcodes_scrapping.R")
 source("R/utils.R")
 
