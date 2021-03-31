@@ -6,7 +6,9 @@ packages <- list(
   "jsonlite",
   "rvest",
   "readr",
-  "countrycode"
+  "countrycode",
+  "xml2",
+  "pcodesOCHA"
 )
 
 package.check <- lapply(
@@ -27,6 +29,7 @@ library(rvest)
 library(readr)
 library(countrycode)
 library(purrr)
+library(xml2)
 source("R/pcodes_scrapping.R")
 source("R/utils.R")
 

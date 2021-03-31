@@ -1,400 +1,400 @@
-OBJECTID,admin2Name_en,admin2Name_da,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,admin2AltName1_da,admin2AltName2_da,admin1Name_en,admin1Name_da,admin1Pcode,admin0Name_en,admin0Name_da,admin0Pcode,date,validOn,ValidTo,regionName_en,regionName_da,regionCode
-1,Ab Band,آب بند,AF1113,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-2,Ab Kamari,آب کمری,AF3102,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-3,Achin,اچین,AF0615,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-4,Adraskan,ادرسکن,AF3209,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-5,Ahmadaba,احمد آبا,AF1302,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-6,Ajristan,اجرستان,AF1118,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-7,Alasay,اله سای,AF0207,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-8,Ali Abad,علی آباد,AF1903,NA,NA,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-9,Alingar,علینگار,AF0704,NA,NA,NA,NA,NA,Laghman,لغمان,AF07,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-10,Alishang,علیشنگ,AF0703,NA,NA,NA,NA,NA,Laghman,لغمان,AF07,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-11,Almar,المار,AF2904,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-12,Anar Dara,انار دره,AF3307,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-13,Anawa,عنابه,AF0805,NA,Onaba,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-14,Andar,اندړ,AF1107,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-15,Andarab,اندراب,AF0907,NA,Banu,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-16,Andkhoy,اندخوی,AF2913,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-17,Aqcha,آقچه,AF2807,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-18,Arghandab,ارغنداب,AF2605,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-19,Arghandab,ارغنداب,AF2702,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-20,Arghanj Khwah,ارغنچخواه,AF1703,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-21,Arghestan,ارغستان,AF2708,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-22,Argo,ارگو,AF1702,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-23,Asad Abad,اسد آباد,AF1501,NA,Centre,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-24,Ashtarlay,اشترلی,AF2403,NA,Ishterlai,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-25,Atghar,اتغر,AF2608,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-26,Aybak,ایبک,AF2001,NA,Centre,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-27,Azra,ازره,AF0507,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-28,Baghlan-e-Jadid,بغلان جدید,AF0905,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-29,Baghran,باغران,AF3012,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-30,Bagram,بگرام,AF0302,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-31,Bagrami,بگرامی,AF0104,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-32,Baharak,بهارک,AF1706,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-33,Baharak,بهارک,AF1803,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-34,Bak,باک,AF1409,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-35,Bakwa,بکواه,AF3308,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-36,Bala Buluk,بالا بلوک,AF3306,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-37,Bala Murghab,بالا مرغاب,AF3105,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-38,Balkh,بلخ,AF2106,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-39,Balkhab,بلخاب,AF2207,NA,NA,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-40,Bamyan,بامیان,AF1001,NA,Centre,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-41,Bangi,بنگی,AF1804,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-42,Bar Kunar,برکنر,AF1508,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-43,Baraki Barak,برکی برک,AF0502,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-44,Barg-e-Matal,برگ متال,AF1608,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-45,Barmal,برمل,AF1214,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-46,Bati Kot,بتی کوټ,AF0609,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-47,Bazarak,بازارک,AF0801,NA,Centre,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-48,Behsud,بهسود,AF0602,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-49,Bilcheragh,بلچراغ,AF2905,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-50,Burka,بورکه,AF0910,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-51,Chahab,چاه آب,AF1816,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-52,Chahar Asyab,چهار آسیاب,AF0103,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-53,Chahar Darah,چهار دره,AF1902,NA,NA,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-54,Chak-e-Wardak,چک,AF0404,NA,Chak,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-55,Chakhansur,چخانسور,AF3403,NA,Asl-i-Chakhansur,NA,NA,NA,Nimroz,نیمروز,AF34,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-56,Chal,چال,AF1805,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-57,Chamkani,څمکنی,AF1310,NA,Samkani,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-58,Chapa Dara,چپه دره,AF1513,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-59,Chaparhar,چپر هار,AF0604,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-60,Char Bolak,چار بولک,AF2111,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-61,Char Burjak,چاربرجک,AF3404,NA,NA,NA,NA,NA,Nimroz,نیمروز,AF34,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-62,Charikar,چاریکار,AF0301,NA,Centre,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-63,Charkent,چار کنت,AF2104,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-64,Charkh,چرخ,AF0503,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-65,Charsadra,چار صد ره,AF2304,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-66,Chawkay,چوکی,AF1509,NA,Sawkai,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-67,Chemtal,چمتال,AF2108,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-68,Chisht-e-Sharif,چشت شریف,AF3216,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-69,Chora,چوره,AF2503,NA,NA,NA,NA,NA,Uruzgan,ارزگان,AF25,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-70,Dahana-e-Ghori,دهنۀ غوری,AF0902,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-71,Daman,دامان,AF2703,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-72,Dand Wa Patan,دند وپټان,AF1311,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-73,Dangam,دانگام,AF1512,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-74,Dara,دره,AF0803,NA,NA,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-75,Dara-e-Nur,دره نور,AF0612,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-76,Dara-e-Pech,دره پیچ,AF1507,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-77,Dara-e-Suf-e-Bala,درۀ صوف بالا,AF2007,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-78,Dara-e-Suf-e-Payin,درۀ صوف پائین,AF2006,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-79,Darayem,درایم,AF1707,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-80,Darqad,درقد,AF1815,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-81,Darzab,درز آب,AF2811,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-82,Dasht-e-Archi,دشت ارچی,AF1906,NA,NA,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-83,Dasht-e-Qala,دشت قلعه,AF1812,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-84,Dawlat Abad,دولت آباد,AF2109,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-85,Dawlat Abad,دولت آباد,AF2909,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-86,Dawlatshah,دولت شاه,AF0705,NA,NA,NA,NA,NA,Laghman,لغمان,AF07,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-87,Dawlatyar,دولت یار,AF2303,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-88,Dawraz-e-Bala,دروازبالا ( نیسی),AF1727,NA,Nusai,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-89,Dawraz-e-Payin,درواز پائین (ما می ),AF1722,NA,Mai Mai,Dawraz,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-90,Daychopan,دای چوپان,AF2607,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-91,Daymirdad,دایمیرداد,AF0406,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-92,Deh-e-Shu,دیشو,AF3013,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-93,Deh Bala,ده بالا,AF0610,NA,Haska Meyna,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-94,Deh Sabz,ده سبز,AF0105,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-95,Deh Salah,ده صلاح,AF0908,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-96,Deh Yak,ده یک,AF1105,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-97,Dehdadi,دهدادی,AF2103,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-98,Dehrawud,دهراود,AF2502,NA,NA,NA,NA,NA,Uruzgan,ارزگان,AF25,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-99,Dila,دیله,AF1216,NA,Dila Wa Khusamand,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-100,DoLayna,دو لینه,AF2302,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-101,Doshi,دوشی,AF0903,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-102,Duab,دو آب,AF1605,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-103,Dur Baba,دُر بابا,AF0622,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-104,Eshkashem,اشکاشم,AF1723,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-105,Eshkmesh,اشکمش,AF1811,NA,Ishkamish,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-106,Estalef,استالف,AF0113,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-107,Farah,فراه,AF3301,NA,Centre,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-108,Farkhar,فرخار,AF1808,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-109,Farsi,فرسی,AF3215,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-110,Farza,فرزه,AF0112,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-111,Fayzabad,فیض آباد,AF1701,NA,Centre,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-112,Fayzabad,فیض آباد,AF2808,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-113,Fereng Wa Gharu,فرنگ وغارو,AF0915,NA,Fereng,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-114,Feroz Koh,فیروزکوه,AF2301,NA,Chagcharan,Centre,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-115,Feroz Nakhchir,فیروز نخچیر,AF2004,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-116,Gardez,گردیز,AF1301,NA,Centre,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-117,Garmser,گرم سیر,AF3006,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-118,Garzewan,گرزیوان,AF2908,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-119,Gelan,گیلان,AF1117,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-120,Ghazi Abad,غازی آباد,AF1511,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-121,Ghazni,غزنی,AF1101,NA,Centre,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-122,Ghorak,غورک,AF2709,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-123,Ghorband,غوربند,AF0307,NA,Syah Gird,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-124,Ghormach,غورماچ,AF3107,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-125,Ghoryan,غوریان,AF3211,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-126,Giro,گیرو,AF1112,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-127,Giyan,گیان,AF1215,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-128,Gizab,گیزاب,AF2409,NA,Patoo,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-129,Gomal,گومل,AF1208,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-130,Gosfandi,گوسفندی,AF2206,NA,NA,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-131,Goshta,گوشته,AF0614,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-132,Guldara,گلدره,AF0111,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-133,Gulistan,گلستان,AF3310,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-134,Gulran,گلران,AF3208,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-135,Gurbuz,گربز,AF1403,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-136,Guzara,گذره,AF3203,NA,Nizam-i-Shahid,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-137,Guzargah-e-Nur,گذرگاه نور,AF0914,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-138,Hazar Sumuch,هزار سموچ,AF1802,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-139,Hazrat-e-Sultan,حضرت سلطان,AF2002,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-140,Hesa-e-Awal-e-Behsud,حصه اول بهسود,AF0407,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-141,Hesarak,حصارک,AF0621,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-142,Hirat,هرات,AF3201,NA,Centre,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-143,Hisa-e-Awal-e-Kohistan,حصه اول کوهستان,AF0204,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-144,Hisa-e-Duwum-e-Kohistan,حصه دوم کوهستان,AF0202,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-145,Imam Sahib,امام صاحب,AF1905,NA,Hazrati Imam Sahib,Kalbad,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-146,Injil,انجیل,AF3202,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-147,Jabal Saraj,جبل السراج,AF0305,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-148,Jaghatu,جغتو,AF0408,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-149,Jaghatu,جغتو,AF1106,NA,Bahrami Shahid,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-150,Jaghuri,جاغوری,AF1114,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-151,Jaji,علی خیل,AF1307,NA,Alikhel,Aryob,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-152,Jaji Maydan,جاجی میدان,AF1413,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-153,Jalalabad,جلال آباد,AF0601,NA,Centre,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-154,Jalrez,جلریز,AF0403,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-155,Jani Khel,جانی خیل,AF1209,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-156,Jani Khel,جانی خیل,AF1309,NA,Mangal,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-157,Jawand,جوند,AF3106,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-158,Jorm,جرم,AF1710,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-159,Kabul,کابل,AF0101,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-160,Kahmard,کهمرد,AF1004,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-161,Kajaki,کجکی,AF3010,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-162,Kajran,کجران,AF2408,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-163,Kakar,کاکړ,AF2611,NA,Khak-e-Afghan,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-164,Kalafgan,کلفگان,AF1807,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-165,Kalakan,کلکان,AF0110,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-166,Kaldar,کلدار,AF2113,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-167,Kama,کامه,AF0605,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-168,Kamdesh,کامدیش,AF1606,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-169,Kandahar,کندهار,AF2701,NA,Centre,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-170,Kang,کنگ,AF3402,NA,NA,NA,NA,NA,Nimroz,نیمروز,AF34,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-171,Karukh,کرُخ,AF3204,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-172,Keshem,کشم,AF1715,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-173,Keshendeh,کشنده,AF2114,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-174,Khadir,خدیر,AF2404,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-175,Khak-e-Jabbar,خاک جبار,AF0109,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-176,Khak-e-Safed,خاک سفید,AF3303,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-177,Khakrez,خاکریز,AF2707,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-178,Khamyab,خمیاب,AF2806,NA,Kham Ab,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-179,Khan-e-Char Bagh,خان چارباغ,AF2914,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-180,Khan Abad,خان آباد,AF1904,NA,NA,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-181,Khanaqa,خانقا,AF2803,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-182,Kharwar,خروار,AF0506,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-183,Khas Kunar,خاص کنر,AF1510,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-184,Khas Uruzgan,خاص ارزگان,AF2505,NA,NA,NA,NA,NA,Uruzgan,ارزگان,AF25,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-185,Khash,خاش,AF1705,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-186,Khashrod,خاش رود,AF3405,NA,NA,NA,NA,NA,Nimroz,نیمروز,AF34,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-187,Khenj,خنج (حصه اول),AF0804,NA,Hisa-e-Awal,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-188,Khinjan,خنجان,AF0906,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-189,Khogyani,خوگیانی,AF0608,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-190,Khoshi,خوشی,AF0504,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-191,Khost Wa Fereng,خوست و فرنگ,AF0913,NA,Khost,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-192,Khulm,خلم,AF2110,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-193,Khuram Wa Sarbagh,خرم وسارباغ,AF2003,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-194,Khwahan,خواهان,AF1720,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-195,Khwaja Bahawuddin,خواجه بهاوالدین,AF1814,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-196,Khwaja Dukoh,خواجه دوکوه,AF2802,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-197,Khwaja Ghar,خواجه غار,AF1809,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-198,Khwaja Hejran,خواجه هجران,AF0909,NA,Jalga,Jalga Nahrin,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-199,Khwaja Sabz Posh,خواجه سبزپوش,AF2903,NA,Khwaja Sabz Posh-i-Wali,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-200,Khwaja Umari,خواجه عمری,AF1103,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-201,Kiti,کیتی,AF2405,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-202,Kofab,کوف آب,AF1721,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-203,Koh-e-Safi,کوه صافی,AF0308,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-204,Koh Band,کوه بند,AF0203,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-205,Kohestanat,کوهستانات,AF2203,NA,NA,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-206,Kohistan,کوهستان,AF1708,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-207,Kohistan,کوهستان,AF2910,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-208,Kohsan,کوهسان,AF3213,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-209,Koran Wa Monjan,کران ومنجان,AF1726,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-210,Kot,کوټ,AF0613,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-211,Kunduz,کندز,AF1901,NA,Centre,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-212,Kushk,کُشک,AF3207,NA,Rubat-i-Sangi,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-213,Kushk-e-Kuhna,کُشک کهنه,AF3210,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-214,Kuz Kunar,کوز کنر,AF0606,NA,Khewa,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-215,Lal Wa Sarjangal,لعل و سرجنگل,AF2307,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-216,Lalpur,لعل پور,AF0618,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-217,Lash-e-Juwayn,لاش جوین,AF3309,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-218,Lashkargah,لشکرگاه,AF3001,NA,Centre,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-219,Lija Ahmad Khel,لجه احمد خیل,AF1308,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-220,Mahmood-e-Raqi,محمود راقی,AF0201,NA,Centre,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-221,Malistan,مالستان,AF1116,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-222,Mandol,مندول,AF1607,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-223,Mandozayi,مندوزائی,AF1402,NA,Ishmail Khail,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-224,Marawara,مروره,AF1502,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-225,Mardyan,مردیان,AF2809,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-226,Markaz-e-Behsud,مدکز بهسود,AF0409,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-227,Marmul,مارمُل,AF2105,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-228,Maruf,معروف,AF2715,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-229,Mata Khan,متاخان,AF1202,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-230,Matun,خوست (متون),AF1401,NA,Khost,Centre,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-231,Maydan Shahr,میدان شهر,AF0401,NA,Centre,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-232,Maymana,میمنه,AF2901,NA,Centre,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-233,Maywand,میوند,AF2710,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-234,Mazar-e-Sharif,مزار شریف,AF2101,NA,Mazar,Centre,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-235,Mehtarlam,مهتر لام,AF0701,NA,Laghman Centre,Centre,NA,NA,Laghman,لغمان,AF07,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-236,Mingajik,منگجک,AF2804,NA,Farary,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-237,Mir Bacha Kot,میر بچه کوت,AF0108,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-238,Miramor,میرامور,AF2406,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-239,Miyanshin,میانشین,AF2713,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-240,Mizan,میزان,AF2604,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-241,Mohammad Agha,محمدآغه,AF0505,NA,NA,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-242,Muhmand Dara,مهمند دره,AF0617,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-243,Muqur,مقر,AF1115,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-244,Muqur,مقر,AF3103,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-245,Musa Khel,موسی خیل,AF1405,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-246,Musa Qala,موسی قلعه,AF3009,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-247,Musahi,موسهی,AF0107,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-248,Nad-e-Ali,نادعلی,AF3002,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-249,Nadir Shah Kot,نادرشاه کوت,AF1406,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-250,Nahr-e-Saraj,نهر سراج,AF3004,NA,Grishk,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-251,Nahr-e-Shahi,نهر شاهی,AF2102,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-252,Nahrin,نهرین,AF0904,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-253,Namak Ab,نمک آب,AF1806,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-254,Narang,نرنگ,AF1504,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-255,Nari,ناړی,AF1515,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-256,Nawa,ناوه,AF1119,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-257,Nawa-e-Barakzaiy,ناوه بارکزائی,AF3003,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-258,Nawbahar,نوبهار,AF2609,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-259,Nawur,ناور,AF1110,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-260,Nawzad,نوزاد,AF3007,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-261,Nazyan,نازیان,AF0620,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-262,Nerkh,نرخ,AF0402,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-263,Nesh,نیش,AF2712,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-264,Nijrab,نجراب,AF0205,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-265,Nika,نیکه,AF1213,NA,Neka,Naka,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-266,Nili,نیلی,AF2401,NA,Centre,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-267,Nurgal,نورگل,AF1514,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-268,Nurgaram,نورگرام,AF1604,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-269,Obe,اوبی,AF3212,NA,Obi,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-270,Omna,اومنه,AF1206,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-271,Pachir Wa Agam,پچیراگام,AF0611,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-272,Paghman,پغمان,AF0102,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-273,Panjab,پنجاب,AF1006,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-274,Panjwayi,پنجوائی,AF2704,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-275,Parun,پرونس,AF1601,NA,Centre,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-276,Paryan,پریان,AF0807,NA,NA,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-277,Pasaband,پسابند,AF2305,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-278,Pashtun Kot,پشتون کوټ,AF2902,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-279,Pashtun Zarghun,پشتون زرغون,AF3206,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-280,Pul-e-Alam,پل علم,AF0501,NA,Centre,NA,NA,NA,Logar,لوگر,AF05,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-281,Pul-e-Hisar,پل حصار,AF0912,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-282,Pul-e-Khumri,پلخمری,AF0901,NA,Centre,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-283,Pur Chaman,پُرچمن,AF3311,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-284,Pushtrod,پشترود,AF3302,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-285,Qadis,قادیس,AF3104,NA,NA,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-286,Qala-e-Kah,قلعه کاه,AF3304,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-287,Qala-e-Naw,قلعه نو,AF3101,NA,Centre,NA,NA,NA,Badghis,بادغیس,AF31,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-288,Qala-e-Zal,قلعه ذال,AF1907,NA,Qalai Zal,NA,NA,NA,Kunduz,کندز,AF19,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-289,Qalandar,قلندر,AF1410,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-290,Qalat,قلات,AF2601,NA,Centre,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-291,Qara Bagh,قره باغ,AF0114,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-292,Qara Bagh,قره باغ,AF1111,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-293,Qaram Qul,قرم قل,AF2911,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-294,Qarghayi,قرغه ئی,AF0702,NA,NA,NA,NA,NA,Laghman,لغمان,AF07,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-295,Qarqin,قرقین,AF2810,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-296,Qaysar,قیصار,AF2907,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-297,Qurghan,قرغان,AF2912,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-298,Qush Tepa,قوش تیپه,AF2805,NA,NA,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-299,Raghestan,راغستان,AF1714,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-300,Rashidan,رشیدان,AF1109,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-301,Reg,ریگ ( شگه ),AF2716,NA,Shiga,Registan,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-302,Reg-i-Khan Nishin,ریگ خان نشین    ,AF3011,NA,Reg,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-303,Rodat,رودات,AF0607,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-304,Rostaq,رُستاق,AF1810,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-305,Rukha,رُخه,AF0802,NA,NA,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-306,Ruy-e-Duab,روی دو آب,AF2005,NA,NA,NA,NA,NA,Samangan,سمنگان,AF20,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-307,Sabari,صبری,AF1407,NA,Yaqubi,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-308,Saghar,ساغر,AF2310,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-309,Salang,سالنگ,AF0306,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-310,Sancharak,سانچارك,AF2205,NA,Sangchark,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-311,Sang-e-Takht,سنگ تخت,AF2407,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-312,Sangin,سنگین,AF3008,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-313,Sar-e-Pul,سرپل,AF2201,NA,Centre,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-314,Sar Kani,سرکانی,AF1505,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-315,Sar Rawzah,سرروضه (سرحوضه),AF1205,NA,Sar Hawzah,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-316,Sayad,صیاد,AF2202,NA,NA,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-317,Saydabad,سید آباد,AF0405,NA,NA,NA,NA,NA,Maidan Wardak,میدان وردک,AF04,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-318,Sayed Karam,سیدکرم,AF1306,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-319,Sayed Khel,سیدخیل,AF0304,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-320,Sayghan,سیغان,AF1003,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-321,Shah Joi,شاه جوی,AF2606,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-322,Shah Wali Kot,شاه ولی کوت,AF2706,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-323,Shahid-e-Hassas,شهید حساس,AF2504,NA,Charchino,NA,NA,NA,Uruzgan,ارزگان,AF25,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-324,Shahr-e-Buzorg,شهر بزرگ,AF1713,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-325,Shahrak,شهرک,AF2306,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-326,Shahrestan,شهرستان,AF2402,NA,NA,NA,NA,NA,Daykundi,دایکندی,AF24,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-327,Shakar Dara,شکردره,AF0106,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-328,Shaki,شکی,AF1724,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-329,Shamal,شمل,AF1412,NA,Dowa Mandi,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-330,Shamul Zayi,شملزائی,AF2610,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-331,Sharak-e-Hayratan,شهرک حیرتان,AF2116,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-332,Sharan,شرن,AF1201,NA,Centre,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-333,Shawak,شواک,AF1304,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-334,Shekh Ali,شیخ علی,AF0310,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-335,Sherzad,شیرزاد,AF0619,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-336,Shibar,شیبر,AF1002,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-337,Shiberghan,شبرغان,AF2801,NA,Centre,NA,NA,NA,Jawzjan,جوزجان,AF28,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-338,Shibkoh,شیب کوه,AF3305,NA,NA,NA,NA,NA,Farah,فراه,AF33,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-339,Shigal,شیگل وشلتن,AF1506,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-340,Shighnan,شغنان,AF1719,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-341,Shindand,شیندند,AF3214,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-342,Shinkay,شینکی,AF2603,NA,NA,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-343,Shinwar,شینوار,AF0616,NA,Ghani Khail,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-344,Shinwari,شینواری,AF0303,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-345,Shirin Tagab,شیرین تگاب,AF2906,NA,NA,NA,NA,NA,Faryab,فاریاب,AF29,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-346,Sholgareh,شولگره,AF2107,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-347,Shorabak,شور آبک,AF2714,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-348,Shortepa,شور تیپه,AF2112,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-349,Shuhada,شهدا,AF1712,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-350,Shutul,شُتل,AF0806,NA,NA,NA,NA,NA,Panjsher,پنجشیر,AF08,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-351,Sozmaqala,سوزمه قلعه,AF2204,NA,NA,NA,NA,NA,Sar-e-Pul,سرپل,AF22,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-352,Spera,سپیره,AF1411,NA,NA,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-353,Spin Boldak,سپین بولدک,AF2711,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-354,Surkh-e-Parsa,سرخ پارسا,AF0309,NA,NA,NA,NA,NA,Parwan,پروان,AF03,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-355,Surkh Rod,سرخ رود,AF0603,NA,NA,NA,NA,NA,Nangarhar,ننگرهار,AF06,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-356,Surobi,سروبی,AF0115,NA,NA,NA,NA,NA,Kabul,کابل,AF01,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-357,Surobi,سروبی,AF1210,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-358,Tagab,تگاب,AF0206,NA,NA,NA,NA,NA,Kapisa,کاپیسا,AF02,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Capital,مرکزی حوزه,CR
-359,Tagab,تگاب,AF1717,NA,Kishmi Bala,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-360,Tala Wa Barfak,تاله وبرفک,AF0911,NA,NA,NA,NA,NA,Baghlan,بغلان,AF09,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-361,Taloqan,تالقان,AF1801,NA,Centre,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-362,Tani,تنی,AF1404,NA,Dargai,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-363,Tarnak Wa Jaldak,ترنک و جلدک,AF2602,NA,Shahr-e-Safa,NA,NA,NA,Zabul,زابل,AF26,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-364,Taywarah,تیوره,AF2308,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-365,Terezayi,تری زائی,AF1408,NA,Ali Sher,NA,NA,NA,Khost,خوست,AF14,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-366,Teshkan,تشکان,AF1711,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-367,Tirinkot,تیرینکوت,AF2501,NA,Centre,NA,NA,NA,Uruzgan,ارزگان,AF25,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-368,Tolak,تولک,AF2309,NA,NA,NA,NA,NA,Ghor,غور,AF23,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-369,Turwo,تروو,AF1219,NA,Tarwe,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-370,Urgun,ارگون,AF1211,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-371,Waghaz,واغظ,AF1104,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-372,Wakhan,واخان,AF1728,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-373,Wal-e-Muhammad-e-Shahid,ولی محمد شهید,AF1102,NA,Khugyani,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-374,Wama,واما,AF1603,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-375,Waras,ورث,AF1007,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-376,Warduj,وردوج,AF1716,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-377,Warsaj,ورسج,AF1813,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-378,Washer,واشیر,AF3005,NA,NA,NA,NA,NA,Hilmand,هلمند,AF30,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-379,Watapur,وته پور,AF1503,NA,NA,NA,NA,NA,Kunar,کنر ها,AF15,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-380,Waygal,وایگل,AF1602,NA,NA,NA,NA,NA,Nuristan,نورستان,AF16,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Eastern,ختیځه حوزه,ER
-381,Wazakhah,وازه خواه,AF1217,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-382,Wormamay,وړ ممی,AF1218,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-383,Yaftal-e-Sufla,یفتل سفلی,AF1704,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-384,Yahya Khel,یحی خیل,AF1204,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-385,Yakawlang,یکاولنگ,AF1005,NA,NA,NA,NA,NA,Bamyan,بامیان,AF10,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Central Highland,لوړه مرکزی حوزه,CH
-386,Yamgan,یمگان,AF1718,NA,Girwan,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-387,Yangi Qala,ینگی قلعه,AF1817,NA,NA,NA,NA,NA,Takhar,تخار,AF18,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-388,Yawan,یاوان,AF1709,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-389,Yosuf Khel,یوسف خیل,AF1203,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-390,Zadran,حّدران,AF1305,NA,Wuza Zadran,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-391,Zanakhan,زنه خان,AF1108,NA,NA,NA,NA,NA,Ghazni,غزنی,AF11,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-392,Zaranj,زرنج,AF3401,NA,Centre,NA,NA,NA,Nimroz,نیمروز,AF34,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-393,Zarghun Shahr,زرغون شهر,AF1207,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-394,Zari,زاری,AF2115,NA,NA,NA,NA,NA,Balkh,بلخ,AF21,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Northern,سهیلی حوزه,NR
-395,Zebak,زیباک,AF1725,NA,NA,NA,NA,NA,Badakhshan,بدخشان,AF17,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,North Eastern,سهیل ختیځه حوزه,NE
-396,Zheray,ژړۍ,AF2705,NA,NA,NA,NA,NA,Kandahar,کندهار,AF27,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Southern,جنوبی حوزه,SR
-397,Zindajan,زنده جان,AF3205,NA,NA,NA,NA,NA,Hirat,هرات,AF32,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,Western,لویدیځه حوزه,WR
-398,Ziruk,زیړوک,AF1212,NA,NA,NA,NA,NA,Paktika,پکتیکا,AF12,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
-399,Zurmat,زُرمت,AF1303,NA,NA,NA,NA,NA,Paktya,پکتیا,AF13,Afghanistan,افغانستان,AF,1503446400000,1526947200000,NA,South Eastern,جنوب ختیځه حوزه,SE
+admin0Name,admin0Name_da,admin0Pcode,admin1Name,admin1Name_da,admin1Pcode,admin2AltName1,admin2AltName1_da,admin2AltName2,admin2AltName2_da,admin2Name,admin2Name_da,admin2Pcode,admin2RefName,regionCode,regionName,regionName_da,admin2Name_ref,admin1Name_ref,admin0Name_ref
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Ab Band,آب بند,AF1113,NA,SE,South Eastern,جنوب ختیځه حوزه,ab_band,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Ab Kamari,آب کمری,AF3102,NA,WR,Western,لویدیځه حوزه,ab_kamari,badghis,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Achin,اچین,AF0615,NA,ER,Eastern,ختیځه حوزه,achin,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Adraskan,ادرسکن,AF3209,NA,WR,Western,لویدیځه حوزه,adraskan,hirat,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Ahmadaba,احمد آبا,AF1302,NA,SE,South Eastern,جنوب ختیځه حوزه,ahmadaba,paktya,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Ajristan,اجرستان,AF1118,NA,SE,South Eastern,جنوب ختیځه حوزه,ajristan,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Alasay,اله سای,AF0207,NA,CR,Capital,مرکزی حوزه,alasay,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,NA,NA,NA,NA,Ali Abad,علی آباد,AF1903,NA,NE,North Eastern,سهیل ختیځه حوزه,ali_abad,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Laghman,لغمان,AF07,NA,NA,NA,NA,Alingar,علینگار,AF0704,NA,ER,Eastern,ختیځه حوزه,alingar,laghman,afghanistan
+Afghanistan,افغانستان,AF,Laghman,لغمان,AF07,NA,NA,NA,NA,Alishang,علیشنگ,AF0703,NA,ER,Eastern,ختیځه حوزه,alishang,laghman,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Almar,المار,AF2904,NA,NR,Northern,سهیلی حوزه,almar,faryab,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Anar Dara,انار دره,AF3307,NA,WR,Western,لویدیځه حوزه,anar_dara,farah,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,Onaba,NA,NA,NA,Anawa,عنابه,AF0805,NA,CR,Capital,مرکزی حوزه,anawa,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Andar,اندړ,AF1107,NA,SE,South Eastern,جنوب ختیځه حوزه,andar,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,Banu,NA,NA,NA,Andarab,اندراب,AF0907,NA,NE,North Eastern,سهیل ختیځه حوزه,andarab,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Andkhoy,اندخوی,AF2913,NA,NR,Northern,سهیلی حوزه,andkhoy,faryab,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Aqcha,آقچه,AF2807,NA,NR,Northern,سهیلی حوزه,aqcha,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Arghandab,ارغنداب,AF2605,NA,SR,Southern,جنوبی حوزه,arghandab,zabul,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Arghandab,ارغنداب,AF2702,NA,SR,Southern,جنوبی حوزه,arghandab,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Arghanj Khwah,ارغنچخواه,AF1703,NA,NE,North Eastern,سهیل ختیځه حوزه,arghanj_khwah,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Arghestan,ارغستان,AF2708,NA,SR,Southern,جنوبی حوزه,arghestan,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Argo,ارگو,AF1702,NA,NE,North Eastern,سهیل ختیځه حوزه,argo,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,Centre,NA,NA,NA,Asad Abad,اسد آباد,AF1501,NA,ER,Eastern,ختیځه حوزه,asad_abad,kunar,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,Ishterlai,NA,NA,NA,Ashtarlay,اشترلی,AF2403,NA,CH,Central Highland,لوړه مرکزی حوزه,ashtarlay,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Atghar,اتغر,AF2608,NA,SR,Southern,جنوبی حوزه,atghar,zabul,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,Centre,NA,NA,NA,Aybak,ایبک,AF2001,NA,NR,Northern,سهیلی حوزه,aybak,samangan,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Azra,ازره,AF0507,NA,CR,Capital,مرکزی حوزه,azra,logar,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Baghlan-e-Jadid,بغلان جدید,AF0905,NA,NE,North Eastern,سهیل ختیځه حوزه,baghlan_e_jadid,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Baghran,باغران,AF3012,NA,SR,Southern,جنوبی حوزه,baghran,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Bagram,بگرام,AF0302,NA,CR,Capital,مرکزی حوزه,bagram,parwan,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Bagrami,بگرامی,AF0104,NA,CR,Capital,مرکزی حوزه,bagrami,kabul,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Baharak,بهارک,AF1706,NA,NE,North Eastern,سهیل ختیځه حوزه,baharak,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Baharak,بهارک,AF1803,NA,NE,North Eastern,سهیل ختیځه حوزه,baharak,takhar,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Bak,باک,AF1409,NA,SE,South Eastern,جنوب ختیځه حوزه,bak,khost,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Bakwa,بکواه,AF3308,NA,WR,Western,لویدیځه حوزه,bakwa,farah,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Bala Buluk,بالا بلوک,AF3306,NA,WR,Western,لویدیځه حوزه,bala_buluk,farah,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Bala Murghab,بالا مرغاب,AF3105,NA,WR,Western,لویدیځه حوزه,bala_murghab,badghis,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Balkh,بلخ,AF2106,NA,NR,Northern,سهیلی حوزه,balkh,balkh,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,NA,NA,NA,NA,Balkhab,بلخاب,AF2207,NA,NR,Northern,سهیلی حوزه,balkhab,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,Centre,NA,NA,NA,Bamyan,بامیان,AF1001,NA,CH,Central Highland,لوړه مرکزی حوزه,bamyan,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Bangi,بنگی,AF1804,NA,NE,North Eastern,سهیل ختیځه حوزه,bangi,takhar,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Bar Kunar,برکنر,AF1508,NA,ER,Eastern,ختیځه حوزه,bar_kunar,kunar,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Baraki Barak,برکی برک,AF0502,NA,CR,Capital,مرکزی حوزه,baraki_barak,logar,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Barg-e-Matal,برگ متال,AF1608,NA,ER,Eastern,ختیځه حوزه,barg_e_matal,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Barmal,برمل,AF1214,NA,SE,South Eastern,جنوب ختیځه حوزه,barmal,paktika,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Bati Kot,بتی کوټ,AF0609,NA,ER,Eastern,ختیځه حوزه,bati_kot,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,Centre,NA,NA,NA,Bazarak,بازارک,AF0801,NA,CR,Capital,مرکزی حوزه,bazarak,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Behsud,بهسود,AF0602,NA,ER,Eastern,ختیځه حوزه,behsud,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Bilcheragh,بلچراغ,AF2905,NA,NR,Northern,سهیلی حوزه,bilcheragh,faryab,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Burka,بورکه,AF0910,NA,NE,North Eastern,سهیل ختیځه حوزه,burka,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Chahab,چاه آب,AF1816,NA,NE,North Eastern,سهیل ختیځه حوزه,chahab,takhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Chahar Asyab,چهار آسیاب,AF0103,NA,CR,Capital,مرکزی حوزه,chahar_asyab,kabul,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,NA,NA,NA,NA,Chahar Darah,چهار دره,AF1902,NA,NE,North Eastern,سهیل ختیځه حوزه,chahar_darah,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,Chak,NA,NA,NA,Chak-e-Wardak,چک,AF0404,NA,CR,Capital,مرکزی حوزه,chak_e_wardak,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Nimroz,نیمروز,AF34,Asl-i-Chakhansur,NA,NA,NA,Chakhansur,چخانسور,AF3403,NA,SR,Southern,جنوبی حوزه,chakhansur,nimroz,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Chal,چال,AF1805,NA,NE,North Eastern,سهیل ختیځه حوزه,chal,takhar,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,Samkani,NA,NA,NA,Chamkani,څمکنی,AF1310,NA,SE,South Eastern,جنوب ختیځه حوزه,chamkani,paktya,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Chapa Dara,چپه دره,AF1513,NA,ER,Eastern,ختیځه حوزه,chapa_dara,kunar,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Chaparhar,چپر هار,AF0604,NA,ER,Eastern,ختیځه حوزه,chaparhar,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Char Bolak,چار بولک,AF2111,NA,NR,Northern,سهیلی حوزه,char_bolak,balkh,afghanistan
+Afghanistan,افغانستان,AF,Nimroz,نیمروز,AF34,NA,NA,NA,NA,Char Burjak,چاربرجک,AF3404,NA,SR,Southern,جنوبی حوزه,char_burjak,nimroz,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,Centre,NA,NA,NA,Charikar,چاریکار,AF0301,NA,CR,Capital,مرکزی حوزه,charikar,parwan,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Charkent,چار کنت,AF2104,NA,NR,Northern,سهیلی حوزه,charkent,balkh,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Charkh,چرخ,AF0503,NA,CR,Capital,مرکزی حوزه,charkh,logar,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Charsadra,چار صد ره,AF2304,NA,WR,Western,لویدیځه حوزه,charsadra,ghor,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,Sawkai,NA,NA,NA,Chawkay,چوکی,AF1509,NA,ER,Eastern,ختیځه حوزه,chawkay,kunar,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Chemtal,چمتال,AF2108,NA,NR,Northern,سهیلی حوزه,chemtal,balkh,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Chisht-e-Sharif,چشت شریف,AF3216,NA,WR,Western,لویدیځه حوزه,chisht_e_sharif,hirat,afghanistan
+Afghanistan,افغانستان,AF,Uruzgan,ارزگان,AF25,NA,NA,NA,NA,Chora,چوره,AF2503,NA,SR,Southern,جنوبی حوزه,chora,uruzgan,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Dahana-e-Ghori,دهنۀ غوری,AF0902,NA,NE,North Eastern,سهیل ختیځه حوزه,dahana_e_ghori,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Daman,دامان,AF2703,NA,SR,Southern,جنوبی حوزه,daman,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Dand Wa Patan,دند وپټان,AF1311,NA,SE,South Eastern,جنوب ختیځه حوزه,dand_wa_patan,paktya,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Dangam,دانگام,AF1512,NA,ER,Eastern,ختیځه حوزه,dangam,kunar,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,NA,NA,NA,NA,Dara,دره,AF0803,NA,CR,Capital,مرکزی حوزه,dara,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Dara-e-Nur,دره نور,AF0612,NA,ER,Eastern,ختیځه حوزه,dara_e_nur,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Dara-e-Pech,دره پیچ,AF1507,NA,ER,Eastern,ختیځه حوزه,dara_e_pech,kunar,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Dara-e-Suf-e-Bala,درۀ صوف بالا,AF2007,NA,NR,Northern,سهیلی حوزه,dara_e_suf_e_bala,samangan,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Dara-e-Suf-e-Payin,درۀ صوف پائین,AF2006,NA,NR,Northern,سهیلی حوزه,dara_e_suf_e_payin,samangan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Darayem,درایم,AF1707,NA,NE,North Eastern,سهیل ختیځه حوزه,darayem,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Darqad,درقد,AF1815,NA,NE,North Eastern,سهیل ختیځه حوزه,darqad,takhar,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Darzab,درز آب,AF2811,NA,NR,Northern,سهیلی حوزه,darzab,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,NA,NA,NA,NA,Dasht-e-Archi,دشت ارچی,AF1906,NA,NE,North Eastern,سهیل ختیځه حوزه,dasht_e_archi,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Dasht-e-Qala,دشت قلعه,AF1812,NA,NE,North Eastern,سهیل ختیځه حوزه,dasht_e_qala,takhar,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Dawlat Abad,دولت آباد,AF2109,NA,NR,Northern,سهیلی حوزه,dawlat_abad,balkh,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Dawlat Abad,دولت آباد,AF2909,NA,NR,Northern,سهیلی حوزه,dawlat_abad,faryab,afghanistan
+Afghanistan,افغانستان,AF,Laghman,لغمان,AF07,NA,NA,NA,NA,Dawlatshah,دولت شاه,AF0705,NA,ER,Eastern,ختیځه حوزه,dawlatshah,laghman,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Dawlatyar,دولت یار,AF2303,NA,WR,Western,لویدیځه حوزه,dawlatyar,ghor,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,Nusai,NA,NA,NA,Dawraz-e-Bala,دروازبالا ( نیسی),AF1727,NA,NE,North Eastern,سهیل ختیځه حوزه,dawraz_e_bala,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,Mai Mai,NA,Dawraz,NA,Dawraz-e-Payin,درواز پائین (ما می ),AF1722,NA,NE,North Eastern,سهیل ختیځه حوزه,dawraz_e_payin,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Daychopan,دای چوپان,AF2607,NA,SR,Southern,جنوبی حوزه,daychopan,zabul,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Daymirdad,دایمیرداد,AF0406,NA,CR,Capital,مرکزی حوزه,daymirdad,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Deh-e-Shu,دیشو,AF3013,NA,SR,Southern,جنوبی حوزه,deh_e_shu,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,Haska Meyna,NA,NA,NA,Deh Bala,ده بالا,AF0610,NA,ER,Eastern,ختیځه حوزه,deh_bala,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Deh Sabz,ده سبز,AF0105,NA,CR,Capital,مرکزی حوزه,deh_sabz,kabul,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Deh Salah,ده صلاح,AF0908,NA,NE,North Eastern,سهیل ختیځه حوزه,deh_salah,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Deh Yak,ده یک,AF1105,NA,SE,South Eastern,جنوب ختیځه حوزه,deh_yak,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Dehdadi,دهدادی,AF2103,NA,NR,Northern,سهیلی حوزه,dehdadi,balkh,afghanistan
+Afghanistan,افغانستان,AF,Uruzgan,ارزگان,AF25,NA,NA,NA,NA,Dehrawud,دهراود,AF2502,NA,SR,Southern,جنوبی حوزه,dehrawud,uruzgan,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,Dila Wa Khusamand,NA,NA,NA,Dila,دیله,AF1216,NA,SE,South Eastern,جنوب ختیځه حوزه,dila,paktika,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,DoLayna,دو لینه,AF2302,NA,WR,Western,لویدیځه حوزه,dolayna,ghor,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Doshi,دوشی,AF0903,NA,NE,North Eastern,سهیل ختیځه حوزه,doshi,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Duab,دو آب,AF1605,NA,ER,Eastern,ختیځه حوزه,duab,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Dur Baba,دُر بابا,AF0622,NA,ER,Eastern,ختیځه حوزه,dur_baba,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Eshkashem,اشکاشم,AF1723,NA,NE,North Eastern,سهیل ختیځه حوزه,eshkashem,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,Ishkamish,NA,NA,NA,Eshkmesh,اشکمش,AF1811,NA,NE,North Eastern,سهیل ختیځه حوزه,eshkmesh,takhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Estalef,استالف,AF0113,NA,CR,Capital,مرکزی حوزه,estalef,kabul,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,Centre,NA,NA,NA,Farah,فراه,AF3301,NA,WR,Western,لویدیځه حوزه,farah,farah,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Farkhar,فرخار,AF1808,NA,NE,North Eastern,سهیل ختیځه حوزه,farkhar,takhar,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Farsi,فرسی,AF3215,NA,WR,Western,لویدیځه حوزه,farsi,hirat,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Farza,فرزه,AF0112,NA,CR,Capital,مرکزی حوزه,farza,kabul,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,Centre,NA,NA,NA,Fayzabad,فیض آباد,AF1701,NA,NE,North Eastern,سهیل ختیځه حوزه,fayzabad,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Fayzabad,فیض آباد,AF2808,NA,NR,Northern,سهیلی حوزه,fayzabad,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,Fereng,NA,NA,NA,Fereng Wa Gharu,فرنگ وغارو,AF0915,NA,NE,North Eastern,سهیل ختیځه حوزه,fereng_wa_gharu,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,Chagcharan,NA,Centre,NA,Feroz Koh,فیروزکوه,AF2301,NA,WR,Western,لویدیځه حوزه,feroz_koh,ghor,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Feroz Nakhchir,فیروز نخچیر,AF2004,NA,NR,Northern,سهیلی حوزه,feroz_nakhchir,samangan,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,Centre,NA,NA,NA,Gardez,گردیز,AF1301,NA,SE,South Eastern,جنوب ختیځه حوزه,gardez,paktya,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Garmser,گرم سیر,AF3006,NA,SR,Southern,جنوبی حوزه,garmser,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Garzewan,گرزیوان,AF2908,NA,NR,Northern,سهیلی حوزه,garzewan,faryab,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Gelan,گیلان,AF1117,NA,SE,South Eastern,جنوب ختیځه حوزه,gelan,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Ghazi Abad,غازی آباد,AF1511,NA,ER,Eastern,ختیځه حوزه,ghazi_abad,kunar,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,Centre,NA,NA,NA,Ghazni,غزنی,AF1101,NA,SE,South Eastern,جنوب ختیځه حوزه,ghazni,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Ghorak,غورک,AF2709,NA,SR,Southern,جنوبی حوزه,ghorak,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,Syah Gird,NA,NA,NA,Ghorband,غوربند,AF0307,NA,CR,Capital,مرکزی حوزه,ghorband,parwan,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Ghormach,غورماچ,AF3107,NA,WR,Western,لویدیځه حوزه,ghormach,badghis,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Ghoryan,غوریان,AF3211,NA,WR,Western,لویدیځه حوزه,ghoryan,hirat,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Giro,گیرو,AF1112,NA,SE,South Eastern,جنوب ختیځه حوزه,giro,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Giyan,گیان,AF1215,NA,SE,South Eastern,جنوب ختیځه حوزه,giyan,paktika,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,Patoo,NA,NA,NA,Gizab,گیزاب,AF2409,NA,CH,Central Highland,لوړه مرکزی حوزه,gizab,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Gomal,گومل,AF1208,NA,SE,South Eastern,جنوب ختیځه حوزه,gomal,paktika,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,NA,NA,NA,NA,Gosfandi,گوسفندی,AF2206,NA,NR,Northern,سهیلی حوزه,gosfandi,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Goshta,گوشته,AF0614,NA,ER,Eastern,ختیځه حوزه,goshta,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Guldara,گلدره,AF0111,NA,CR,Capital,مرکزی حوزه,guldara,kabul,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Gulistan,گلستان,AF3310,NA,WR,Western,لویدیځه حوزه,gulistan,farah,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Gulran,گلران,AF3208,NA,WR,Western,لویدیځه حوزه,gulran,hirat,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Gurbuz,گربز,AF1403,NA,SE,South Eastern,جنوب ختیځه حوزه,gurbuz,khost,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,Nizam-i-Shahid,NA,NA,NA,Guzara,گذره,AF3203,NA,WR,Western,لویدیځه حوزه,guzara,hirat,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Guzargah-e-Nur,گذرگاه نور,AF0914,NA,NE,North Eastern,سهیل ختیځه حوزه,guzargah_e_nur,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Hazar Sumuch,هزار سموچ,AF1802,NA,NE,North Eastern,سهیل ختیځه حوزه,hazar_sumuch,takhar,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Hazrat-e-Sultan,حضرت سلطان,AF2002,NA,NR,Northern,سهیلی حوزه,hazrat_e_sultan,samangan,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Hesa-e-Awal-e-Behsud,حصه اول بهسود,AF0407,NA,CR,Capital,مرکزی حوزه,hesa_e_awal_e_behsud,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Hesarak,حصارک,AF0621,NA,ER,Eastern,ختیځه حوزه,hesarak,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,Centre,NA,NA,NA,Hirat,هرات,AF3201,NA,WR,Western,لویدیځه حوزه,hirat,hirat,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Hisa-e-Awal-e-Kohistan,حصه اول کوهستان,AF0204,NA,CR,Capital,مرکزی حوزه,hisa_e_awal_e_kohistan,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Hisa-e-Duwum-e-Kohistan,حصه دوم کوهستان,AF0202,NA,CR,Capital,مرکزی حوزه,hisa_e_duwum_e_kohistan,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,Hazrati Imam Sahib,NA,Kalbad,NA,Imam Sahib,امام صاحب,AF1905,NA,NE,North Eastern,سهیل ختیځه حوزه,imam_sahib,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Injil,انجیل,AF3202,NA,WR,Western,لویدیځه حوزه,injil,hirat,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Jabal Saraj,جبل السراج,AF0305,NA,CR,Capital,مرکزی حوزه,jabal_saraj,parwan,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Jaghatu,جغتو,AF0408,NA,CR,Capital,مرکزی حوزه,jaghatu,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,Bahrami Shahid,NA,NA,NA,Jaghatu,جغتو,AF1106,NA,SE,South Eastern,جنوب ختیځه حوزه,jaghatu,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Jaghuri,جاغوری,AF1114,NA,SE,South Eastern,جنوب ختیځه حوزه,jaghuri,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,Alikhel,NA,Aryob,NA,Jaji,علی خیل,AF1307,NA,SE,South Eastern,جنوب ختیځه حوزه,jaji,paktya,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Jaji Maydan,جاجی میدان,AF1413,NA,SE,South Eastern,جنوب ختیځه حوزه,jaji_maydan,khost,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,Centre,NA,NA,NA,Jalalabad,جلال آباد,AF0601,NA,ER,Eastern,ختیځه حوزه,jalalabad,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Jalrez,جلریز,AF0403,NA,CR,Capital,مرکزی حوزه,jalrez,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Jani Khel,جانی خیل,AF1209,NA,SE,South Eastern,جنوب ختیځه حوزه,jani_khel,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,Mangal,NA,NA,NA,Jani Khel,جانی خیل,AF1309,NA,SE,South Eastern,جنوب ختیځه حوزه,jani_khel,paktya,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Jawand,جوند,AF3106,NA,WR,Western,لویدیځه حوزه,jawand,badghis,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Jorm,جرم,AF1710,NA,NE,North Eastern,سهیل ختیځه حوزه,jorm,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Kabul,کابل,AF0101,NA,CR,Capital,مرکزی حوزه,kabul,kabul,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Kahmard,کهمرد,AF1004,NA,CH,Central Highland,لوړه مرکزی حوزه,kahmard,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Kajaki,کجکی,AF3010,NA,SR,Southern,جنوبی حوزه,kajaki,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Kajran,کجران,AF2408,NA,CH,Central Highland,لوړه مرکزی حوزه,kajran,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,Khak-e-Afghan,NA,NA,NA,Kakar,کاکړ,AF2611,NA,SR,Southern,جنوبی حوزه,kakar,zabul,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Kalafgan,کلفگان,AF1807,NA,NE,North Eastern,سهیل ختیځه حوزه,kalafgan,takhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Kalakan,کلکان,AF0110,NA,CR,Capital,مرکزی حوزه,kalakan,kabul,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Kaldar,کلدار,AF2113,NA,NR,Northern,سهیلی حوزه,kaldar,balkh,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Kama,کامه,AF0605,NA,ER,Eastern,ختیځه حوزه,kama,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Kamdesh,کامدیش,AF1606,NA,ER,Eastern,ختیځه حوزه,kamdesh,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,Centre,NA,NA,NA,Kandahar,کندهار,AF2701,NA,SR,Southern,جنوبی حوزه,kandahar,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Nimroz,نیمروز,AF34,NA,NA,NA,NA,Kang,کنگ,AF3402,NA,SR,Southern,جنوبی حوزه,kang,nimroz,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Karukh,کرُخ,AF3204,NA,WR,Western,لویدیځه حوزه,karukh,hirat,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Keshem,کشم,AF1715,NA,NE,North Eastern,سهیل ختیځه حوزه,keshem,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Keshendeh,کشنده,AF2114,NA,NR,Northern,سهیلی حوزه,keshendeh,balkh,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Khadir,خدیر,AF2404,NA,CH,Central Highland,لوړه مرکزی حوزه,khadir,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Khak-e-Jabbar,خاک جبار,AF0109,NA,CR,Capital,مرکزی حوزه,khak_e_jabbar,kabul,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Khak-e-Safed,خاک سفید,AF3303,NA,WR,Western,لویدیځه حوزه,khak_e_safed,farah,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Khakrez,خاکریز,AF2707,NA,SR,Southern,جنوبی حوزه,khakrez,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,Kham Ab,NA,NA,NA,Khamyab,خمیاب,AF2806,NA,NR,Northern,سهیلی حوزه,khamyab,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Khan-e-Char Bagh,خان چارباغ,AF2914,NA,NR,Northern,سهیلی حوزه,khan_e_char_bagh,faryab,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,NA,NA,NA,NA,Khan Abad,خان آباد,AF1904,NA,NE,North Eastern,سهیل ختیځه حوزه,khan_abad,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Khanaqa,خانقا,AF2803,NA,NR,Northern,سهیلی حوزه,khanaqa,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Kharwar,خروار,AF0506,NA,CR,Capital,مرکزی حوزه,kharwar,logar,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Khas Kunar,خاص کنر,AF1510,NA,ER,Eastern,ختیځه حوزه,khas_kunar,kunar,afghanistan
+Afghanistan,افغانستان,AF,Uruzgan,ارزگان,AF25,NA,NA,NA,NA,Khas Uruzgan,خاص ارزگان,AF2505,NA,SR,Southern,جنوبی حوزه,khas_uruzgan,uruzgan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Khash,خاش,AF1705,NA,NE,North Eastern,سهیل ختیځه حوزه,khash,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Nimroz,نیمروز,AF34,NA,NA,NA,NA,Khashrod,خاش رود,AF3405,NA,SR,Southern,جنوبی حوزه,khashrod,nimroz,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,Hisa-e-Awal,NA,NA,NA,Khenj,خنج (حصه اول),AF0804,NA,CR,Capital,مرکزی حوزه,khenj,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Khinjan,خنجان,AF0906,NA,NE,North Eastern,سهیل ختیځه حوزه,khinjan,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Khogyani,خوگیانی,AF0608,NA,ER,Eastern,ختیځه حوزه,khogyani,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Khoshi,خوشی,AF0504,NA,CR,Capital,مرکزی حوزه,khoshi,logar,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,Khost,NA,NA,NA,Khost Wa Fereng,خوست و فرنگ,AF0913,NA,NE,North Eastern,سهیل ختیځه حوزه,khost_wa_fereng,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Khulm,خلم,AF2110,NA,NR,Northern,سهیلی حوزه,khulm,balkh,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Khuram Wa Sarbagh,خرم وسارباغ,AF2003,NA,NR,Northern,سهیلی حوزه,khuram_wa_sarbagh,samangan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Khwahan,خواهان,AF1720,NA,NE,North Eastern,سهیل ختیځه حوزه,khwahan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Khwaja Bahawuddin,خواجه بهاوالدین,AF1814,NA,NE,North Eastern,سهیل ختیځه حوزه,khwaja_bahawuddin,takhar,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Khwaja Dukoh,خواجه دوکوه,AF2802,NA,NR,Northern,سهیلی حوزه,khwaja_dukoh,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Khwaja Ghar,خواجه غار,AF1809,NA,NE,North Eastern,سهیل ختیځه حوزه,khwaja_ghar,takhar,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,Jalga,NA,Jalga Nahrin,NA,Khwaja Hejran,خواجه هجران,AF0909,NA,NE,North Eastern,سهیل ختیځه حوزه,khwaja_hejran,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,Khwaja Sabz Posh-i-Wali,NA,NA,NA,Khwaja Sabz Posh,خواجه سبزپوش,AF2903,NA,NR,Northern,سهیلی حوزه,khwaja_sabz_posh,faryab,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Khwaja Umari,خواجه عمری,AF1103,NA,SE,South Eastern,جنوب ختیځه حوزه,khwaja_umari,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Kiti,کیتی,AF2405,NA,CH,Central Highland,لوړه مرکزی حوزه,kiti,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Kofab,کوف آب,AF1721,NA,NE,North Eastern,سهیل ختیځه حوزه,kofab,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Koh-e-Safi,کوه صافی,AF0308,NA,CR,Capital,مرکزی حوزه,koh_e_safi,parwan,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Koh Band,کوه بند,AF0203,NA,CR,Capital,مرکزی حوزه,koh_band,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,NA,NA,NA,NA,Kohestanat,کوهستانات,AF2203,NA,NR,Northern,سهیلی حوزه,kohestanat,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Kohistan,کوهستان,AF1708,NA,NE,North Eastern,سهیل ختیځه حوزه,kohistan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Kohistan,کوهستان,AF2910,NA,NR,Northern,سهیلی حوزه,kohistan,faryab,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Kohsan,کوهسان,AF3213,NA,WR,Western,لویدیځه حوزه,kohsan,hirat,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Koran Wa Monjan,کران ومنجان,AF1726,NA,NE,North Eastern,سهیل ختیځه حوزه,koran_wa_monjan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Kot,کوټ,AF0613,NA,ER,Eastern,ختیځه حوزه,kot,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,Centre,NA,NA,NA,Kunduz,کندز,AF1901,NA,NE,North Eastern,سهیل ختیځه حوزه,kunduz,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,Rubat-i-Sangi,NA,NA,NA,Kushk,کُشک,AF3207,NA,WR,Western,لویدیځه حوزه,kushk,hirat,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Kushk-e-Kuhna,کُشک کهنه,AF3210,NA,WR,Western,لویدیځه حوزه,kushk_e_kuhna,hirat,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,Khewa,NA,NA,NA,Kuz Kunar,کوز کنر,AF0606,NA,ER,Eastern,ختیځه حوزه,kuz_kunar,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Lal Wa Sarjangal,لعل و سرجنگل,AF2307,NA,WR,Western,لویدیځه حوزه,lal_wa_sarjangal,ghor,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Lalpur,لعل پور,AF0618,NA,ER,Eastern,ختیځه حوزه,lalpur,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Lash-e-Juwayn,لاش جوین,AF3309,NA,WR,Western,لویدیځه حوزه,lash_e_juwayn,farah,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,Centre,NA,NA,NA,Lashkargah,لشکرگاه,AF3001,NA,SR,Southern,جنوبی حوزه,lashkargah,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Lija Ahmad Khel,لجه احمد خیل,AF1308,NA,SE,South Eastern,جنوب ختیځه حوزه,lija_ahmad_khel,paktya,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,Centre,NA,NA,NA,Mahmood-e-Raqi,محمود راقی,AF0201,NA,CR,Capital,مرکزی حوزه,mahmood_e_raqi,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Malistan,مالستان,AF1116,NA,SE,South Eastern,جنوب ختیځه حوزه,malistan,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Mandol,مندول,AF1607,NA,ER,Eastern,ختیځه حوزه,mandol,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Ishmail Khail,NA,NA,NA,Mandozayi,مندوزائی,AF1402,NA,SE,South Eastern,جنوب ختیځه حوزه,mandozayi,khost,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Marawara,مروره,AF1502,NA,ER,Eastern,ختیځه حوزه,marawara,kunar,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Mardyan,مردیان,AF2809,NA,NR,Northern,سهیلی حوزه,mardyan,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Markaz-e-Behsud,مدکز بهسود,AF0409,NA,CR,Capital,مرکزی حوزه,markaz_e_behsud,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Marmul,مارمُل,AF2105,NA,NR,Northern,سهیلی حوزه,marmul,balkh,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Maruf,معروف,AF2715,NA,SR,Southern,جنوبی حوزه,maruf,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Mata Khan,متاخان,AF1202,NA,SE,South Eastern,جنوب ختیځه حوزه,mata_khan,paktika,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Khost,NA,Centre,NA,Matun,خوست (متون),AF1401,NA,SE,South Eastern,جنوب ختیځه حوزه,matun,khost,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,Centre,NA,NA,NA,Maydan Shahr,میدان شهر,AF0401,NA,CR,Capital,مرکزی حوزه,maydan_shahr,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,Centre,NA,NA,NA,Maymana,میمنه,AF2901,NA,NR,Northern,سهیلی حوزه,maymana,faryab,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Maywand,میوند,AF2710,NA,SR,Southern,جنوبی حوزه,maywand,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,Mazar,NA,Centre,NA,Mazar-e-Sharif,مزار شریف,AF2101,NA,NR,Northern,سهیلی حوزه,mazar_e_sharif,balkh,afghanistan
+Afghanistan,افغانستان,AF,Laghman,لغمان,AF07,Laghman Centre,NA,Centre,NA,Mehtarlam,مهتر لام,AF0701,NA,ER,Eastern,ختیځه حوزه,mehtarlam,laghman,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,Farary,NA,NA,NA,Mingajik,منگجک,AF2804,NA,NR,Northern,سهیلی حوزه,mingajik,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Mir Bacha Kot,میر بچه کوت,AF0108,NA,CR,Capital,مرکزی حوزه,mir_bacha_kot,kabul,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Miramor,میرامور,AF2406,NA,CH,Central Highland,لوړه مرکزی حوزه,miramor,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Miyanshin,میانشین,AF2713,NA,SR,Southern,جنوبی حوزه,miyanshin,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Mizan,میزان,AF2604,NA,SR,Southern,جنوبی حوزه,mizan,zabul,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,NA,NA,NA,NA,Mohammad Agha,محمدآغه,AF0505,NA,CR,Capital,مرکزی حوزه,mohammad_agha,logar,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Muhmand Dara,مهمند دره,AF0617,NA,ER,Eastern,ختیځه حوزه,muhmand_dara,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Muqur,مقر,AF1115,NA,SE,South Eastern,جنوب ختیځه حوزه,muqur,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Muqur,مقر,AF3103,NA,WR,Western,لویدیځه حوزه,muqur,badghis,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Musa Khel,موسی خیل,AF1405,NA,SE,South Eastern,جنوب ختیځه حوزه,musa_khel,khost,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Musa Qala,موسی قلعه,AF3009,NA,SR,Southern,جنوبی حوزه,musa_qala,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Musahi,موسهی,AF0107,NA,CR,Capital,مرکزی حوزه,musahi,kabul,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Nad-e-Ali,نادعلی,AF3002,NA,SR,Southern,جنوبی حوزه,nad_e_ali,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Nadir Shah Kot,نادرشاه کوت,AF1406,NA,SE,South Eastern,جنوب ختیځه حوزه,nadir_shah_kot,khost,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,Grishk,NA,NA,NA,Nahr-e-Saraj,نهر سراج,AF3004,NA,SR,Southern,جنوبی حوزه,nahr_e_saraj,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Nahr-e-Shahi,نهر شاهی,AF2102,NA,NR,Northern,سهیلی حوزه,nahr_e_shahi,balkh,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Nahrin,نهرین,AF0904,NA,NE,North Eastern,سهیل ختیځه حوزه,nahrin,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Namak Ab,نمک آب,AF1806,NA,NE,North Eastern,سهیل ختیځه حوزه,namak_ab,takhar,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Narang,نرنگ,AF1504,NA,ER,Eastern,ختیځه حوزه,narang,kunar,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Nari,ناړی,AF1515,NA,ER,Eastern,ختیځه حوزه,nari,kunar,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Nawa,ناوه,AF1119,NA,SE,South Eastern,جنوب ختیځه حوزه,nawa,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Nawa-e-Barakzaiy,ناوه بارکزائی,AF3003,NA,SR,Southern,جنوبی حوزه,nawa_e_barakzaiy,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Nawbahar,نوبهار,AF2609,NA,SR,Southern,جنوبی حوزه,nawbahar,zabul,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Nawur,ناور,AF1110,NA,SE,South Eastern,جنوب ختیځه حوزه,nawur,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Nawzad,نوزاد,AF3007,NA,SR,Southern,جنوبی حوزه,nawzad,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Nazyan,نازیان,AF0620,NA,ER,Eastern,ختیځه حوزه,nazyan,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Nerkh,نرخ,AF0402,NA,CR,Capital,مرکزی حوزه,nerkh,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Nesh,نیش,AF2712,NA,SR,Southern,جنوبی حوزه,nesh,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Nijrab,نجراب,AF0205,NA,CR,Capital,مرکزی حوزه,nijrab,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,Neka,NA,Naka,NA,Nika,نیکه,AF1213,NA,SE,South Eastern,جنوب ختیځه حوزه,nika,paktika,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,Centre,NA,NA,NA,Nili,نیلی,AF2401,NA,CH,Central Highland,لوړه مرکزی حوزه,nili,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Nurgal,نورگل,AF1514,NA,ER,Eastern,ختیځه حوزه,nurgal,kunar,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Nurgaram,نورگرام,AF1604,NA,ER,Eastern,ختیځه حوزه,nurgaram,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,Obi,NA,NA,NA,Obe,اوبی,AF3212,NA,WR,Western,لویدیځه حوزه,obe,hirat,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Omna,اومنه,AF1206,NA,SE,South Eastern,جنوب ختیځه حوزه,omna,paktika,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Pachir Wa Agam,پچیراگام,AF0611,NA,ER,Eastern,ختیځه حوزه,pachir_wa_agam,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Paghman,پغمان,AF0102,NA,CR,Capital,مرکزی حوزه,paghman,kabul,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Panjab,پنجاب,AF1006,NA,CH,Central Highland,لوړه مرکزی حوزه,panjab,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Panjwayi,پنجوائی,AF2704,NA,SR,Southern,جنوبی حوزه,panjwayi,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,Centre,NA,NA,NA,Parun,پرونس,AF1601,NA,ER,Eastern,ختیځه حوزه,parun,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,NA,NA,NA,NA,Paryan,پریان,AF0807,NA,CR,Capital,مرکزی حوزه,paryan,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Pasaband,پسابند,AF2305,NA,WR,Western,لویدیځه حوزه,pasaband,ghor,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Pashtun Kot,پشتون کوټ,AF2902,NA,NR,Northern,سهیلی حوزه,pashtun_kot,faryab,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Pashtun Zarghun,پشتون زرغون,AF3206,NA,WR,Western,لویدیځه حوزه,pashtun_zarghun,hirat,afghanistan
+Afghanistan,افغانستان,AF,Logar,لوگر,AF05,Centre,NA,NA,NA,Pul-e-Alam,پل علم,AF0501,NA,CR,Capital,مرکزی حوزه,pul_e_alam,logar,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Pul-e-Hisar,پل حصار,AF0912,NA,NE,North Eastern,سهیل ختیځه حوزه,pul_e_hisar,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,Centre,NA,NA,NA,Pul-e-Khumri,پلخمری,AF0901,NA,NE,North Eastern,سهیل ختیځه حوزه,pul_e_khumri,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Pur Chaman,پُرچمن,AF3311,NA,WR,Western,لویدیځه حوزه,pur_chaman,farah,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Pushtrod,پشترود,AF3302,NA,WR,Western,لویدیځه حوزه,pushtrod,farah,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,NA,NA,NA,NA,Qadis,قادیس,AF3104,NA,WR,Western,لویدیځه حوزه,qadis,badghis,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Qala-e-Kah,قلعه کاه,AF3304,NA,WR,Western,لویدیځه حوزه,qala_e_kah,farah,afghanistan
+Afghanistan,افغانستان,AF,Badghis,بادغیس,AF31,Centre,NA,NA,NA,Qala-e-Naw,قلعه نو,AF3101,NA,WR,Western,لویدیځه حوزه,qala_e_naw,badghis,afghanistan
+Afghanistan,افغانستان,AF,Kunduz,کندز,AF19,Qalai Zal,NA,NA,NA,Qala-e-Zal,قلعه ذال,AF1907,NA,NE,North Eastern,سهیل ختیځه حوزه,qala_e_zal,kunduz,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Qalandar,قلندر,AF1410,NA,SE,South Eastern,جنوب ختیځه حوزه,qalandar,khost,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,Centre,NA,NA,NA,Qalat,قلات,AF2601,NA,SR,Southern,جنوبی حوزه,qalat,zabul,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Qara Bagh,قره باغ,AF0114,NA,CR,Capital,مرکزی حوزه,qara_bagh,kabul,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Qara Bagh,قره باغ,AF1111,NA,SE,South Eastern,جنوب ختیځه حوزه,qara_bagh,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Qaram Qul,قرم قل,AF2911,NA,NR,Northern,سهیلی حوزه,qaram_qul,faryab,afghanistan
+Afghanistan,افغانستان,AF,Laghman,لغمان,AF07,NA,NA,NA,NA,Qarghayi,قرغه ئی,AF0702,NA,ER,Eastern,ختیځه حوزه,qarghayi,laghman,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Qarqin,قرقین,AF2810,NA,NR,Northern,سهیلی حوزه,qarqin,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Qaysar,قیصار,AF2907,NA,NR,Northern,سهیلی حوزه,qaysar,faryab,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Qurghan,قرغان,AF2912,NA,NR,Northern,سهیلی حوزه,qurghan,faryab,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,NA,NA,NA,NA,Qush Tepa,قوش تیپه,AF2805,NA,NR,Northern,سهیلی حوزه,qush_tepa,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Raghestan,راغستان,AF1714,NA,NE,North Eastern,سهیل ختیځه حوزه,raghestan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Rashidan,رشیدان,AF1109,NA,SE,South Eastern,جنوب ختیځه حوزه,rashidan,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,Shiga,NA,Registan,NA,Reg,ریگ ( شگه ),AF2716,NA,SR,Southern,جنوبی حوزه,reg,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,Reg,NA,NA,NA,Reg-i-Khan Nishin,ریگ خان نشین    ,AF3011,NA,SR,Southern,جنوبی حوزه,reg_i_khan_nishin,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Rodat,رودات,AF0607,NA,ER,Eastern,ختیځه حوزه,rodat,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Rostaq,رُستاق,AF1810,NA,NE,North Eastern,سهیل ختیځه حوزه,rostaq,takhar,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,NA,NA,NA,NA,Rukha,رُخه,AF0802,NA,CR,Capital,مرکزی حوزه,rukha,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Samangan,سمنگان,AF20,NA,NA,NA,NA,Ruy-e-Duab,روی دو آب,AF2005,NA,NR,Northern,سهیلی حوزه,ruy_e_duab,samangan,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Yaqubi,NA,NA,NA,Sabari,صبری,AF1407,NA,SE,South Eastern,جنوب ختیځه حوزه,sabari,khost,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Saghar,ساغر,AF2310,NA,WR,Western,لویدیځه حوزه,saghar,ghor,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Salang,سالنگ,AF0306,NA,CR,Capital,مرکزی حوزه,salang,parwan,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,Sangchark,NA,NA,NA,Sancharak,سانچارك,AF2205,NA,NR,Northern,سهیلی حوزه,sancharak,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Sang-e-Takht,سنگ تخت,AF2407,NA,CH,Central Highland,لوړه مرکزی حوزه,sang_e_takht,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Sangin,سنگین,AF3008,NA,SR,Southern,جنوبی حوزه,sangin,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,Centre,NA,NA,NA,Sar-e-Pul,سرپل,AF2201,NA,NR,Northern,سهیلی حوزه,sar_e_pul,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Sar Kani,سرکانی,AF1505,NA,ER,Eastern,ختیځه حوزه,sar_kani,kunar,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,Sar Hawzah,NA,NA,NA,Sar Rawzah,سرروضه (سرحوضه),AF1205,NA,SE,South Eastern,جنوب ختیځه حوزه,sar_rawzah,paktika,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,NA,NA,NA,NA,Sayad,صیاد,AF2202,NA,NR,Northern,سهیلی حوزه,sayad,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Maidan Wardak,میدان وردک,AF04,NA,NA,NA,NA,Saydabad,سید آباد,AF0405,NA,CR,Capital,مرکزی حوزه,saydabad,maidan_wardak,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Sayed Karam,سیدکرم,AF1306,NA,SE,South Eastern,جنوب ختیځه حوزه,sayed_karam,paktya,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Sayed Khel,سیدخیل,AF0304,NA,CR,Capital,مرکزی حوزه,sayed_khel,parwan,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Sayghan,سیغان,AF1003,NA,CH,Central Highland,لوړه مرکزی حوزه,sayghan,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Shah Joi,شاه جوی,AF2606,NA,SR,Southern,جنوبی حوزه,shah_joi,zabul,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Shah Wali Kot,شاه ولی کوت,AF2706,NA,SR,Southern,جنوبی حوزه,shah_wali_kot,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Uruzgan,ارزگان,AF25,Charchino,NA,NA,NA,Shahid-e-Hassas,شهید حساس,AF2504,NA,SR,Southern,جنوبی حوزه,shahid_e_hassas,uruzgan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Shahr-e-Buzorg,شهر بزرگ,AF1713,NA,NE,North Eastern,سهیل ختیځه حوزه,shahr_e_buzorg,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Shahrak,شهرک,AF2306,NA,WR,Western,لویدیځه حوزه,shahrak,ghor,afghanistan
+Afghanistan,افغانستان,AF,Daykundi,دایکندی,AF24,NA,NA,NA,NA,Shahrestan,شهرستان,AF2402,NA,CH,Central Highland,لوړه مرکزی حوزه,shahrestan,daykundi,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Shakar Dara,شکردره,AF0106,NA,CR,Capital,مرکزی حوزه,shakar_dara,kabul,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Shaki,شکی,AF1724,NA,NE,North Eastern,سهیل ختیځه حوزه,shaki,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Dowa Mandi,NA,NA,NA,Shamal,شمل,AF1412,NA,SE,South Eastern,جنوب ختیځه حوزه,shamal,khost,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Shamul Zayi,شملزائی,AF2610,NA,SR,Southern,جنوبی حوزه,shamul_zayi,zabul,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Sharak-e-Hayratan,شهرک حیرتان,AF2116,NA,NR,Northern,سهیلی حوزه,sharak_e_hayratan,balkh,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,Centre,NA,NA,NA,Sharan,شرن,AF1201,NA,SE,South Eastern,جنوب ختیځه حوزه,sharan,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Shawak,شواک,AF1304,NA,SE,South Eastern,جنوب ختیځه حوزه,shawak,paktya,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Shekh Ali,شیخ علی,AF0310,NA,CR,Capital,مرکزی حوزه,shekh_ali,parwan,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Sherzad,شیرزاد,AF0619,NA,ER,Eastern,ختیځه حوزه,sherzad,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Shibar,شیبر,AF1002,NA,CH,Central Highland,لوړه مرکزی حوزه,shibar,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Jawzjan,جوزجان,AF28,Centre,NA,NA,NA,Shiberghan,شبرغان,AF2801,NA,NR,Northern,سهیلی حوزه,shiberghan,jawzjan,afghanistan
+Afghanistan,افغانستان,AF,Farah,فراه,AF33,NA,NA,NA,NA,Shibkoh,شیب کوه,AF3305,NA,WR,Western,لویدیځه حوزه,shibkoh,farah,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Shigal,شیگل وشلتن,AF1506,NA,ER,Eastern,ختیځه حوزه,shigal,kunar,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Shighnan,شغنان,AF1719,NA,NE,North Eastern,سهیل ختیځه حوزه,shighnan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Shindand,شیندند,AF3214,NA,WR,Western,لویدیځه حوزه,shindand,hirat,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,NA,NA,NA,NA,Shinkay,شینکی,AF2603,NA,SR,Southern,جنوبی حوزه,shinkay,zabul,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,Ghani Khail,NA,NA,NA,Shinwar,شینوار,AF0616,NA,ER,Eastern,ختیځه حوزه,shinwar,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Shinwari,شینواری,AF0303,NA,CR,Capital,مرکزی حوزه,shinwari,parwan,afghanistan
+Afghanistan,افغانستان,AF,Faryab,فاریاب,AF29,NA,NA,NA,NA,Shirin Tagab,شیرین تگاب,AF2906,NA,NR,Northern,سهیلی حوزه,shirin_tagab,faryab,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Sholgareh,شولگره,AF2107,NA,NR,Northern,سهیلی حوزه,sholgareh,balkh,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Shorabak,شور آبک,AF2714,NA,SR,Southern,جنوبی حوزه,shorabak,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Shortepa,شور تیپه,AF2112,NA,NR,Northern,سهیلی حوزه,shortepa,balkh,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Shuhada,شهدا,AF1712,NA,NE,North Eastern,سهیل ختیځه حوزه,shuhada,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Panjsher,پنجشیر,AF08,NA,NA,NA,NA,Shutul,شُتل,AF0806,NA,CR,Capital,مرکزی حوزه,shutul,panjsher,afghanistan
+Afghanistan,افغانستان,AF,Sar-e-Pul,سرپل,AF22,NA,NA,NA,NA,Sozmaqala,سوزمه قلعه,AF2204,NA,NR,Northern,سهیلی حوزه,sozmaqala,sar_e_pul,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,NA,NA,NA,NA,Spera,سپیره,AF1411,NA,SE,South Eastern,جنوب ختیځه حوزه,spera,khost,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Spin Boldak,سپین بولدک,AF2711,NA,SR,Southern,جنوبی حوزه,spin_boldak,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Parwan,پروان,AF03,NA,NA,NA,NA,Surkh-e-Parsa,سرخ پارسا,AF0309,NA,CR,Capital,مرکزی حوزه,surkh_e_parsa,parwan,afghanistan
+Afghanistan,افغانستان,AF,Nangarhar,ننگرهار,AF06,NA,NA,NA,NA,Surkh Rod,سرخ رود,AF0603,NA,ER,Eastern,ختیځه حوزه,surkh_rod,nangarhar,afghanistan
+Afghanistan,افغانستان,AF,Kabul,کابل,AF01,NA,NA,NA,NA,Surobi,سروبی,AF0115,NA,CR,Capital,مرکزی حوزه,surobi,kabul,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Surobi,سروبی,AF1210,NA,SE,South Eastern,جنوب ختیځه حوزه,surobi,paktika,afghanistan
+Afghanistan,افغانستان,AF,Kapisa,کاپیسا,AF02,NA,NA,NA,NA,Tagab,تگاب,AF0206,NA,CR,Capital,مرکزی حوزه,tagab,kapisa,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,Kishmi Bala,NA,NA,NA,Tagab,تگاب,AF1717,NA,NE,North Eastern,سهیل ختیځه حوزه,tagab,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Baghlan,بغلان,AF09,NA,NA,NA,NA,Tala Wa Barfak,تاله وبرفک,AF0911,NA,NE,North Eastern,سهیل ختیځه حوزه,tala_wa_barfak,baghlan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,Centre,NA,NA,NA,Taloqan,تالقان,AF1801,NA,NE,North Eastern,سهیل ختیځه حوزه,taloqan,takhar,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Dargai,NA,NA,NA,Tani,تنی,AF1404,NA,SE,South Eastern,جنوب ختیځه حوزه,tani,khost,afghanistan
+Afghanistan,افغانستان,AF,Zabul,زابل,AF26,Shahr-e-Safa,NA,NA,NA,Tarnak Wa Jaldak,ترنک و جلدک,AF2602,NA,SR,Southern,جنوبی حوزه,tarnak_wa_jaldak,zabul,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Taywarah,تیوره,AF2308,NA,WR,Western,لویدیځه حوزه,taywarah,ghor,afghanistan
+Afghanistan,افغانستان,AF,Khost,خوست,AF14,Ali Sher,NA,NA,NA,Terezayi,تری زائی,AF1408,NA,SE,South Eastern,جنوب ختیځه حوزه,terezayi,khost,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Teshkan,تشکان,AF1711,NA,NE,North Eastern,سهیل ختیځه حوزه,teshkan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Uruzgan,ارزگان,AF25,Centre,NA,NA,NA,Tirinkot,تیرینکوت,AF2501,NA,SR,Southern,جنوبی حوزه,tirinkot,uruzgan,afghanistan
+Afghanistan,افغانستان,AF,Ghor,غور,AF23,NA,NA,NA,NA,Tolak,تولک,AF2309,NA,WR,Western,لویدیځه حوزه,tolak,ghor,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,Tarwe,NA,NA,NA,Turwo,تروو,AF1219,NA,SE,South Eastern,جنوب ختیځه حوزه,turwo,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Urgun,ارگون,AF1211,NA,SE,South Eastern,جنوب ختیځه حوزه,urgun,paktika,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Waghaz,واغظ,AF1104,NA,SE,South Eastern,جنوب ختیځه حوزه,waghaz,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Wakhan,واخان,AF1728,NA,NE,North Eastern,سهیل ختیځه حوزه,wakhan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,Khugyani,NA,NA,NA,Wal-e-Muhammad-e-Shahid,ولی محمد شهید,AF1102,NA,SE,South Eastern,جنوب ختیځه حوزه,wal_e_muhammad_e_shahid,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Wama,واما,AF1603,NA,ER,Eastern,ختیځه حوزه,wama,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Waras,ورث,AF1007,NA,CH,Central Highland,لوړه مرکزی حوزه,waras,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Warduj,وردوج,AF1716,NA,NE,North Eastern,سهیل ختیځه حوزه,warduj,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Warsaj,ورسج,AF1813,NA,NE,North Eastern,سهیل ختیځه حوزه,warsaj,takhar,afghanistan
+Afghanistan,افغانستان,AF,Hilmand,هلمند,AF30,NA,NA,NA,NA,Washer,واشیر,AF3005,NA,SR,Southern,جنوبی حوزه,washer,hilmand,afghanistan
+Afghanistan,افغانستان,AF,Kunar,کنر ها,AF15,NA,NA,NA,NA,Watapur,وته پور,AF1503,NA,ER,Eastern,ختیځه حوزه,watapur,kunar,afghanistan
+Afghanistan,افغانستان,AF,Nuristan,نورستان,AF16,NA,NA,NA,NA,Waygal,وایگل,AF1602,NA,ER,Eastern,ختیځه حوزه,waygal,nuristan,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Wazakhah,وازه خواه,AF1217,NA,SE,South Eastern,جنوب ختیځه حوزه,wazakhah,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Wormamay,وړ ممی,AF1218,NA,SE,South Eastern,جنوب ختیځه حوزه,wormamay,paktika,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Yaftal-e-Sufla,یفتل سفلی,AF1704,NA,NE,North Eastern,سهیل ختیځه حوزه,yaftal_e_sufla,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Yahya Khel,یحی خیل,AF1204,NA,SE,South Eastern,جنوب ختیځه حوزه,yahya_khel,paktika,afghanistan
+Afghanistan,افغانستان,AF,Bamyan,بامیان,AF10,NA,NA,NA,NA,Yakawlang,یکاولنگ,AF1005,NA,CH,Central Highland,لوړه مرکزی حوزه,yakawlang,bamyan,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,Girwan,NA,NA,NA,Yamgan,یمگان,AF1718,NA,NE,North Eastern,سهیل ختیځه حوزه,yamgan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Takhar,تخار,AF18,NA,NA,NA,NA,Yangi Qala,ینگی قلعه,AF1817,NA,NE,North Eastern,سهیل ختیځه حوزه,yangi_qala,takhar,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Yawan,یاوان,AF1709,NA,NE,North Eastern,سهیل ختیځه حوزه,yawan,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Yosuf Khel,یوسف خیل,AF1203,NA,SE,South Eastern,جنوب ختیځه حوزه,yosuf_khel,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,Wuza Zadran,NA,NA,NA,Zadran,حّدران,AF1305,NA,SE,South Eastern,جنوب ختیځه حوزه,zadran,paktya,afghanistan
+Afghanistan,افغانستان,AF,Ghazni,غزنی,AF11,NA,NA,NA,NA,Zanakhan,زنه خان,AF1108,NA,SE,South Eastern,جنوب ختیځه حوزه,zanakhan,ghazni,afghanistan
+Afghanistan,افغانستان,AF,Nimroz,نیمروز,AF34,Centre,NA,NA,NA,Zaranj,زرنج,AF3401,NA,SR,Southern,جنوبی حوزه,zaranj,nimroz,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Zarghun Shahr,زرغون شهر,AF1207,NA,SE,South Eastern,جنوب ختیځه حوزه,zarghun_shahr,paktika,afghanistan
+Afghanistan,افغانستان,AF,Balkh,بلخ,AF21,NA,NA,NA,NA,Zari,زاری,AF2115,NA,NR,Northern,سهیلی حوزه,zari,balkh,afghanistan
+Afghanistan,افغانستان,AF,Badakhshan,بدخشان,AF17,NA,NA,NA,NA,Zebak,زیباک,AF1725,NA,NE,North Eastern,سهیل ختیځه حوزه,zebak,badakhshan,afghanistan
+Afghanistan,افغانستان,AF,Kandahar,کندهار,AF27,NA,NA,NA,NA,Zheray,ژړۍ,AF2705,NA,SR,Southern,جنوبی حوزه,zheray,kandahar,afghanistan
+Afghanistan,افغانستان,AF,Hirat,هرات,AF32,NA,NA,NA,NA,Zindajan,زنده جان,AF3205,NA,WR,Western,لویدیځه حوزه,zindajan,hirat,afghanistan
+Afghanistan,افغانستان,AF,Paktika,پکتیکا,AF12,NA,NA,NA,NA,Ziruk,زیړوک,AF1212,NA,SE,South Eastern,جنوب ختیځه حوزه,ziruk,paktika,afghanistan
+Afghanistan,افغانستان,AF,Paktya,پکتیا,AF13,NA,NA,NA,NA,Zurmat,زُرمت,AF1303,NA,SE,South Eastern,جنوب ختیځه حوزه,zurmat,paktya,afghanistan

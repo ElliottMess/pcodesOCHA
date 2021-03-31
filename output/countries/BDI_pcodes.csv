@@ -1,120 +1,120 @@
-OBJECTID,admin2Name_fr,admin2Pcode,admin2RefName,admin2AltName1_fr,admin2AltName2_fr,admin1Name_fr,admin1Pcode,admin0Name_fr,admin0Pcode,date,validOn,ValidTo
-1,Ryansoro,BDI006010,Ryansoro,Ryansoro (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-2,Ndava,BDI013004,Ndava,Ndava (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-3,Buyengero,BDI018004,Buyengero,Buyengero (Rumonge),NA,Rumonge,BDI018,Burundi,BDI,1442102400000,1509667200000,NA
-4,Bugarama,BDI018002,Bugarama,Bugarama (Rumonge),NA,Rumonge,BDI018,Burundi,BDI,1442102400000,1509667200000,NA
-5,Rumonge,BDI018005,Rumonge,Rumonge (Rumonge),NA,Rumonge,BDI018,Burundi,BDI,1442102400000,1509667200000,NA
-6,Burambi,BDI018003,Burambi,Burambi (Rumonge),NA,Rumonge,BDI018,Burundi,BDI,1442102400000,1509667200000,NA
-7,Kanyosha1,BDI002004,Kanyosha1,Kanyosha1 (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-8,Kabezi,BDI002003,Kabezi,Kabezi (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-9,Muhuta,BDI018001,Muhuta,Muhuta (Rumonge),NA,Rumonge,BDI018,Burundi,BDI,1442102400000,1509667200000,NA
-10,Mukike,BDI002008,Mukike,Mukike (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-11,Mutambu,BDI002009,Mutambu,Mutambu (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-12,Nyabiraba,BDI002012,Nyabiraba,Nyabiraba (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-13,Bururi,BDI003002,Bururi,Bururi (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-14,Vugizo,BDI010006,Vugizo,Vugizo (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
-15,Vyanda,BDI003009,Vyanda,Vyanda (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-16,Rusaka,BDI013006,Rusaka,Rusaka (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-17,Mugamba,BDI003005,Mugamba,Mugamba (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-18,Songa,BDI003008,Songa,Songa (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-19,Mugongomanga,BDI002006,Mugongomanga,Mugongomanga (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-20,Gisozi,BDI013002,Gisozi,Gisozi (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-21,Bisoro,BDI013001,Bisoro,Bisoro (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-22,Matana,BDI003004,Matana,Matana (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-23,Kayokwe,BDI013003,Kayokwe,Kayokwe (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-24,Mpanda,BDI001003,Mpanda,Mpanda (Bubanza),NA,Bubanza,BDI001,Burundi,BDI,1128038400000,1509667200000,NA
-25,Murwi,BDI005005,Murwi,Murwi (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-26,Bubanza,BDI001001,Bubanza,Bubanza (Bubanza),NA,Bubanza,BDI001,Burundi,BDI,1128038400000,1509667200000,NA
-27,Rango,BDI008009,Rango,Rango (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-28,Bukeye,BDI011001,Bukeye,Bukeye (Muramvya),NA,Muramvya,BDI011,Burundi,BDI,1128038400000,1509667200000,NA
-29,Muramvya,BDI011004,Muramvya,Muramvya (Muramvya),NA,Muramvya,BDI011,Burundi,BDI,1128038400000,1509667200000,NA
-30,Isale,BDI002002,Isale,Isale (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-31,Rugazi,BDI001005,Rugazi,Rugazi (Bubanza),NA,Bubanza,BDI001,Burundi,BDI,1128038400000,1509667200000,NA
-32,Mubimbi,BDI002005,Mubimbi,Mubimbi (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-33,Rutegama,BDI011005,Rutegama,Rutegama (Muramvya),NA,Muramvya,BDI011,Burundi,BDI,1128038400000,1509667200000,NA
-34,Kiganda,BDI011002,Kiganda,Kiganda (Muramvya),NA,Muramvya,BDI011,Burundi,BDI,1128038400000,1509667200000,NA
-35,Mbuye,BDI011003,Mbuye,Mbuye (Muramvya),NA,Muramvya,BDI011,Burundi,BDI,1128038400000,1509667200000,NA
-36,Gahombo,BDI008002,Gahombo,Gahombo (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-37,Gatara,BDI008003,Gatara,Gatara (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-38,Butaganzwa,BDI008001,Butaganzwa,Butaganzwa (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-39,Kayanza,BDI008005,Kayanza,Kayanza (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-40,Bugendana,BDI006001,Bugendana,Bugendana (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-41,Musongati,BDI015005,Musongati,Musongati (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-42,Rutana,BDI015006,Rutana,Rutana (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-43,Gitanga,BDI015003,Gitanga,Gitanga (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-44,Makamba,BDI010004,Makamba,Makamba (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
-45,Rutovu,BDI003007,Rutovu,Rutovu (Bururi),NA,Bururi,BDI003,Burundi,BDI,1128038400000,1509667200000,NA
-46,Buraza,BDI006003,Buraza,Buraza (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-47,Nyanrusange,BDI006011,Nyanrusange,Nyanrusange (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-48,Gishubi,BDI006005,Gishubi,Gishubi (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-49,Nyabihanga,BDI013005,Nyabihanga,Nyabihanga (Mwaro),NA,Mwaro,BDI013,Burundi,BDI,1128038400000,1509667200000,NA
-50,Giheta,BDI006004,Giheta,Giheta (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-51,Itaba,BDI006007,Itaba,Itaba (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-52,Bukirasazi,BDI006002,Bukirasazi,Bukirasazi (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-53,Gitega,BDI006006,Gitega,Gitega (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-54,Makebuko,BDI006008,Makebuko,Makebuko (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-55,Butaganzwa1,BDI016001,Butaganzwa1,Butaganzwa1 (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-56,Mpinga-Kayove,BDI015004,Mpinga-Kayove,Mpinga-Kayove (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-57,Nyabitsinda,BDI016006,Nyabitsinda,Nyabitsinda (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-58,Ruyigi,BDI016007,Ruyigi,Ruyigi (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-59,Shombo,BDI007007,Shombo,Shombo (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-60,Butezi,BDI016002,Butezi,Butezi (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-61,Nyabikere,BDI007006,Nyabikere,Nyabikere (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-62,Bweru,BDI016003,Bweru,Bweru (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-63,Gitaramuka,BDI007004,Gitaramuka,Gitaramuka (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-64,Gashikanwa,BDI014002,Gashikanwa,Gashikanwa (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-65,Mutaho,BDI006009,Mutaho,Mutaho (Gitega),NA,Gitega,BDI006,Burundi,BDI,1128038400000,1509667200000,NA
-66,Muhanga,BDI008007,Muhanga,Muhanga (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-67,Ngozi,BDI014006,Ngozi,Ngozi (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-68,Bugenyuzi,BDI007001,Bugenyuzi,Bugenyuzi (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-69,Gihogazi,BDI007003,Gihogazi,Gihogazi (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-70,Ruhororo,BDI014008,Ruhororo,Ruhororo (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-71,Tangara,BDI014009,Tangara,Tangara (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-72,Vumbi,BDI009007,Vumbi,Vumbi (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-73,Kiremba,BDI014003,Kiremba,Kiremba (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-74,Kirundo,BDI009005,Kirundo,Kirundo (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-75,Cankuzo,BDI004001,Cankuzo,Cankuzo (Cankuzo),NA,Cankuzo,BDI004,Burundi,BDI,1128038400000,1509667200000,NA
-76,Mutumba,BDI007005,Mutumba,Mutumba (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-77,Buhiga,BDI007002,Buhiga,Buhiga (Karuzi),NA,Karuzi,BDI007,Burundi,BDI,1128038400000,1509667200000,NA
-78,Mwakiro,BDI012007,Mwakiro,Mwakiro (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-79,Gasorwe,BDI012004,Gasorwe,Gasorwe (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-80,Gashoho,BDI012003,Gashoho,Gashoho (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-81,Gitobe,BDI009004,Gitobe,Gitobe (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-82,Bwambarangwe,BDI009003,Bwambarangwe,Bwambarangwe (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-83,Ntega,BDI009006,Ntega,Ntega (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-84,Marangara,BDI014004,Marangara,Marangara (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-85,Nyamurenza,BDI014007,Nyamurenza,Nyamurenza (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-86,Mwumba,BDI014005,Mwumba,Mwumba (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-87,Busiga,BDI014001,Busiga,Busiga (Ngozi),NA,Ngozi,BDI014,Burundi,BDI,1128038400000,1509667200000,NA
-88,Kabarore,BDI008004,Kabarore,Kabarore (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-89,Bukinanyana,BDI005002,Bukinanyana,Bukinanyana (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-90,Mabayi,BDI005003,Mabayi,Mabayi (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-91,Mugina,BDI005004,Mugina,Mugina (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-92,Rugombo,BDI005006,Rugombo,Rugombo (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-93,Buganda,BDI005001,Buganda,Buganda (Cibitoke),NA,Cibitoke,BDI005,Burundi,BDI,1128038400000,1509667200000,NA
-94,Gihanga,BDI001002,Gihanga,Gihanga (Bubanza),NA,Bubanza,BDI001,Burundi,BDI,1128038400000,1509667200000,NA
-95,Mutimbuzi,BDI002010,Mutimbuzi,Mutimbuzi (Bujumbura Rural),NA,Bujumbura Rural,BDI002,Burundi,BDI,1128038400000,1509667200000,NA
-96,Nyanza-Lac,BDI010005,Nyanza-Lac,Nyanza-Lac (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
-97,Mabanda,BDI010003,Mabanda,Mabanda (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
-98,Giharo,BDI015002,Giharo,Giharo (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-99,Kinyinya,BDI016005,Kinyinya,Kinyinya (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-100,Gisuru,BDI016004,Gisuru,Gisuru (Ruyigi),NA,Ruyigi,BDI016,Burundi,BDI,1128038400000,1509667200000,NA
-101,Cendajuru,BDI004002,Cendajuru,Cendajuru (Cankuzo),NA,Cankuzo,BDI004,Burundi,BDI,1128038400000,1509667200000,NA
-102,Gisagara,BDI004003,Gisagara,Gisagara (Cankuzo),NA,Cankuzo,BDI004,Burundi,BDI,1128038400000,1509667200000,NA
-103,Mishiha,BDI004005,Mishiha,Mishiha (Cankuzo),NA,Cankuzo,BDI004,Burundi,BDI,1128038400000,1509667200000,NA
-104,Kigamba,BDI004004,Kigamba,Kigamba (Cankuzo),NA,Cankuzo,BDI004,Burundi,BDI,1128038400000,1509667200000,NA
-105,Buhinyuza,BDI012001,Buhinyuza,Buhinyuza (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-106,Muyinga,BDI012006,Muyinga,Muyinga (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-107,Butihinda,BDI012002,Butihinda,Butihinda (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-108,Giteranyi,BDI012005,Giteranyi,Giteranyi (Muyinga),NA,Muyinga,BDI012,Burundi,BDI,1128038400000,1509667200000,NA
-109,Busoni,BDI009002,Busoni,Busoni (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-110,Bugabira,BDI009001,Bugabira,Bugabira (Kirundo),NA,Kirundo,BDI009,Burundi,BDI,1128038400000,1509667200000,NA
-111,Kayogoro,BDI010001,Kayogoro,Kayogoro (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
-112,Bukemba,BDI015001,Bukemba,Bukemba (Rutana),NA,Rutana,BDI015,Burundi,BDI,1128038400000,1509667200000,NA
-113,Matongo,BDI008006,Matongo,Matongo (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-114,Muruta,BDI008008,Muruta,Muruta (Kayanza),NA,Kayanza,BDI008,Burundi,BDI,1128038400000,1509667200000,NA
-115,Musigati,BDI001004,Musigati,Musigati (Bubanza),NA,Bubanza,BDI001,Burundi,BDI,1128038400000,1509667200000,NA
-116,Muha,BDI017014,Muha,Muha (Bujumbura Mairie),NA,Bujumbura Mairie,BDI017,Burundi,BDI,1442102400000,1509667200000,NA
-117,Mukaza,BDI017015,Mukaza,Mukaza (Bujumbura Mairie),NA,Bujumbura Mairie,BDI017,Burundi,BDI,1442102400000,1509667200000,NA
-118,Ntahangwa,BDI017016,Ntahangwa,Ntahangwa (Bujumbura Mairie),NA,Bujumbura Mairie,BDI017,Burundi,BDI,1442102400000,1509667200000,NA
-119,Kibago,BDI010002,Kibago,Kibago (Makamba),NA,Makamba,BDI010,Burundi,BDI,1128038400000,1509667200000,NA
+admin0Name_fr,admin0Pcode,admin1Name_fr,admin1Pcode,admin2AltName1_fr,admin2AltName2_fr,admin2Name_fr,admin2Pcode,admin2RefName
+Burundi,BDI,Gitega,BDI006,Ryansoro (Gitega),NA,Ryansoro,BDI006010,Ryansoro
+Burundi,BDI,Mwaro,BDI013,Ndava (Mwaro),NA,Ndava,BDI013004,Ndava
+Burundi,BDI,Rumonge,BDI018,Buyengero (Rumonge),NA,Buyengero,BDI018004,Buyengero
+Burundi,BDI,Rumonge,BDI018,Bugarama (Rumonge),NA,Bugarama,BDI018002,Bugarama
+Burundi,BDI,Rumonge,BDI018,Rumonge (Rumonge),NA,Rumonge,BDI018005,Rumonge
+Burundi,BDI,Rumonge,BDI018,Burambi (Rumonge),NA,Burambi,BDI018003,Burambi
+Burundi,BDI,Bujumbura Rural,BDI002,Kanyosha1 (Bujumbura Rural),NA,Kanyosha1,BDI002004,Kanyosha1
+Burundi,BDI,Bujumbura Rural,BDI002,Kabezi (Bujumbura Rural),NA,Kabezi,BDI002003,Kabezi
+Burundi,BDI,Rumonge,BDI018,Muhuta (Rumonge),NA,Muhuta,BDI018001,Muhuta
+Burundi,BDI,Bujumbura Rural,BDI002,Mukike (Bujumbura Rural),NA,Mukike,BDI002008,Mukike
+Burundi,BDI,Bujumbura Rural,BDI002,Mutambu (Bujumbura Rural),NA,Mutambu,BDI002009,Mutambu
+Burundi,BDI,Bujumbura Rural,BDI002,Nyabiraba (Bujumbura Rural),NA,Nyabiraba,BDI002012,Nyabiraba
+Burundi,BDI,Bururi,BDI003,Bururi (Bururi),NA,Bururi,BDI003002,Bururi
+Burundi,BDI,Makamba,BDI010,Vugizo (Makamba),NA,Vugizo,BDI010006,Vugizo
+Burundi,BDI,Bururi,BDI003,Vyanda (Bururi),NA,Vyanda,BDI003009,Vyanda
+Burundi,BDI,Mwaro,BDI013,Rusaka (Mwaro),NA,Rusaka,BDI013006,Rusaka
+Burundi,BDI,Bururi,BDI003,Mugamba (Bururi),NA,Mugamba,BDI003005,Mugamba
+Burundi,BDI,Bururi,BDI003,Songa (Bururi),NA,Songa,BDI003008,Songa
+Burundi,BDI,Bujumbura Rural,BDI002,Mugongomanga (Bujumbura Rural),NA,Mugongomanga,BDI002006,Mugongomanga
+Burundi,BDI,Mwaro,BDI013,Gisozi (Mwaro),NA,Gisozi,BDI013002,Gisozi
+Burundi,BDI,Mwaro,BDI013,Bisoro (Mwaro),NA,Bisoro,BDI013001,Bisoro
+Burundi,BDI,Bururi,BDI003,Matana (Bururi),NA,Matana,BDI003004,Matana
+Burundi,BDI,Mwaro,BDI013,Kayokwe (Mwaro),NA,Kayokwe,BDI013003,Kayokwe
+Burundi,BDI,Bubanza,BDI001,Mpanda (Bubanza),NA,Mpanda,BDI001003,Mpanda
+Burundi,BDI,Cibitoke,BDI005,Murwi (Cibitoke),NA,Murwi,BDI005005,Murwi
+Burundi,BDI,Bubanza,BDI001,Bubanza (Bubanza),NA,Bubanza,BDI001001,Bubanza
+Burundi,BDI,Kayanza,BDI008,Rango (Kayanza),NA,Rango,BDI008009,Rango
+Burundi,BDI,Muramvya,BDI011,Bukeye (Muramvya),NA,Bukeye,BDI011001,Bukeye
+Burundi,BDI,Muramvya,BDI011,Muramvya (Muramvya),NA,Muramvya,BDI011004,Muramvya
+Burundi,BDI,Bujumbura Rural,BDI002,Isale (Bujumbura Rural),NA,Isale,BDI002002,Isale
+Burundi,BDI,Bubanza,BDI001,Rugazi (Bubanza),NA,Rugazi,BDI001005,Rugazi
+Burundi,BDI,Bujumbura Rural,BDI002,Mubimbi (Bujumbura Rural),NA,Mubimbi,BDI002005,Mubimbi
+Burundi,BDI,Muramvya,BDI011,Rutegama (Muramvya),NA,Rutegama,BDI011005,Rutegama
+Burundi,BDI,Muramvya,BDI011,Kiganda (Muramvya),NA,Kiganda,BDI011002,Kiganda
+Burundi,BDI,Muramvya,BDI011,Mbuye (Muramvya),NA,Mbuye,BDI011003,Mbuye
+Burundi,BDI,Kayanza,BDI008,Gahombo (Kayanza),NA,Gahombo,BDI008002,Gahombo
+Burundi,BDI,Kayanza,BDI008,Gatara (Kayanza),NA,Gatara,BDI008003,Gatara
+Burundi,BDI,Kayanza,BDI008,Butaganzwa (Kayanza),NA,Butaganzwa,BDI008001,Butaganzwa
+Burundi,BDI,Kayanza,BDI008,Kayanza (Kayanza),NA,Kayanza,BDI008005,Kayanza
+Burundi,BDI,Gitega,BDI006,Bugendana (Gitega),NA,Bugendana,BDI006001,Bugendana
+Burundi,BDI,Rutana,BDI015,Musongati (Rutana),NA,Musongati,BDI015005,Musongati
+Burundi,BDI,Rutana,BDI015,Rutana (Rutana),NA,Rutana,BDI015006,Rutana
+Burundi,BDI,Rutana,BDI015,Gitanga (Rutana),NA,Gitanga,BDI015003,Gitanga
+Burundi,BDI,Makamba,BDI010,Makamba (Makamba),NA,Makamba,BDI010004,Makamba
+Burundi,BDI,Bururi,BDI003,Rutovu (Bururi),NA,Rutovu,BDI003007,Rutovu
+Burundi,BDI,Gitega,BDI006,Buraza (Gitega),NA,Buraza,BDI006003,Buraza
+Burundi,BDI,Gitega,BDI006,Nyanrusange (Gitega),NA,Nyanrusange,BDI006011,Nyanrusange
+Burundi,BDI,Gitega,BDI006,Gishubi (Gitega),NA,Gishubi,BDI006005,Gishubi
+Burundi,BDI,Mwaro,BDI013,Nyabihanga (Mwaro),NA,Nyabihanga,BDI013005,Nyabihanga
+Burundi,BDI,Gitega,BDI006,Giheta (Gitega),NA,Giheta,BDI006004,Giheta
+Burundi,BDI,Gitega,BDI006,Itaba (Gitega),NA,Itaba,BDI006007,Itaba
+Burundi,BDI,Gitega,BDI006,Bukirasazi (Gitega),NA,Bukirasazi,BDI006002,Bukirasazi
+Burundi,BDI,Gitega,BDI006,Gitega (Gitega),NA,Gitega,BDI006006,Gitega
+Burundi,BDI,Gitega,BDI006,Makebuko (Gitega),NA,Makebuko,BDI006008,Makebuko
+Burundi,BDI,Ruyigi,BDI016,Butaganzwa1 (Ruyigi),NA,Butaganzwa1,BDI016001,Butaganzwa1
+Burundi,BDI,Rutana,BDI015,Mpinga-Kayove (Rutana),NA,Mpinga-Kayove,BDI015004,Mpinga-Kayove
+Burundi,BDI,Ruyigi,BDI016,Nyabitsinda (Ruyigi),NA,Nyabitsinda,BDI016006,Nyabitsinda
+Burundi,BDI,Ruyigi,BDI016,Ruyigi (Ruyigi),NA,Ruyigi,BDI016007,Ruyigi
+Burundi,BDI,Karuzi,BDI007,Shombo (Karuzi),NA,Shombo,BDI007007,Shombo
+Burundi,BDI,Ruyigi,BDI016,Butezi (Ruyigi),NA,Butezi,BDI016002,Butezi
+Burundi,BDI,Karuzi,BDI007,Nyabikere (Karuzi),NA,Nyabikere,BDI007006,Nyabikere
+Burundi,BDI,Ruyigi,BDI016,Bweru (Ruyigi),NA,Bweru,BDI016003,Bweru
+Burundi,BDI,Karuzi,BDI007,Gitaramuka (Karuzi),NA,Gitaramuka,BDI007004,Gitaramuka
+Burundi,BDI,Ngozi,BDI014,Gashikanwa (Ngozi),NA,Gashikanwa,BDI014002,Gashikanwa
+Burundi,BDI,Gitega,BDI006,Mutaho (Gitega),NA,Mutaho,BDI006009,Mutaho
+Burundi,BDI,Kayanza,BDI008,Muhanga (Kayanza),NA,Muhanga,BDI008007,Muhanga
+Burundi,BDI,Ngozi,BDI014,Ngozi (Ngozi),NA,Ngozi,BDI014006,Ngozi
+Burundi,BDI,Karuzi,BDI007,Bugenyuzi (Karuzi),NA,Bugenyuzi,BDI007001,Bugenyuzi
+Burundi,BDI,Karuzi,BDI007,Gihogazi (Karuzi),NA,Gihogazi,BDI007003,Gihogazi
+Burundi,BDI,Ngozi,BDI014,Ruhororo (Ngozi),NA,Ruhororo,BDI014008,Ruhororo
+Burundi,BDI,Ngozi,BDI014,Tangara (Ngozi),NA,Tangara,BDI014009,Tangara
+Burundi,BDI,Kirundo,BDI009,Vumbi (Kirundo),NA,Vumbi,BDI009007,Vumbi
+Burundi,BDI,Ngozi,BDI014,Kiremba (Ngozi),NA,Kiremba,BDI014003,Kiremba
+Burundi,BDI,Kirundo,BDI009,Kirundo (Kirundo),NA,Kirundo,BDI009005,Kirundo
+Burundi,BDI,Cankuzo,BDI004,Cankuzo (Cankuzo),NA,Cankuzo,BDI004001,Cankuzo
+Burundi,BDI,Karuzi,BDI007,Mutumba (Karuzi),NA,Mutumba,BDI007005,Mutumba
+Burundi,BDI,Karuzi,BDI007,Buhiga (Karuzi),NA,Buhiga,BDI007002,Buhiga
+Burundi,BDI,Muyinga,BDI012,Mwakiro (Muyinga),NA,Mwakiro,BDI012007,Mwakiro
+Burundi,BDI,Muyinga,BDI012,Gasorwe (Muyinga),NA,Gasorwe,BDI012004,Gasorwe
+Burundi,BDI,Muyinga,BDI012,Gashoho (Muyinga),NA,Gashoho,BDI012003,Gashoho
+Burundi,BDI,Kirundo,BDI009,Gitobe (Kirundo),NA,Gitobe,BDI009004,Gitobe
+Burundi,BDI,Kirundo,BDI009,Bwambarangwe (Kirundo),NA,Bwambarangwe,BDI009003,Bwambarangwe
+Burundi,BDI,Kirundo,BDI009,Ntega (Kirundo),NA,Ntega,BDI009006,Ntega
+Burundi,BDI,Ngozi,BDI014,Marangara (Ngozi),NA,Marangara,BDI014004,Marangara
+Burundi,BDI,Ngozi,BDI014,Nyamurenza (Ngozi),NA,Nyamurenza,BDI014007,Nyamurenza
+Burundi,BDI,Ngozi,BDI014,Mwumba (Ngozi),NA,Mwumba,BDI014005,Mwumba
+Burundi,BDI,Ngozi,BDI014,Busiga (Ngozi),NA,Busiga,BDI014001,Busiga
+Burundi,BDI,Kayanza,BDI008,Kabarore (Kayanza),NA,Kabarore,BDI008004,Kabarore
+Burundi,BDI,Cibitoke,BDI005,Bukinanyana (Cibitoke),NA,Bukinanyana,BDI005002,Bukinanyana
+Burundi,BDI,Cibitoke,BDI005,Mabayi (Cibitoke),NA,Mabayi,BDI005003,Mabayi
+Burundi,BDI,Cibitoke,BDI005,Mugina (Cibitoke),NA,Mugina,BDI005004,Mugina
+Burundi,BDI,Cibitoke,BDI005,Rugombo (Cibitoke),NA,Rugombo,BDI005006,Rugombo
+Burundi,BDI,Cibitoke,BDI005,Buganda (Cibitoke),NA,Buganda,BDI005001,Buganda
+Burundi,BDI,Bubanza,BDI001,Gihanga (Bubanza),NA,Gihanga,BDI001002,Gihanga
+Burundi,BDI,Bujumbura Rural,BDI002,Mutimbuzi (Bujumbura Rural),NA,Mutimbuzi,BDI002010,Mutimbuzi
+Burundi,BDI,Makamba,BDI010,Nyanza-Lac (Makamba),NA,Nyanza-Lac,BDI010005,Nyanza-Lac
+Burundi,BDI,Makamba,BDI010,Mabanda (Makamba),NA,Mabanda,BDI010003,Mabanda
+Burundi,BDI,Rutana,BDI015,Giharo (Rutana),NA,Giharo,BDI015002,Giharo
+Burundi,BDI,Ruyigi,BDI016,Kinyinya (Ruyigi),NA,Kinyinya,BDI016005,Kinyinya
+Burundi,BDI,Ruyigi,BDI016,Gisuru (Ruyigi),NA,Gisuru,BDI016004,Gisuru
+Burundi,BDI,Cankuzo,BDI004,Cendajuru (Cankuzo),NA,Cendajuru,BDI004002,Cendajuru
+Burundi,BDI,Cankuzo,BDI004,Gisagara (Cankuzo),NA,Gisagara,BDI004003,Gisagara
+Burundi,BDI,Cankuzo,BDI004,Mishiha (Cankuzo),NA,Mishiha,BDI004005,Mishiha
+Burundi,BDI,Cankuzo,BDI004,Kigamba (Cankuzo),NA,Kigamba,BDI004004,Kigamba
+Burundi,BDI,Muyinga,BDI012,Buhinyuza (Muyinga),NA,Buhinyuza,BDI012001,Buhinyuza
+Burundi,BDI,Muyinga,BDI012,Muyinga (Muyinga),NA,Muyinga,BDI012006,Muyinga
+Burundi,BDI,Muyinga,BDI012,Butihinda (Muyinga),NA,Butihinda,BDI012002,Butihinda
+Burundi,BDI,Muyinga,BDI012,Giteranyi (Muyinga),NA,Giteranyi,BDI012005,Giteranyi
+Burundi,BDI,Kirundo,BDI009,Busoni (Kirundo),NA,Busoni,BDI009002,Busoni
+Burundi,BDI,Kirundo,BDI009,Bugabira (Kirundo),NA,Bugabira,BDI009001,Bugabira
+Burundi,BDI,Makamba,BDI010,Kayogoro (Makamba),NA,Kayogoro,BDI010001,Kayogoro
+Burundi,BDI,Rutana,BDI015,Bukemba (Rutana),NA,Bukemba,BDI015001,Bukemba
+Burundi,BDI,Kayanza,BDI008,Matongo (Kayanza),NA,Matongo,BDI008006,Matongo
+Burundi,BDI,Kayanza,BDI008,Muruta (Kayanza),NA,Muruta,BDI008008,Muruta
+Burundi,BDI,Bubanza,BDI001,Musigati (Bubanza),NA,Musigati,BDI001004,Musigati
+Burundi,BDI,Bujumbura Mairie,BDI017,Muha (Bujumbura Mairie),NA,Muha,BDI017014,Muha
+Burundi,BDI,Bujumbura Mairie,BDI017,Mukaza (Bujumbura Mairie),NA,Mukaza,BDI017015,Mukaza
+Burundi,BDI,Bujumbura Mairie,BDI017,Ntahangwa (Bujumbura Mairie),NA,Ntahangwa,BDI017016,Ntahangwa
+Burundi,BDI,Makamba,BDI010,Kibago (Makamba),NA,Kibago,BDI010002,Kibago

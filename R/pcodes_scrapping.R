@@ -84,14 +84,15 @@ rename_pcodes <- function(pcodes){
 
   col_names <- data.frame(names = names(pcodes)) %>%
     left_join(cols_names_admins, by = c("names" = "original_cols")) %>%
-    filter(!is.na(admin_level)) %>%
+    mutate(admin_level = case_when(is.na(admin_level)~names,
+                                   TRUE ~ admin_level)) %>%
     group_by(admin_level) %>%
-    mutate(
-           admin_level = case_when(
-             n() > 1 & language == "en" ~ admin_level,
+    mutate(admin_level = case_when(
+             n() > 1 & (language == "en"| is.na(language)) ~ admin_level,
              n() > 1 & language == "fr" ~ admin_level,
              n() > 1 & language == "es" ~ admin_level,
              n() > 1 & language == "pt" ~ admin_level,
+             n() == 1 ~ admin_level,
              TRUE ~ names
            ))
 
@@ -131,7 +132,7 @@ all_pcodes <- function(){
 
   all_dfs <- list()
 
-  all_dfs <- lapply(paste0("https://gistmaps.itos.uga.edu", COD_list), country_pcodes_URL) %>%
+  all_dfs <- lapply(COD_list, function(x){country_pcodes_URL(paste0("https://gistmaps.itos.uga.edu", x))}) %>%
     bind_rows()
 
   all_dfs_rearranged <- rename_pcodes(all_dfs)
