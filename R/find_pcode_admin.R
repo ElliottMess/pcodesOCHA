@@ -222,13 +222,6 @@ find_pcodes_one_admin <- function(admin,
                              lowest_admin_name = max_adm_present_adm_name) %>%
     rename_with(.fn = ~paste0(pcode_cols_new), .cols = all_of(pcode_cols))
 
-  # no_match_pcodes <- names(pcodes)[grepl(paste0("admin[",max_adm_present_adm_num +1,"-9]"), names(pcodes))]
-  #
-  # final_pcodes <- pcodes %>%
-  #   filter(!!sym(pcode_col) == !!filtered_pcodes_final) %>%
-  #   mutate(across(matches(!!no_match_pcodes), ~paste0(NA_character_))) %>%
-  #   distinct()
-
   if(nrow(final_pcodes) == 0){
     warning(paste0(admin, " could not be found in OCHA's pcodes servers."))
     if(is.null(google_api_key)){
