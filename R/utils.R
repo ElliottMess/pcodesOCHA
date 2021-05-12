@@ -29,3 +29,27 @@ r3c<-function(vec,name,label){
     print("y and z must have the length")
   }
 }
+#' Normalise string
+#'
+#' Normalise provided string by :
+#' 1. removing extra spaces ([stringr::str_squish()]) and [trimws()]) 2. passing
+#' the string to lower case ([tolower()]) 3. removing all accents
+#' ([stringi::stri_trans_general()]), with id = "Latin-ASCII") 4. removing other
+#' special characters ('[-',.()/ ]') and replacing with '_'
+#'
+#' @param string character string to be normalised. Accepts vectors too.
+#'
+#' @return normalise string
+#'
+#' @export
+#'
+#' @examples
+#' normalise_string("àaF   kgfk")
+normalise_string <- function(string){
+  no_ws <- stringr::str_squish(string)
+  lower <- trimws(tolower(no_ws))
+  no_accent <- stringi::stri_trans_general(lower,"Latin-ASCII")
+  remove_other <- stringr::str_replace_all(no_accent, "[-',.()/ ]", "_")
+
+  return(remove_other)
+}
