@@ -259,10 +259,16 @@ find_pcodes_one_admin <- function(admin,
 #'
 find_pcodes_admin <- function(admin,
                               country_iso3 = NULL,
-                              admin_level = c("admin1", "admin2", "admin3"),
+                              admin_level = NULL,
                               google_api_key = NULL,
                               pcodes_df = NULL,
                               language = NULL){
+
+  if(!is.null(admin_level)){
+    if(!admin_level %in% c("admin1", "admin2", "admin3")){
+    stop("admin_level must either NULL or one of 'admin1', 'admin2', or 'admin3'")
+    }
+  }
   if(length(admin) == 1){
     result <- find_pcodes_one_admin(admin, country_iso3,
                                     admin_level = admin_level,
